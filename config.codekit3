@@ -9,6 +9,142 @@
 	],
 "creatorBuild": "29156",
 "files": {
+	"/bodymovin/customers-main/data.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/bodymovin/customers-main/data-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bodymovin/home/section-cover/data.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/bodymovin/home/section-cover/data-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bodymovin/home/section-cover/demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/bodymovin/home/section-cover/demo.html",
+		"oF": 0
+		},
+	"/bodymovin/home/section-cover/images/img_0.png": {
+		"ft": 32768,
+		"iS": 32185,
+		"oA": 0,
+		"oAP": "/bodymovin/home/section-cover/images/img_0.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/home/section-cover/images/img_1.png": {
+		"ft": 32768,
+		"iS": 3987,
+		"oA": 0,
+		"oAP": "/bodymovin/home/section-cover/images/img_1.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/home/section-cover/images/img_2.png": {
+		"ft": 32768,
+		"iS": 694,
+		"oA": 0,
+		"oAP": "/bodymovin/home/section-cover/images/img_2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/home/section-cover/images/img_3.png": {
+		"ft": 32768,
+		"iS": 666,
+		"oA": 0,
+		"oAP": "/bodymovin/home/section-cover/images/img_3.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/home/section-cover/images/img_4.jpg": {
+		"ft": 16384,
+		"iS": 46185,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/bodymovin/home/section-cover/images/img_4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/bodymovin/home/section-cover/images/img_5.png": {
+		"ft": 32768,
+		"iS": 73562,
+		"oA": 0,
+		"oAP": "/bodymovin/home/section-cover/images/img_5.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/home/section-cover/images/img_6.png": {
+		"ft": 32768,
+		"iS": 50144,
+		"oA": 0,
+		"oAP": "/bodymovin/home/section-cover/images/img_6.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/home/section-cover/images/img_7.png": {
+		"ft": 32768,
+		"iS": 10486,
+		"oA": 0,
+		"oAP": "/bodymovin/home/section-cover/images/img_7.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/home/section-features/feature-1/data.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/bodymovin/home/section-features/feature-1/data-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bodymovin/home/section-features/feature-2/data.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/bodymovin/home/section-features/feature-2/data-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bodymovin/home/section-features/feature-3/data.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/bodymovin/home/section-features/feature-3/data-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/common-footer.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -24,6 +160,592 @@
 		"oA": 0,
 		"oAP": "/common-header.php",
 		"oF": 0
+		},
+	"/customers-main.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/customers-main.php",
+		"oF": 0
+		},
+	"/font/OpenSans-Bold.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/font/OpenSans-Bold.ttf",
+		"oF": 0
+		},
+	"/font/OpenSans-Regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/font/OpenSans-Regular.ttf",
+		"oF": 0
+		},
+	"/font/OpenSans-SemiBold.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/font/OpenSans-SemiBold.ttf",
+		"oF": 0
+		},
+	"/font/SF-Compact-Display-Bold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/font/SF-Compact-Display-Bold.otf",
+		"oF": 0
+		},
+	"/font/SF-Compact-Display-Regular.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/font/SF-Compact-Display-Regular.otf",
+		"oF": 0
+		},
+	"/font/SF-Compact-Display-Semibold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/font/SF-Compact-Display-Semibold.otf",
+		"oF": 0
+		},
+	"/img/common/arrow-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/common/arrow-1.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/arrow-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/arrow-2.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/check-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/check-1.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/cm-section-banner-bg-big.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/cm-section-banner-bg-big.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/cm-section-banner-bg-medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/cm-section-banner-bg-medium.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/Footer@2x.jpg": {
+		"ft": 16384,
+		"iS": 509273,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/common/Footer@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/common/Header@2x-2.png": {
+		"ft": 32768,
+		"iS": 42016,
+		"oA": 0,
+		"oAP": "/img/common/Header@2x-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/common/icn-azimo-black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/icn-azimo-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/icn-quote.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/icn-quote.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/icn-replay.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/icn-replay.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/logo-azimo-white.png": {
+		"ft": 32768,
+		"iS": 10932,
+		"oA": 0,
+		"oAP": "/img/common/logo-azimo-white.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-main/logo-decathlon.png": {
+		"ft": 32768,
+		"iS": 3580,
+		"oA": 0,
+		"oAP": "/img/customers-main/logo-decathlon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-main/logo-seloger.png": {
+		"ft": 32768,
+		"iS": 5220,
+		"oA": 0,
+		"oAP": "/img/customers-main/logo-seloger.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-main/logo-sncf.png": {
+		"ft": 32768,
+		"iS": 6572,
+		"oA": 0,
+		"oAP": "/img/customers-main/logo-sncf.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-main/section-platforms/logo-agram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-platforms/logo-agram.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-main/section-platforms/logo-azimo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-platforms/logo-azimo.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-main/section-platforms/logo-campings.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-platforms/logo-campings.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-main/section-platforms/logo-cdiscount.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-platforms/logo-cdiscount.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-main/section-platforms/logo-devialet.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-platforms/logo-devialet.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-main/section-platforms/logo-eve.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-platforms/logo-eve.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-main/section-platforms/logo-seloger.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-platforms/logo-seloger.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-main/section-platforms/logo-sncf.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-platforms/logo-sncf.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-main/section-platforms/logo-velib.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-platforms/logo-velib.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-main/section-platforms/logo-wedou.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-platforms/logo-wedou.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-main/section-quotes-bg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-main/section-quotes-bg.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/icn-quote-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/home/icn-quote-1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-features/icn-illu-feature-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-features/icn-illu-feature-1.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-features/icn-illu-feature-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-features/icn-illu-feature-2.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-features/icn-illu-feature-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-features/icn-illu-feature-3.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-features/illu-feature-1.png": {
+		"ft": 32768,
+		"iS": 124329,
+		"oA": 0,
+		"oAP": "/img/home/section-features/illu-feature-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/home/section-logos/icn-agram.png": {
+		"ft": 32768,
+		"iS": 6805,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-agram.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/home/section-logos/icn-azimo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-azimo.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-logos/icn-c.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-c.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-logos/icn-campings.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-campings.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-logos/icn-cdiscount.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-cdiscount.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-logos/icn-devialet.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-devialet.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-logos/icn-eve.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-eve.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-logos/icn-seloger.png": {
+		"ft": 32768,
+		"iS": 10842,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-seloger.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/home/section-logos/icn-sncf.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-sncf.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-logos/icn-velib.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-velib.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-logos/icn-wedou.png": {
+		"ft": 32768,
+		"iS": 5241,
+		"oA": 0,
+		"oAP": "/img/home/section-logos/icn-wedou.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/home/section-platforms/logo-avaya.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-platforms/logo-avaya.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-platforms/logo-genesys.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-platforms/logo-genesys.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-platforms/logo-google.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-platforms/logo-google.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-platforms/logo-gtag.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-platforms/logo-gtag.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-platforms/logo-magento.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-platforms/logo-magento.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-platforms/logo-prestashop.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-platforms/logo-prestashop.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-platforms/logo-shopify.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-platforms/logo-shopify.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-platforms/logo-woo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-platforms/logo-woo.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-platforms/logo-zendesk.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-platforms/logo-zendesk.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-quotes-obj-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-quotes-obj-1.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/home/section-quotes-obj-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/home/section-quotes-obj-2.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
 		},
 	"/img/img-test/background-1.jpg": {
 		"ft": 16384,
@@ -80,6 +802,197 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/img/product/cover-obj-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/cover-obj-1.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/cover-obj-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/cover-obj-2.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/cover-obj-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/cover-obj-3.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/logo-API.png": {
+		"ft": 32768,
+		"iS": 5083,
+		"oA": 0,
+		"oAP": "/img/product/logo-API.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/product/logo-GoogleTag.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/logo-GoogleTag.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/logo-Shopify.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/logo-Shopify.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-check.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-check.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-cross.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-cross.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-with-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-with-1.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-with-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-with-2.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-with-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-with-3.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-with-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-with-4.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-with-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-with-5.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-with-6.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-with-6.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-without-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-without-1.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-without-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-without-2.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-without-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-without-3.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-without-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-without-4.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-smartly/icn-without-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-smartly/icn-without-5.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -87,6 +1000,103 @@
 		"oA": 0,
 		"oAP": "/index.php",
 		"oF": 0
+		},
+	"/product-call-recording.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/product-call-recording.php",
+		"oF": 0
+		},
+	"/product-customer-data-in-call.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/product-customer-data-in-call.php",
+		"oF": 0
+		},
+	"/product-data-analytics.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/product-data-analytics.php",
+		"oF": 0
+		},
+	"/product-shopify.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/product-shopify.php",
+		"oF": 0
+		},
+	"/product-smart-plugs.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/product-smart-plugs.php",
+		"oF": 0
+		},
+	"/product-smart-voice-support.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/product-smart-voice-support.php",
+		"oF": 0
+		},
+	"/product-web-calls.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/product-web-calls.php",
+		"oF": 0
+		},
+	"/product-zendesk.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/product-zendesk.php",
+		"oF": 0
+		},
+	"/script/js/bodymovin.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/bodymovin-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/script/js/common.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/common-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/script/js/customers-main.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/customers-main-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
 		},
 	"/script/js/index.js": {
 		"bF": 0,
@@ -106,6 +1116,61 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/script/minify/jQuery.3.3.1-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/script/js/product-common.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/product-common-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/script/minify/bodymovin-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/bodymovin-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/script/minify/common-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/common-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/script/minify/customers-main-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/customers-main-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/script/minify/data-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/data-min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -132,6 +1197,27 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/script/minify/product-common-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/product-common-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/style/css/customers-main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/customers-main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/style/css/home.css": {
 		"aP": 1,
 		"bl": 0,
@@ -139,6 +1225,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/style/css/home-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/style/css/product-common.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/product-common-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -152,6 +1248,19 @@
 		"oA": 1,
 		"oAP": "/style/css/common.css",
 		"oF": 2,
+		"oS": 3,
+		"uL": 1
+		},
+	"/style/scss/customers-main.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/customers-main.css",
+		"oF": 0,
 		"oS": 3,
 		"uL": 1
 		},
@@ -191,6 +1300,19 @@
 		"oA": 0,
 		"oAP": "/style/css/home.css",
 		"oF": 2,
+		"oS": 3,
+		"uL": 1
+		},
+	"/style/scss/product-common.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/product-common.css",
+		"oF": 0,
 		"oS": 3,
 		"uL": 1
 		}
