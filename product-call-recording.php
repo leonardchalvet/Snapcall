@@ -64,14 +64,13 @@
 						<div class="el sectionAnim_container">
 							<div class="text">
 								<h3 class="elAnim__slide anim__delayMedium_0">
-									Customer journey.
+									Get quick access to the data that matters to you.
 								</h3>
 								<p class="elAnim__slide anim__delayMedium_1">
-									Offer voice support only on complex points of their journey. Select the pages where the smart button should be displayed.
+									Visualize and filter all your call recordings. All is one-click away.
 								</p>
 								<div class="container-logos elAnim__slide anim__delayMedium_2">
-									<img src="img/product/logo-Shopify.svg" alt="">
-									<img src="img/product/logo-GoogleTag.svg" alt="">
+									<img src="img/product/logo-GDPR.svg" alt="">
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
@@ -82,15 +81,11 @@
 						<div class="el sectionAnim_container">
 							<div class="text">
 								<h3 class="elAnim__slide anim__delayMedium_0">
-									Customer journey.
+									Analyse call recordings in two different channels.
 								</h3>
 								<p class="elAnim__slide anim__delayMedium_1">
-									Offer voice support only on complex points of their journey. Select the pages where the smart button should be displayed.
+									Save time and listen to each party recordings separately. Assess your team’s performance, customer satisfaction and sentiment. 
 								</p>
-								<div class="container-logos elAnim__slide anim__delayMedium_2">
-									<img src="img/product/logo-Shopify.svg" alt="">
-									<img src="img/product/logo-GoogleTag.svg" alt="">
-								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
 								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -108,7 +103,7 @@
 						<div class="quote">
 							<div class="head">
 								<div class="name">
-									Alessandro Angioni 1
+									Alessandro Angioni
 								</div>
 								<div class="job">
 									<img src="img/common/logo-azimo-white.png" alt="">
@@ -122,7 +117,7 @@
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote.svg" alt="">
 										<q class="wrapLine">
-											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
+											When a client is calling us our agents are able to <i>address them on a personal level, greeting</i> them by their own name and having a good idea of why they are contacting us, even before picking up the call.
 										</q>
 									</div>
 								</div>
@@ -152,11 +147,11 @@
 						<div class="quote">
 							<div class="head">
 								<div class="name">
-									Alessandro Angioni 2
+									Jakub Pelczar
 								</div>
 								<div class="job">
 									<img src="img/common/logo-azimo-white.png" alt="">
-									<span>Business Account Manager</span>
+									<span>Front-End Software Engineer of Azimo</span>
 								</div>
 							</div>
 							<div class="content">
@@ -166,7 +161,7 @@
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote.svg" alt="">
 										<q class="wrapLine">
-											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
+											Azimo’s <i>voice support</i> is only offered to <i>certain types of customers</i> according to the frequency and value and their transactions. SnapCall’s flexible API is allowing us to continuously shape this support according to our ever changing priorities and customer’s behavior.
 										</q>
 									</div>
 								</div>
@@ -196,11 +191,11 @@
 						<div class="quote">
 							<div class="head">
 								<div class="name">
-									Alessandro Angioni 3
+									Sébastien Blanc
 								</div>
 								<div class="job">
 									<img src="img/common/logo-azimo-white.png" alt="">
-									<span>Business Account Manager</span>
+									<span>Head of Marketing of SeLoger</span>
 								</div>
 							</div>
 							<div class="content">
@@ -210,7 +205,7 @@
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote.svg" alt="">
 										<q class="wrapLine">
-											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
+											With SnapCall we are finally able to easily track <i>calls from</i> web visitors to the agency on each property listed on our website. Today we are able to track several user actions and analyse our conversion rates, like clicks to call, picked and dropped calls. We are also gathering valuable customer insights such as their location and used devices.
 										</q>
 									</div>
 								</div>
@@ -247,7 +242,7 @@
 
 				<div class="wrapper">
 					<div class="container-text">
-						<h2 class="elAnim__slide anim__delayMedium_1">Ready to super power your business with voice?</h2>
+						<h2 class="elAnim__slide anim__delayMedium_1">Be always on the loop.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
 							<a href="" class="cm-button-style1">
 								<span class="btn-text">Get Started</span>
