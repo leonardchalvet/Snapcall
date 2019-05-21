@@ -1,0 +1,242 @@
+<html>
+	<head>
+
+		<title>Product - Shopify</title>
+
+		<meta name="description" content="" />
+
+		<meta http-equiv="content-type" content="text/html; charset=utf8" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" type="text/css" href="style/css/product-common.css">
+
+		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
+
+		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
+
+	</head>
+	
+	<body>
+
+		<?php include('common-header.php') ?>
+
+		<main>
+
+			<section id="section-cover" class="sectionAnim_container">
+				<img class="obj-1" src="img/product/cover-obj-1.svg" alt="">
+				<img class="obj-2" src="img/product/cover-obj-2.svg" alt="">
+				<img class="obj-3" src="img/product/cover-obj-3.svg" alt="">
+				<div class="wrapper">
+					<div class="container-text">
+						<h2 class="elAnim__slide anim__delayMedium_0">
+							Shopify
+						</h2>
+						<h1 class="elAnim__slide anim__delayMedium_1">
+							The first call button for Shopify stores.
+						</h1>
+					</div>
+					<div class="container-action elAnim__slide anim__delayMedium_3">
+						<div class="line"></div>
+						<a href="" class="cm-button-style1">
+							<span class="btn-text">Get Started</span>
+							<span class="container-btn-arrow">
+								<svg class="btn-arrow" viewBox="0 0 23 22">
+								   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
+								</svg>
+							</span>
+						</a>
+					</div>
+				</div>
+			</section>
+
+			<section id="section-features">
+				<div class="wrapper">
+					<div class="container-text sectionAnim_container">
+						<h2 class="elAnim__slide anim__delayMedium_0">
+							Super-power your ecommerce with voice.
+						</h2>
+						<p class="elAnim__slide anim__delayMedium_1">
+							Phone systems can be too complex. We made talking to your customers as simple as a click.
+						</p>
+					</div>
+					<div class="container-el">
+						<div class="el sectionAnim_container">
+							<div class="text">
+								<h3 class="elAnim__slide anim__delayMedium_0">
+									Receive calls from your website.
+								</h3>
+								<p class="elAnim__slide anim__delayMedium_1">
+									Keep your customers engaged on their shopping experience when placing calls.
+								</p>
+								<div class="container-button elAnim__slide anim__delayMedium_2">
+									<a href="">
+										<span class="btn-text">Explore Web Calls</span>
+									</a>
+								</div>
+							</div>
+							<div class="container-illu elAnim__fade anim__delayMedium_3">
+								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+							</div>
+						</div>
+
+						<div class="el sectionAnim_container">
+							<div class="text">
+								<h3 class="elAnim__slide anim__delayMedium_0">
+									Decide who gets to call you.
+								</h3>
+								<p class="elAnim__slide anim__delayMedium_1">
+									Unlike phone numbers, SnapCall allows you to choose how to be reachable according different criteria.
+								</p>
+								<ul>
+									<li class="elAnim__slide anim__delayMedium_2">
+										<img class="icn" src="img/common/check-1.svg" alt="">
+										<h3>
+											Customer journey
+										</h3>
+									</li>
+									<li class="elAnim__slide anim__delayMedium_3">
+										<img class="icn" src="img/common/check-1.svg" alt="">
+										<h3>
+											Customer attributed value
+										</h3>
+									</li>
+									<li class="elAnim__slide anim__delayMedium_4">
+										<img class="icn" src="img/common/check-1.svg" alt="">
+										<h3>
+											Customer segmentation and profile
+										</h3>
+									</li>
+									<li class="elAnim__slide anim__delayMedium_5">
+										<img class="icn" src="img/common/check-1.svg" alt="">
+										<h3>
+											Team availability
+										</h3>
+									</li>
+								</ul>
+								<div class="container-button elAnim__slide anim__delayMedium_6">
+									<a href="">
+										<span class="btn-text">Explore Smart Voice Support</span>
+									</a>
+								</div>
+							</div>
+							<div class="container-illu elAnim__fade anim__delayMedium_3">
+								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+							</div>
+						</div>
+
+						<div class="el sectionAnim_container">
+							<div class="text">
+								<h3 class="elAnim__slide anim__delayMedium_0">
+									Set flexible shedules.
+								</h3>
+								<p class="elAnim__slide anim__delayMedium_1">
+									Switch on and off your call buttons according to your preferences and availability.
+								</p>
+								<div class="container-button elAnim__slide anim__delayMedium_2">
+									<a href="">
+										<span class="btn-text">Explore smart voice support</span>
+									</a>
+								</div>
+							</div>
+							<div class="container-illu elAnim__fade anim__delayMedium_3">
+								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+							</div>
+						</div>
+
+						<div class="el sectionAnim_container">
+							<div class="text">
+								<h3 class="elAnim__slide anim__delayMedium_0">
+									Analyze the impact of calls and gain customer insights.
+								</h3>
+								<p class="elAnim__slide anim__delayMedium_1">
+									Track what you couldn't track before. Get valuable data on your live Dashboard.
+								</p>
+								<ul>
+									<li class="elAnim__slide anim__delayMedium_2">
+										<img class="icn" src="img/common/check-1.svg" alt="">
+										<h3>
+											Past calls, missed calls, on-going calls,  dropped calls,  call attempts
+										</h3>
+									</li>
+									<li class="elAnim__slide anim__delayMedium_3">
+										<img class="icn" src="img/common/check-1.svg" alt="">
+										<h3>
+											Events on Google Analytics:
+											intent, duration and call rating
+										</h3>
+									</li>
+								</ul>
+								<div class="container-button elAnim__slide anim__delayMedium_4">
+									<a href="">
+										<span class="btn-text">Explore Data & Analytics</span>
+									</a>
+								</div>
+							</div>
+							<div class="container-illu elAnim__fade anim__delayMedium_3">
+								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="section-carousel" class="sectionAnim_container">
+				<div class="wrapper">
+					<div class="container-img elAnim__slide anim__delayMedium_0">
+						<div class="container-el">
+							<div class="el el-1" style="background-image: url(img/product/photo.jpg);"></div>
+							<div class="el el-2" style="background-image: url(img/product/photo.jpg);"></div>
+							<div class="el el-3" style="background-image: url(img/product/photo.jpg);"></div>
+							<div class="el el-4" style="background-image: url(img/product/photo.jpg);"></div>
+						</div>
+					</div>
+					<div class="container-text">
+						<h2 class="elAnim__slide anim__delayMedium_1">
+							Connect SnapCall buttons to your <i>mobile number.</i>
+						</h2>
+						<p class="elAnim__slide anim__delayMedium_2">
+							It works with what you already have in place as support. Plug and chill.
+						</p>
+						<div class="container-steps elAnim__slide anim__delayMedium_3">
+							<div class="step prev" data-el="el-1"></div>
+							<div class="step active" data-el="el-2"></div>
+							<div class="step next" data-el="el-3"></div>
+							<div class="step next" data-el="el-4"></div>
+						</div>
+					</div>
+				</div>
+				
+			</section>
+
+			<section id="cm-section-banner" class="sectionAnim_container">
+				<img class="bg-desktop-medium elAnim__fade anim__delayMedium_0" src="img/common/cm-section-banner-bg-medium.svg" alt="">
+				<img class="bg-desktop-big elAnim__fade anim__delayMedium_0" src="img/common/cm-section-banner-bg-big.svg" alt="">
+
+				<div class="wrapper">
+					<div class="container-text">
+						<h2 class="elAnim__slide anim__delayMedium_1">Your ecommerce already feels smarter</h2>
+						<div class="container-button elAnim__slide anim__delayMedium_2">
+							<a href="" class="cm-button-style1">
+								<span class="btn-text">Get Started</span>
+								<span class="container-btn-arrow">
+									<svg class="btn-arrow" viewBox="0 0 23 22">
+									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
+									</svg>
+								</span>
+							</a>
+						</div>
+						
+					</div>
+				</div>
+			</section>
+
+		</main>
+
+		<?php include('common-footer.php') ?>
+
+		<script type="text/javascript" src="script/minify/product-common-min.js"></script>
+
+		<script type="text/javascript" src="script/minify/common-min.js"></script>
+	</body>
+</html>
