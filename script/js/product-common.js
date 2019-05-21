@@ -74,21 +74,26 @@ $(window).on('load', function() {
 
 	};
 
-	sectionQuotesCarouselQuotes(
-		7000,
-		'#section-quotes',  
-		".container-quotes .quote",
-		".container-nav .nav"
-	);
+	if ( $( "#section-quotes" ).length ) {
+		sectionQuotesCarouselQuotes(
+			7000,
+			'#section-quotes',  
+			".container-quotes .quote",
+			".container-nav .nav"
+		);
+	}
 
 
 	/* SECTION QUOTES */
-	/*sectionCarousel(
-		5000,
-		'#section-carousel',  
-		".container-steps .step", 
-		".container-img .container-el .el"
-	);*/
+	
+	if ( $( "#section-carousel" ).length ) {
+		sectionCarousel(
+			5000,
+			'#section-carousel',  
+			".container-steps .step", 
+			".container-img .container-el .el"
+		);
+	}
 
 	/* SECTION QUOTES */
 	function sectionCarousel(Delay, Section, El, Pp){
