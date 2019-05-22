@@ -90,28 +90,36 @@
 								</p>
 								<ul>
 									<li class="elAnim__slide anim__delayMedium_2">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Customer journey
-										</h3>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Customer journey
+											</h3>
+										</div>
 									</li>
 									<li class="elAnim__slide anim__delayMedium_3">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Customer attributed value
-										</h3>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Customer attributed value
+											</h3>
+										</div>
 									</li>
 									<li class="elAnim__slide anim__delayMedium_4">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Customer segmentation and profile
-										</h3>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Customer segmentation and profile
+											</h3>
+										</div>
 									</li>
 									<li class="elAnim__slide anim__delayMedium_5">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Team availability
-										</h3>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Team availability
+											</h3>
+										</div>
 									</li>
 								</ul>
 								<div class="container-button elAnim__slide anim__delayMedium_6">
@@ -154,17 +162,21 @@
 								</p>
 								<ul>
 									<li class="elAnim__slide anim__delayMedium_2">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Past calls, missed calls, on-going calls,  dropped calls,  call attempts
-										</h3>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Past calls, missed calls, on-going calls,  dropped calls,  call attempts
+											</h3>
+										</div>
 									</li>
 									<li class="elAnim__slide anim__delayMedium_3">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Events on Google Analytics:
-											intent, duration and call rating
-										</h3>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Events on Google Analytics:
+												intent, duration and call rating
+											</h3>
+										</div>
 									</li>
 								</ul>
 								<div class="container-button elAnim__slide anim__delayMedium_4">
@@ -185,19 +197,47 @@
 				<div class="wrapper">
 					<div class="container-img elAnim__slide anim__delayMedium_0">
 						<div class="container-el">
-							<div class="el el-1" style="background-image: url(img/product/photo.jpg);"></div>
-							<div class="el el-2" style="background-image: url(img/product/photo.jpg);"></div>
-							<div class="el el-3" style="background-image: url(img/product/photo.jpg);"></div>
-							<div class="el el-4" style="background-image: url(img/product/photo.jpg);"></div>
+							<div class="el el-1" style="background-image: url(img/product/section-carrousel/photo-1.jpg);"></div>
+							<div class="el el-2" style="background-image: url(img/product/section-carrousel/photo-2.jpg);"></div>
+							<div class="el el-3" style="background-image: url(img/product/section-carrousel/photo-3.jpg);"></div>
+							<div class="el el-4" style="background-image: url(img/product/section-carrousel/photo-4.jpg);"></div>
 						</div>
 					</div>
 					<div class="container-text">
-						<h2 class="elAnim__slide anim__delayMedium_1">
-							Connect SnapCall buttons to your <i>mobile number.</i>
-						</h2>
-						<p class="elAnim__slide anim__delayMedium_2">
-							It works with what you already have in place as support. Plug and chill.
-						</p>
+						<div class="container-el">
+							<div class="el el-1">
+								<h2 class="elAnim__slide anim__delayMedium_1">
+									Connect SnapCall buttons to your <i>mobile number.</i>
+								</h2>
+								<p class="elAnim__slide anim__delayMedium_2">
+									It works with what you already have in place as support. Plug and chill.
+								</p>
+							</div>
+							<div class="el el-2">
+								<h2 class="elAnim__slide anim__delayMedium_1">
+									Connect SnapCall buttons to your <i>landline.</i>
+								</h2>
+								<p class="elAnim__slide anim__delayMedium_2">
+									It works with what you already have in place as support. Plug and chill.
+								</p>
+							</div>
+							<div class="el el-3">
+								<h2 class="elAnim__slide anim__delayMedium_1">
+									Connect SnapCall buttons to your <i>phone system.</i>
+								</h2>
+								<p class="elAnim__slide anim__delayMedium_2">
+									It works with what you already have in place as support. Plug and chill.
+								</p>
+							</div>
+							<div class="el el-4">
+								<h2 class="elAnim__slide anim__delayMedium_1">
+									Connect SnapCall buttons to your <i>zendesk support.</i>
+								</h2>
+								<p class="elAnim__slide anim__delayMedium_2">
+									It works with what you already have in place as support. Plug and chill.
+								</p>
+							</div>
+						</div>
 						<div class="container-steps elAnim__slide anim__delayMedium_3">
 							<div class="step prev" data-el="el-1"></div>
 							<div class="step active" data-el="el-2"></div>

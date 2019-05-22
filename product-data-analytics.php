@@ -71,35 +71,44 @@
 								</p>
 								<ul>
 									<li class="elAnim__slide anim__delayMedium_2">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Picked up calls
-										</h3>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Picked up calls
+											</h3>
+										</div>
 									</li>
 									<li class="elAnim__slide anim__delayMedium_3">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Dropped calls
-										</h3>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Dropped calls
+											</h3>
+										</div>
 									</li>
 									<li class="elAnim__slide anim__delayMedium_4">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Missed Calls
-										</h3>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Missed Calls
+											</h3>
+										</div>
 									</li>
 									<li class="elAnim__slide anim__delayMedium_5">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Call attempt
-										</h3>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Call attempt
+											</h3>
+										</div>
 									</li>
 									<li class="elAnim__slide anim__delayMedium_6">
-										<img class="icn" src="img/common/check-1.svg" alt="">
-										<h3>
-											Filter per : <span> date, call type, score, agents, clients, call buttons.</span>
-										</h3>
-										</p>
+										<div class="row">
+											<img class="icn" src="img/common/check-1.svg" alt="">
+											<h3>
+												Filter per : <span> date, call type, score, agents, clients, call buttons.</span>
+											</h3>
+										</div>
 									</li>
 								</ul>
 							</div>
