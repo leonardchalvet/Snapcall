@@ -303,7 +303,7 @@
 				</div>
 			</section>
 
-			<section id="section-features" class="sectionAnim_container">
+			<section id="cm-section-features" class="sectionAnim_container">
 				<div class="wrapper">
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_0">
