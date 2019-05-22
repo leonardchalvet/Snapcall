@@ -615,6 +615,12 @@ main
 #cm-section-features{
 	position: relative;
 	background-color: #3B655B;
+	.obj-1 {
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		width: 86.5px;
+	}
 	.wrapper{
 		position: relative;
 		@include styleGrid3;
