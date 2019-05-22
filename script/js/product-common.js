@@ -91,29 +91,32 @@ $(window).on('load', function() {
 			5000,
 			'#section-carousel',  
 			".container-steps .step", 
-			".container-img .container-el .el"
+			".container-img .container-el .el",
+			".container-text .container-el .el"
 		);
 	}
 
 	/* SECTION QUOTES */
-	function sectionCarousel(Delay, Section, El, Pp){
+	function sectionCarousel(Delay, Section, El, Pp, Hp){
 
 		El = Section + ' ' + El;
 		Pp = Section + ' ' + Pp;
+		Hp = Section + ' ' + Hp;
 
-		var valDelay = 0;
-		var numberEl = $(El).length;
-		var countEl;
+		let valDelay = 0;
+		let numberEl = $(El).length;
+		let countEl;
 		
-		var drtc;
+		let drtc;
 
-		var state;
+		let state;
 
 		function prg(drtc){
 
 			state = false;
 
-			var elPp = Pp;
+			let elPp = Pp;
+			let elHp = Hp;
 
 			if (drtc === 'next') {
 				countEl++;
@@ -140,6 +143,13 @@ $(window).on('load', function() {
 					    function(e) {
 
 				    $(elPp + '.hide').removeClass('hide').addClass('wait');
+				    
+				});
+
+				$(elHp + '.active').removeClass('active').addClass('hide').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend',   
+					    function(e) {
+
+				    $(elHp + '.hide').removeClass('hide').addClass('wait');
 				    state = true;
 
 				});
@@ -166,6 +176,8 @@ $(window).on('load', function() {
 			$(El + ':nth-child(1)').show().addClass('active');
 			$(Pp + ':nth-child(2)').addClass('active');
 			$(Pp + ':not(:nth-child(2))').addClass('wait');
+			$(Hp + ':nth-child(2)').addClass('active');
+			$(Hp + ':not(:nth-child(2))').addClass('wait');
 		};
 
 		init();
