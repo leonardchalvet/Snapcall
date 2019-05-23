@@ -113,7 +113,7 @@
 								</ul>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe class="illu" src="https://player.vimeo.com/video/337786727?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -127,23 +127,10 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<img class="illu" src="img/product/section-features/data-analytics-illu-2.svg">
 							</div>
 						</div>
 
-						<div class="el sectionAnim_container">
-							<div class="text">
-								<h3 class="elAnim__slide anim__delayMedium_0">
-									Customer journey.
-								</h3>
-								<p class="elAnim__slide anim__delayMedium_1">
-									Offer voice support only on complex points of their journey. Select the pages where the smart button should be displayed.
-								</p>
-							</div>
-							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-							</div>
-						</div>
 						<div class="el sectionAnim_container">
 							<div class="text">
 								<h3 class="elAnim__slide anim__delayMedium_0">
@@ -154,20 +141,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-							</div>
-						</div>
-						<div class="el sectionAnim_container">
-							<div class="text">
-								<h3 class="elAnim__slide anim__delayMedium_0">
-									Customer journey.
-								</h3>
-								<p class="elAnim__slide anim__delayMedium_1">
-									Offer voice support only on complex points of their journey. Select the pages where the smart button should be displayed.
-								</p>
-							</div>
-							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe class="illu" src="https://player.vimeo.com/video/337786782?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 						<div class="el sectionAnim_container">
@@ -180,7 +154,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<img class="illu" src="img/product/section-features/data-analytics-illu-4.svg">
 							</div>
 						</div>
 						<div class="el sectionAnim_container">
@@ -193,7 +167,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe class="illu" src="https://player.vimeo.com/video/337786823?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 						<div class="el sectionAnim_container">
@@ -206,14 +180,14 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<img class="illu" src="img/product/section-features/data-analytics-illu-6.svg">
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
 
-			<section id="section-quotes" class="sectionAnim_container">
+			<section class="cm-section-quotes green sectionAnim_container">
 				<div class="wrapper">
 					<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
 					<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">

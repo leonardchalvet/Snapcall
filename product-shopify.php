@@ -76,7 +76,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<img class="illu" src="img/product/section-features/shopify-illu-1.svg">
 							</div>
 						</div>
 
@@ -129,7 +129,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe class="illu" src="https://player.vimeo.com/video/337786995?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -148,7 +148,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe class="illu" src="https://player.vimeo.com/video/337995276?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -186,7 +186,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<img class="illu" src="img/product/section-features/shopify-illu-4.svg">
 							</div>
 						</div>
 					</div>

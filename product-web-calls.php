@@ -71,7 +71,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe class="illu" src="https://player.vimeo.com/video/337787141?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -85,7 +85,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe class="illu" src="https://player.vimeo.com/video/337951306?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -99,7 +99,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/335425469?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<img class="illu-2" src="img/product/section-features/web-call-illu-3.svg" alt="">
 							</div>
 						</div>
 					</div>
@@ -142,7 +142,7 @@
 				</div>
 			</section>
 
-			<section id="section-quotes" class="sectionAnim_container">
+			<section class="cm-section-quotes green sectionAnim_container">
 				<div class="wrapper">
 					<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
 					<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">
