@@ -54,19 +54,47 @@
 				<div class="wrapper">
 					<div class="container-img elAnim__slide anim__delayMedium_0">
 						<div class="container-el">
-							<div class="el el-1" style="background-image: url(img/img-test/user.jpg);"></div>
-							<div class="el el-2" style="background-image: url(img/img-test/user.jpg);"></div>
-							<div class="el el-3" style="background-image: url(img/img-test/user.jpg);"></div>
-							<div class="el el-4" style="background-image: url(img/img-test/user.jpg);"></div>
+							<div class="el el-1" style="background-image: url(img/product/section-carrousel/photo-1.jpg);"></div>
+							<div class="el el-2" style="background-image: url(img/product/section-carrousel/photo-2.jpg);"></div>
+							<div class="el el-3" style="background-image: url(img/product/section-carrousel/photo-3.jpg);"></div>
+							<div class="el el-4" style="background-image: url(img/product/section-carrousel/photo-4.jpg);"></div>
 						</div>
 					</div>
 					<div class="container-text">
-						<h2 class="elAnim__slide anim__delayMedium_1">
-							Connect SnapCall buttons to your mobile number.
-						</h2>
-						<p class="elAnim__slide anim__delayMedium_2">
-							It works with what you already have in place as support. Plug and chill
-						</p>
+						<div class="container-el">
+							<div class="el el-1">
+								<h2 class="elAnim__slide anim__delayMedium_1">
+									Connect SnapCall buttons to your <i>mobile number.</i>
+								</h2>
+								<p class="elAnim__slide anim__delayMedium_2">
+									It works with what you already have in place as support. Plug and chill.
+								</p>
+							</div>
+							<div class="el el-2">
+								<h2 class="elAnim__slide anim__delayMedium_1">
+									Connect SnapCall buttons to your <i>landline.</i>
+								</h2>
+								<p class="elAnim__slide anim__delayMedium_2">
+									It works with what you already have in place as support. Plug and chill.
+								</p>
+							</div>
+							<div class="el el-3">
+								<h2 class="elAnim__slide anim__delayMedium_1">
+									Connect SnapCall buttons to your <i>phone system.</i>
+								</h2>
+								<p class="elAnim__slide anim__delayMedium_2">
+									It works with what you already have in place as support. Plug and chill.
+								</p>
+							</div>
+							<div class="el el-4">
+								<h2 class="elAnim__slide anim__delayMedium_1">
+									Connect SnapCall buttons to your <i>zendesk support.</i>
+								</h2>
+								<p class="elAnim__slide anim__delayMedium_2">
+									It works with what you already have in place as support. Plug and chill.
+								</p>
+							</div>
+						</div>
 						<div class="container-steps elAnim__slide anim__delayMedium_3">
 							<div class="step prev" data-el="el-1"></div>
 							<div class="step active" data-el="el-2"></div>
@@ -84,10 +112,10 @@
 						<div class="el sectionAnim_container">
 							<div class="text">
 								<h3 class="elAnim__slide anim__delayMedium_0">
-									Customer journey.
+									Connect SnapCall buttons to specific agents or teams.
 								</h3>
 								<p class="elAnim__slide anim__delayMedium_1">
-									Offer voice support only on complex points of their journey. Select the pages where the smart button should be displayed.
+									Go even more granular and enable crazy quick connections. Ace the customer experience on a different level.
 								</p>
 								<div class="container-logos elAnim__slide anim__delayMedium_2">
 									<img src="img/product/logo-Shopify.svg" alt="">
@@ -110,7 +138,7 @@
 						<div class="quote">
 							<div class="head">
 								<div class="name">
-									Alessandro Angioni 1
+									Alessandro Angioni
 								</div>
 								<div class="job">
 									<img src="img/common/logo-azimo-white.png" alt="">
@@ -124,7 +152,7 @@
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote.svg" alt="">
 										<q class="wrapLine">
-											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
+											When a client is calling us our agents are able to <i>address them on a personal level, greeting</i> them by their own name and having a good idea of why they are contacting us, even before picking up the call.
 										</q>
 									</div>
 								</div>
@@ -154,11 +182,11 @@
 						<div class="quote">
 							<div class="head">
 								<div class="name">
-									Alessandro Angioni 2
+									Jakub Pelczar
 								</div>
 								<div class="job">
 									<img src="img/common/logo-azimo-white.png" alt="">
-									<span>Business Account Manager</span>
+									<span>Front-End Software Engineer of Azimo</span>
 								</div>
 							</div>
 							<div class="content">
@@ -168,7 +196,7 @@
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote.svg" alt="">
 										<q class="wrapLine">
-											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
+											Azimo’s <i>voice support</i> is only offered to <i>certain types of customers</i> according to the frequency and value and their transactions. SnapCall’s flexible API is allowing us to continuously shape this support according to our ever changing priorities and customer’s behavior.
 										</q>
 									</div>
 								</div>
@@ -198,11 +226,11 @@
 						<div class="quote">
 							<div class="head">
 								<div class="name">
-									Alessandro Angioni 3
+									Sébastien Blanc
 								</div>
 								<div class="job">
 									<img src="img/common/logo-azimo-white.png" alt="">
-									<span>Business Account Manager</span>
+									<span>Head of Marketing of SeLoger</span>
 								</div>
 							</div>
 							<div class="content">
@@ -212,7 +240,7 @@
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote.svg" alt="">
 										<q class="wrapLine">
-											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
+											With SnapCall we are finally able to easily track <i>calls from</i> web visitors to the agency on each property listed on our website. Today we are able to track several user actions and analyse our conversion rates, like clicks to call, picked and dropped calls. We are also gathering valuable customer insights such as their location and used devices.
 										</q>
 									</div>
 								</div>
@@ -249,7 +277,7 @@
 
 				<div class="wrapper">
 					<div class="container-text">
-						<h2 class="elAnim__slide anim__delayMedium_1">Ready to super power your business with voice?</h2>
+						<h2 class="elAnim__slide anim__delayMedium_1">Enable swift connections and warn conversations.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
 							<a href="" class="cm-button-style1">
 								<span class="btn-text">Get Started</span>
