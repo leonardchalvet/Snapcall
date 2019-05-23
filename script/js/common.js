@@ -34,6 +34,11 @@ $(window).on('load', function() {
 	};
 	$window.scroll(function() {
 	    animScroll();
+	    if ( $window.scrollTop() >= 1 ) {
+	        $('#header-desktop').addClass('scroll');
+	    } else {
+	    	$('#header-desktop').removeClass('scroll');
+	    };
 	});
 	animScroll();
 
