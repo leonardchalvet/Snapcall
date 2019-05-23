@@ -194,9 +194,13 @@ main
 		$paragraphSmall_lineheight_desktop: 24px;
 
 
-	/*----------  LINK  ----------*/
-		$link_textsize_desktop: 16px;
-		$link_lineheight_desktop: 24px;
+	/*----------  LINK BIG ----------*/
+		$linkBig_textsize_desktop: 18px;
+		$linkBig_lineheight_desktop: 24px;
+
+	/*----------  LINK MEDIUM ----------*/
+		$linkMedium_textsize_desktop: 14px;
+		$linkMedium_lineheight_desktop: 19px;
 
 /*=====  End of TEXT SIZE  ======*/
 
@@ -369,12 +373,20 @@ main
 			line-height: $paragraphSmall_lineheight_desktop;
 		}
 
-		/*----------  PARAGRAPH SMALL  ----------*/
-		@mixin styleLink{
+		/*----------  LINK BIG  ----------*/
+		@mixin styleLinkBig{
 			color: $colorMain_8;
 			font-family: $font_2_Bold;
-			font-size: $link_textsize_desktop;
-			line-height: $link_lineheight_desktop;
+			font-size: $linkBig_textsize_desktop;
+			line-height: $linkBig_lineheight_desktop;
+		}
+
+		/*----------  LINK MEDIUM  ----------*/
+		@mixin styleLinkMedium{
+			color: $colorMain_8;
+			font-family: $font_2_Bold;
+			font-size: $linkMedium_textsize_desktop;
+			line-height: $linkMedium_lineheight_desktop;
 		}
 
 
@@ -469,8 +481,8 @@ main
 				
 				.btn-text{
 					opacity: 0;
-					font-size: $link_textsize_desktop;
-					line-height: $link_lineheight_desktop;
+					font-size: $linkBig_textsize_desktop;
+					line-height: $linkBig_lineheight_desktop;
 					font-family: $font_2_Bold;
 					position: relative;
 					transition: all 0.1s ease;
@@ -530,8 +542,8 @@ main
 				.btn-text{
 					transition: all 0.25s ease;
 					font-family: $font_2_Bold;
-					font-size: $link_textsize_desktop;
-					line-height: $link_lineheight_desktop;
+					font-size: $linkMedium_textsize_desktop;
+					line-height: $linkMedium_lineheight_desktop;
 				}
 			}
 

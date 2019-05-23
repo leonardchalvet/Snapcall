@@ -36,7 +36,7 @@
 					flex-flow: row wrap;
 					align-items: center;
 					span{
-						@include styleLink;
+						@include styleLinkMedium;
 					}
 					img{
 						width: 7px;
@@ -54,7 +54,7 @@
 			flex-flow: row wrap;
 			align-items: center;
 			.signin{
-				@include styleLink;
+				@include styleLinkMedium;
 				text-decoration: none;
 				margin-right: 35px;
 			}

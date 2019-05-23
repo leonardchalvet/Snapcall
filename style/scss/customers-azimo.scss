@@ -762,7 +762,7 @@
 					justify-content: space-between;
 					text-decoration: none;
 					span{
-						@include styleLink;
+						@include styleLinkBig;
 					}
 					.arrow{
 						height: 10px;
