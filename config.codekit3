@@ -161,6 +161,14 @@
 		"oAP": "/common-header.php",
 		"oF": 0
 		},
+	"/customers-azimo.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/customers-azimo.php",
+		"oF": 0
+		},
 	"/customers-main.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -329,6 +337,147 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/img/customers-azimo/blog-section-head-cover.png": {
+		"ft": 32768,
+		"iS": 348884,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/blog-section-head-cover.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/blog-section-pres-2-img-1.png": {
+		"ft": 32768,
+		"iS": 95645,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/blog-section-pres-2-img-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/blog-section-pres-2-img-2.png": {
+		"ft": 32768,
+		"iS": 94509,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/blog-section-pres-2-img-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/blog-section-pres-2-img-3.png": {
+		"ft": 32768,
+		"iS": 93972,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/blog-section-pres-2-img-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/blog-section-pres-2-img-4.png": {
+		"ft": 32768,
+		"iS": 94762,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/blog-section-pres-2-img-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/blog-section-pres-2-img-5.png": {
+		"ft": 32768,
+		"iS": 92625,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/blog-section-pres-2-img-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/blog-section-pres-2-img-6.png": {
+		"ft": 32768,
+		"iS": 62119,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/blog-section-pres-2-img-6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/blog-section-pres-img-1.png": {
+		"ft": 32768,
+		"iS": 160464,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/blog-section-pres-img-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/blog-section-pres-img-2.png": {
+		"ft": 32768,
+		"iS": 137567,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/blog-section-pres-img-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/blog-section-pres-obj.png": {
+		"ft": 32768,
+		"iS": 61920,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/blog-section-pres-obj.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/IMG_6987.jpg": {
+		"ft": 16384,
+		"iS": 1402963,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/IMG_6987.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/logo-azimo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/logo-azimo.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-azimo/logo-snapcall.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/logo-snapcall.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
 		},
 	"/img/customers-main/logo-decathlon.png": {
 		"ft": 32768,
@@ -1087,6 +1236,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/script/js/customers-azimo.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/customers-azimo-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/script/js/customers-main.js": {
 		"bF": 0,
 		"ft": 64,
@@ -1153,6 +1313,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/script/minify/customers-azimo-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/customers-azimo-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/script/minify/customers-main-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -1208,6 +1379,16 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/style/css/customers-azimo.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/customers-azimo-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/style/css/customers-main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1248,6 +1429,19 @@
 		"oA": 1,
 		"oAP": "/style/css/common.css",
 		"oF": 2,
+		"oS": 3,
+		"uL": 1
+		},
+	"/style/scss/customers-azimo.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/customers-azimo.css",
+		"oF": 0,
 		"oS": 3,
 		"uL": 1
 		},
