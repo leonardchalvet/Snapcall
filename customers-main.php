@@ -57,7 +57,7 @@
 				</div>
 			</section>	
 
-			<section class="section-quotes section-quotes-1 sectionAnim_container">
+			<section class="cm-section-quotes section-quotes-1 nomarge sectionAnim_container">
 				<div class="wrapper elAnim__fade">
 					<div class="container-quotes">
 						<div class="quote">
@@ -354,7 +354,7 @@
 				</div>
 			</section>
 
-			<section class="section-quotes section-quotes-2 sectionAnim_container">
+			<section class="cm-section-quotes section-quotes-2 large green nomarge sectionAnim_container">
 				<div class="wrapper elAnim__fade">
 					<div class="container-quotes">
 						<div class="quote">
