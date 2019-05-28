@@ -265,6 +265,16 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
+	"/img/common/check-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/check-2.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/img/common/cm-section-banner-bg-big.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -292,6 +302,16 @@
 		"oAP": "/img/common/cm-section-features.svg",
 		"oF": 0,
 		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/cross.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/cross.svg",
+		"oF": 1,
+		"opt": 1,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -1127,11 +1147,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/product/section-features/call-recording-illu-1.svg": {
+	"/img/product/section-features/call-recording-illu-2.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/product/section-features/call-recording-illu-1.svg",
+		"oAP": "/img/product/section-features/call-recording-illu-2.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
@@ -1187,11 +1207,11 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/product/section-features/shopify-illu-2.svg": {
+	"/img/product/section-features/shopify-illu-4.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/product/section-features/shopify-illu-2.svg",
+		"oAP": "/img/product/section-features/shopify-illu-4.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
@@ -1202,16 +1222,6 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/img/product/section-features/web-call-illu-3.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
-		},
-	"/img/product/section-features/zendesk-illu-5.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/zendesk-illu-5.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
@@ -1506,6 +1516,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/script/js/tarifs.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/tarifs-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/script/minify/bodymovin-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -1594,6 +1615,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/script/minify/tarifs-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/tarifs-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/style/css/customers-azimo.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1631,6 +1663,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/style/css/product-common-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/style/css/tarifs.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/tarifs-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1724,6 +1766,27 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
+		},
+	"/style/scss/tarifs.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/tarifs.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/tarifs.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/tarifs.php",
+		"oF": 0
 		}
 	},
 "hooks": [

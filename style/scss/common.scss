@@ -36,7 +36,6 @@ body, html {
 	height: 100%;
 }
 * {
-	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
 h1, h2, h3, h4, h5, h6, i
@@ -539,6 +538,7 @@ main
 			  	padding: 13px 26px 13px 26px;
 			  	border-radius: 16px;
 			  	transition: all 0.25s ease;
+			  	justify-content: center;
 				.btn-text{
 					transition: all 0.25s ease;
 					font-family: $font_2_Bold;
@@ -580,6 +580,20 @@ main
 					background-color: #FFF;
 					.btn-text{
 						color: #3B655B;
+					}
+				}
+			}
+
+			@mixin buttonStyle2-color4{
+				@include buttonStyle2-common;
+				border: 1.5px solid  #3B655B;
+				.btn-text{
+					color:  #3B655B
+				}
+				&:hover{
+					background-color:  #3B655B;
+					.btn-text{
+						color: #FFF;
 					}
 				}
 			}
