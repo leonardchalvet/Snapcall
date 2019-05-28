@@ -1,0 +1,68 @@
+@import 'common.scss';
+@import 'header.scss';
+
+/*===============================
+=            PAGE 404           =
+================================*/
+
+#section-content {
+	padding-top: 150px;
+	position: relative;
+
+	height: 100vh;
+
+	.wrapper {
+		position: relative;
+		@include styleGrid4;
+	}
+	.obj {
+		position: absolute;
+		&.obj-1 {
+			top: 180px;
+			left: -40px;
+			width: 315px;
+			height: 100px;
+		}
+		&.obj-2 {
+			top: 340px;
+			left: 240px;
+			width: 85px;
+			height: 45px;
+		}
+		&.obj-3 {
+			top: 170px;
+			right: -95px;
+			width: 500px;
+			height: 300px;
+		}
+	}
+	.container-text {
+		margin: auto;
+		width: 360px;
+		h1 {
+			@include styleH1;
+			span {
+				color: $colorMain_1;
+			}
+		}
+		p{
+			margin-top: 50px;
+			border-left: 2px solid $colorMain_1;
+			padding-left: 48px;
+			@include styleParagraphBig;
+			color: $colorMain_8; 
+		}
+		.container-button{
+			margin: 50px 0px 0px 0px;
+			a{
+				@include buttonStyle1-color2;
+			}
+		}
+	}
+}
+
+/*===================================
+=            END PAGE 404           =
+====================================*/
+
+@import 'footer.scss';
