@@ -1,0 +1,81 @@
+@import 'common.scss';
+@import 'header.scss';
+
+/*==============================================
+=            PAGE TERMS & CONDITIONS           =
+===============================================*/
+
+#section-content {
+	padding-top: 150px;
+	.wrapper {
+		@include styleGrid3;
+	}
+	.container-title {
+		margin: auto;
+		width: 600px;
+		text-align: center;
+		h2{
+			@include styleH4;
+			color: $colorMain_1;
+			margin-bottom: 30px;
+		}
+		h1{
+			@include styleH2;
+		}
+	}
+	.content {
+		padding-top: 200px;
+		padding-bottom: 175px;
+		h3 {
+			@include styleH3;
+			margin-bottom: 30px;
+		}
+		h4 {
+			@include styleH4;
+			margin-bottom: 30px;
+		}
+		h5 {
+			@include styleH6;
+			margin-bottom: 16px;
+		}
+		p {
+			&:nth-child(2) {
+				@include styleH6;
+			}
+			@include styleParagraphSmall;
+			margin-bottom: 40px;
+
+			a {
+				text-decoration: none;
+				@include styleH6;
+				color: $colorMain_1;
+			}
+		}
+		.table {
+			margin-bottom: 55px;
+			.row {
+				padding-top: 17px;
+				display: flex;
+				justify-content: space-between;
+				&:not(:last-child) {
+					border-bottom: 1px solid #DCDCDC;
+				}
+				p:first-child {
+					max-width: 350px;
+					@include styleH6;
+				}
+				p:last-child {
+					text-align: right;
+					max-width: 500px;
+					@include styleParagraphSmall;
+				}
+			}
+		}
+	}
+}
+
+/*==================================================
+=            END PAGE TERMS & CONDITIONS           =
+===================================================*/
+
+@import 'footer.scss';

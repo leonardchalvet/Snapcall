@@ -422,12 +422,12 @@
 		},
 	"/img/about/section-partners/logo-laFrenchTech.png": {
 		"ft": 32768,
-		"iS": 3346,
+		"iS": 3434,
 		"oA": 0,
 		"oAP": "/img/about/section-partners/logo-laFrenchTech.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -618,10 +618,10 @@
 	"/img/common/logo-seloger.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/logo-seloger.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -1467,10 +1467,10 @@
 	"/img/product/section-features/shopify-illu-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/product/section-features/shopify-illu-1.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -1546,6 +1546,28 @@
 		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
+		},
+	"/img/product/section-quotes/user-1.jpg": {
+		"ft": 16384,
+		"iS": 8611,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-quotes/user-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/product/section-quotes/user-2.jpg": {
+		"ft": 16384,
+		"iS": 7347,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-quotes/user-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/img/product/section-smartly/icn-check.svg": {
 		"ft": 2097152,
@@ -2028,6 +2050,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/style/css/terms.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/terms-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/style/scss/404.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -2158,12 +2190,33 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"/style/scss/terms.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/terms.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"/tarifs.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/tarifs.php",
+		"oF": 0
+		},
+	"/terms.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/terms.php",
 		"oF": 0
 		}
 	},
