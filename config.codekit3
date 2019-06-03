@@ -9,6 +9,22 @@
 	],
 "creatorBuild": "29156",
 "files": {
+	"/404.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/404.php",
+		"oF": 0
+		},
+	"/about.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/about.php",
+		"oF": 0
+		},
 	"/bodymovin/customers-main/data.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -225,6 +241,227 @@
 		"oAP": "/font/SF-Compact-Display-Semibold.otf",
 		"oF": 0
 		},
+	"/img/404/obj-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/404/obj-1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/404/obj-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/404/obj-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/404/obj-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/404/obj-3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/about/cover-photo.jpg": {
+		"ft": 16384,
+		"iS": 143102,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/cover-photo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-carrousel/obj-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/about/section-carrousel/obj-1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/about/section-carrousel/obj-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/about/section-carrousel/obj-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/about/section-carrousel/photo-1.png": {
+		"ft": 32768,
+		"iS": 1144270,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/photo-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/about/section-carrousel/photo-2.png": {
+		"ft": 32768,
+		"iS": 1144270,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/photo-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/about/section-carrousel/photo-3.png": {
+		"ft": 32768,
+		"iS": 1144270,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/photo-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/about/section-carrousel/photo-4.png": {
+		"ft": 32768,
+		"iS": 1144270,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/photo-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/about/section-numbers/photo-1.jpg": {
+		"ft": 16384,
+		"iS": 61884,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-numbers/photo-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-numbers/photo-2.jpg": {
+		"ft": 16384,
+		"iS": 67375,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-numbers/photo-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-numbers/photo-3.jpg": {
+		"ft": 16384,
+		"iS": 52264,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-numbers/photo-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-numbers/photo-4.jpg": {
+		"ft": 16384,
+		"iS": 66536,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-numbers/photo-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-partners/logo-franceDigitale.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/about/section-partners/logo-franceDigitale.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/about/section-partners/logo-isai.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/about/section-partners/logo-isai.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/about/section-partners/logo-lafayette.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/about/section-partners/logo-lafayette.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/about/section-partners/logo-laFrenchTech.png": {
+		"ft": 32768,
+		"iS": 3346,
+		"oA": 0,
+		"oAP": "/img/about/section-partners/logo-laFrenchTech.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/about/section-partners/logo-stationF.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/about/section-partners/logo-stationF.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/about/section-partners/logo-zendesk.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/about/section-partners/logo-zendesk.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/about/story-photo.jpg": {
+		"ft": 16384,
+		"iS": 118030,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/story-photo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/common/arrow-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -377,6 +614,16 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/img/common/logo-seloger.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/logo-seloger.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
 		},
 	"/img/common/logo-snapcall.svg": {
 		"ft": 2097152,
@@ -1147,11 +1394,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/product/section-features/call-recordign-illu-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/product/section-features/call-recordign-illu-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/img/product/section-features/call-recording-illu-2.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/img/product/section-features/call-recording-illu-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-features/customers-data-illu-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/product/section-features/customers-data-illu-1.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
@@ -1200,10 +1467,10 @@
 	"/img/product/section-features/shopify-illu-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "/img/product/section-features/shopify-illu-1.svg",
-		"oF": 0,
-		"opt": 0,
+		"oF": 1,
+		"opt": 1,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -1217,11 +1484,54 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/product/section-features/web-call-illu-3.svg": {
+	"/img/product/section-features/smart-plug-illu-1.png": {
+		"ft": 32768,
+		"iS": 136911,
+		"oA": 0,
+		"oAP": "/img/product/section-features/smart-plug-illu-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/product/section-features/smart-plugs-illu-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/product/section-features/web-call-illu-3.svg",
+		"oAP": "/img/product/section-features/smart-plugs-illu-1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/product/section-features/web-call-illu-3.png": {
+		"ft": 32768,
+		"iS": 179445,
+		"oA": 0,
+		"oAP": "/img/product/section-features/web-call-illu-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/product/section-features/zendesk-illu-5.png": {
+		"ft": 32768,
+		"iS": 136911,
+		"oA": 0,
+		"oAP": "/img/product/section-features/zendesk-illu-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/product/section-features/zendesk-illu-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/product/section-features/zendesk-illu-5.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
@@ -1439,6 +1749,17 @@
 		"oAP": "/product-zendesk.php",
 		"oF": 0
 		},
+	"/script/js/about.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/about-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/script/js/bodymovin.js": {
 		"bF": 0,
 		"ft": 64,
@@ -1523,6 +1844,17 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/script/minify/tarifs-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/script/minify/about-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/about-min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1626,6 +1958,26 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/style/css/404.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/404-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/style/css/about.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/about-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/style/css/customers-azimo.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1675,6 +2027,32 @@
 		"oAP": "/style/css/tarifs-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/style/scss/404.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/404.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/style/scss/about.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/about.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
 		},
 	"/style/scss/common.scss": {
 		"aP": 1,

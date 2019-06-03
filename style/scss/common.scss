@@ -1057,8 +1057,12 @@ main
 						color: #FFF;
 					}
 					.job{
+						img{
+							opacity: 0.7;
+						}
 						span{
-							color: #FFF;
+							
+							color: rgba(255, 255, 255, 0.7);
 						}
 					}
 				}

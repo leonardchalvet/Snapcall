@@ -121,22 +121,28 @@ $(window).on('load', function() {
 	if ( $( ".cm-section-quotes" ).length ) {
 
 		$('.cm-section-quotes').each(function(i) {
+
+			if ($(this).data('carousel') === "on") {
 		  	
-		  	let allClassQuotes = $(this).attr('class').split(' ');
-		  	let goodClass = '';
+			  	let allClassQuotes = $(this).attr('class').split(' ');
+			  	let goodClass = '';
 
-		  	for(let n = 0 ; n < allClassQuotes.length ; n++ ) {
-		  		if(allClassQuotes[n].indexOf('quotes') > -1) {
-		  			goodClass += '.' + allClassQuotes[n];
+			  	for(let n = 0 ; n < allClassQuotes.length ; n++ ) {
+			  		if(allClassQuotes[n].indexOf('quotes') > -1) {
+			  			goodClass += '.' + allClassQuotes[n];
+				  	}
 			  	}
-		  	}
 
-		  	sectionQuotesCarouselQuotes(
-				7000,
-				goodClass,  
-				".container-quotes .quote",
-				".container-nav .nav"
-			);
+			  	sectionQuotesCarouselQuotes(
+					7000,
+					goodClass,  
+					".container-quotes .quote",
+					".container-nav .nav"
+				);
+
+			} else {
+				$(this).find('.quote').addClass('displayBlock anim-show');
+			}
 
 		});
 	}

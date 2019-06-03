@@ -30,7 +30,7 @@
 				<div class="wrapper">
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_0">
-							Shopify
+							Shopify + SnapCall
 						</h2>
 						<h1 class="elAnim__slide anim__delayMedium_1">
 							The first call button for Shopify stores.
@@ -39,7 +39,7 @@
 					<div class="container-action elAnim__slide anim__delayMedium_3">
 						<div class="line"></div>
 						<a href="" class="cm-button-style1">
-							<span class="btn-text">Get Started</span>
+							<span class="btn-text">Get It Now</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
 								   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -143,7 +143,7 @@
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
 									<a href="">
-										<span class="btn-text">Explore smart voice support</span>
+										<span class="btn-text">Explore Smart Voice Support</span>
 									</a>
 								</div>
 							</div>
@@ -255,10 +255,10 @@
 
 				<div class="wrapper">
 					<div class="container-text">
-						<h2 class="elAnim__slide anim__delayMedium_1">Your ecommerce already feels smarter</h2>
+						<h2 class="elAnim__slide anim__delayMedium_1">Your ecommerce already feels smarter.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
 							<a href="" class="cm-button-style1">
-								<span class="btn-text">Get Started</span>
+								<span class="btn-text">Connect with Shopify</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>

@@ -1,5 +1,6 @@
 $(window).on('load', function() {
 	
+	
 	if ( $( "#section-carousel" ).length ) {
 		sectionCarousel(
 			5000,
@@ -10,7 +11,7 @@ $(window).on('load', function() {
 		);
 	}
 
-	/* SECTION QUOTES */
+
 	function sectionCarousel(Delay, Section, El, Pp, Hp){
 
 		El = Section + ' ' + El;
@@ -102,7 +103,7 @@ $(window).on('load', function() {
 
 	    valDelay = Delay;
 
-	};
+	}; 
 
 
 })

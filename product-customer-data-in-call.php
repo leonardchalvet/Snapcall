@@ -39,7 +39,7 @@
 					<div class="container-action elAnim__slide anim__delayMedium_3">
 						<div class="line"></div>
 						<a href="" class="cm-button-style1">
-							<span class="btn-text">Get Started</span>
+							<span class="btn-text">Start Now</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
 								   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
