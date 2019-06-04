@@ -62,8 +62,106 @@
 	.wrapper{
 		@include styleGrid2;
 	}
+	.container-action {
+		position: relative;
+		z-index: 1;
+		display: flex;
+		align-items: center;
+		justify-content: flex-end;
+		margin-left: auto;
+		margin-bottom: 30px;
+		.container-date {
+			display: flex;
+			align-items: center;
+			margin-right: 37px;
+			span {
+				transition: all .25s ease;
+				@include styleParagraphSmall;
+			}
+			.bg {
+				cursor: pointer;
+				position: relative;
+				margin: 0 15px;
+				width: 35px;
+				height: 21px;
+				border-radius: 18px;
+				background-color: $colorMain_1;
+				.dot {
+					position: absolute;
+					top: 50%;
+					transform: translateY(-50%);
+					left: 2px;
+					width: 17px;
+					height: 17px;
+					border-radius: 50%;
+					background-color: #FFF;
+					box-shadow: 0 1px 4px 0 rgba(0,0,0,0.5);
+					transition: all .25s ease;
+				}
+			}
+			&.left { 
+				span:first-child {
+					color: $colorMain_8;
+				}
+			}
+			&.right {
+				span:last-child {
+					color: $colorMain_8;
+				}
+				.dot {
+					transform: translateX(calc(100% - 3px)) translateY(-50%);
+				}
+			}
+		}
+		.container-money {
+			position: relative;
+			display: flex;
+			align-items: center;
+			@include styleParagraphSmall;
+			color: $colorMain_8;
+			>.money {
+				box-shadow: 0 3px 10px 0 rgba(0,0,0,0.16);
+			}
+			.money {
+				cursor: pointer;
+				margin-left: 20px;
+				padding: 4px 10px;
+				display: flex;
+				align-items: center;
+				border-radius: 10px;
+				background-color: #F8F8F8;
+				.flag {
+					margin-left: 8px;
+					width: 18px;
+				}
+				.arrow {
+					margin-left: 15px;
+					width: 8px;
+				}
+			}
+			.dropdown {
+				display: none;
+				position: absolute;
+				padding: 5px 0;
+				background-color: #F8F8F8;
+				border-radius: 10px;
+				box-shadow: 0 3px 10px 0 rgba(0,0,0,0.16);
+				top: calc(100% + 10px);
+				right: 0px;
+				.money {
+					width: 100%;
+					margin-left: 0px;
+					margin-right: 20px;
+				}
+			}
+			&.open .dropdown {
+				display: block;
+			}
+		}
+	}
 	.container-table{
 		position: relative;
+		z-index: 0;
 		.head{
 			display: flex;
 			flex-flow: row wrap;
@@ -78,7 +176,7 @@
 					margin-bottom: 20px;
 				}
 				.price{
-					@include styleH5;
+					@include styleH4;
 				}
 				p{
 					margin-top: 8px;
@@ -86,6 +184,16 @@
 					line-height: 24px;
 					color: $colorMain_9;
 					font-family: $font_2_Regular;
+					&.month {
+						span:last-child {
+							display: none;
+						}
+					}
+					&.year {
+						span:first-child {
+							display: none;
+						}
+					}
 				}
 				.line{
 					height: 1px;	
@@ -138,6 +246,7 @@
 						}
 						p{
 							@include styleParagraphSmall;
+							font-size: 12px;
 						}
 					}
 					&:not(:nth-child(1)){
@@ -159,7 +268,7 @@
 						}
 						.cross{
 							display: block;
-							width: 14px;
+							width: 11px;
 							margin: auto;
 						}
 						&> .check{
@@ -205,6 +314,21 @@
 						@include buttonStyle2-color2;
 					}
 				}
+				.link {
+					position: relative;
+					display: inline-block;
+					width: 100%;
+					margin-top: 15px;
+					text-align: center;
+					text-decoration: none;
+					@include styleParagraphSmall;
+					transition: all .25s ease;
+					&:hover{
+						.btn-text{
+							color: $colorMain_8;
+						}
+					}
+				}
 			}
 		}
 
@@ -220,11 +344,11 @@
 			}
 		}
 		.cell{
+			width: 200px;
 			&:nth-child(1){
 				flex: 1;
 			}
 			&:not(:nth-child(1)){
-				width: 190px;
 				&:not(:last-child){
 					margin-right: 7px;
 				}
@@ -264,7 +388,7 @@
 				justify-content: space-between;
 				h3{
 					flex: 1;
-					@include styleH5;
+					@include styleH6;
 				}
 				.arrow{
 					width: 13px;
@@ -276,6 +400,11 @@
 				margin-top: 24px;
 				p{
 					@include styleParagraphMedium;
+					a {
+						text-decoration: none;
+						@include styleH6;
+						color: $colorMain_1;
+					}
 				}
 			}
 			&.open{
@@ -283,6 +412,9 @@
 					.arrow{
 						transform: rotate(180deg);
 					}
+				}
+				.content {
+					display: block;
 				}
 			}
 			&:not(:last-child){
