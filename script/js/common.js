@@ -25,7 +25,7 @@ $(window).on('load', function() {
 	function animScroll() {
 		var windowHeight = $window.height() / 1.5;
 	    $('.sectionAnim_container').each(function() {
-	        if ($window.scrollTop() >= $(this).offset().top - windowHeight) {
+	        if ($window.scrollTop() >= $(this).offset().top - windowHeight + (windowHeight/4)) {
             	if (!$(this).hasClass('reach')) {
 	                $(this).addClass('reach');
 	            }

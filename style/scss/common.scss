@@ -1127,8 +1127,7 @@ main
 	.bg-desktop-big{
 		position: absolute;
 		top: 0px;
-		left: 50%;
-		transform: translateX(-50%);
+		left: 0px;
 		height: 100%;
 	}
 	@media screen and (max-width: 1400px){
