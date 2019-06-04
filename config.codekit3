@@ -485,7 +485,7 @@
 	"/img/common/arrow-3.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/img/common/arrow-3.svg",
 		"oF": 1,
 		"opt": 1,
@@ -615,6 +615,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/common/logo-lafayette.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/logo-lafayette.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/img/common/logo-seloger.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -625,13 +635,43 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/common/logo-snapcall.svg": {
+	"/img/common/logo-snapcall-black.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/common/logo-snapcall.svg",
+		"oAP": "/img/common/logo-snapcall-black.svg",
 		"oF": 0,
 		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/logo-snapcall-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/logo-snapcall-white.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/logo-station-f.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/logo-station-f.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/logo-zendesk-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/logo-zendesk-white.svg",
+		"oF": 1,
+		"opt": 1,
 		"plM": 4010962575359,
 		"prP": 0
 		},

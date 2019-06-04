@@ -1,7 +1,7 @@
 <header id="header-desktop">
 	<div class="head">
 		<a href="" class="logo">
-			<img src="img/common/logo-snapcall.svg" alt="">
+			<img src="img/common/logo-snapcall-black.svg" alt="">
 		</a>
 		<ul class="container-link">
 			<li>
