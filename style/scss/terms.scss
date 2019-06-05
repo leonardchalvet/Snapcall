@@ -74,6 +74,35 @@
 	}
 }
 
+@media screen and (max-width: $breakPoint_mobile) {
+	#section-content .container-title {
+		width: 100%;
+		text-align: left;
+	}
+	#section-content .content {
+		padding-top: 60px;
+	}
+	#section-content .content p {
+		margin-bottom: 50px;
+	}
+	#section-content .content h5 {
+		margin-bottom: 25px;
+	}
+	#section-content .content h4 {
+		margin-bottom: 40px;
+	}
+	#section-content .content .table .row {
+		flex-direction: column;
+	}
+	#section-content .content .table .row p:first-child {
+		margin-bottom: 10px;
+	}
+	#section-content .content .table .row p:last-child {
+		text-align: left;
+		margin-bottom: 30px;
+	}
+}
+
 /*==================================================
 =            END PAGE TERMS & CONDITIONS           =
 ===================================================*/
