@@ -512,6 +512,16 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
+	"/img/common/check-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/check-3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/img/common/cm-section-banner-bg-big.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -549,6 +559,16 @@
 		"oAP": "/img/common/cross.svg",
 		"oF": 1,
 		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/flag/fr.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/flag/fr.svg",
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -645,6 +665,16 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
+	"/img/common/logo-snapcall-white-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/logo-snapcall-white-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/img/common/logo-snapcall-white.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -672,6 +702,46 @@
 		"oAP": "/img/common/logo-zendesk-white.svg",
 		"oF": 1,
 		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/sn/fb-black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/sn/fb-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/sn/in-black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/sn/in-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/sn/is-black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/sn/is-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/sn/tw-black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/sn/tw-black.svg",
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -1587,6 +1657,28 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
+	"/img/product/section-quotes/user-1.jpg": {
+		"ft": 16384,
+		"iS": 7702,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-quotes/user-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/product/section-quotes/user-2.jpg": {
+		"ft": 16384,
+		"iS": 7177,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-quotes/user-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/product/section-smartly/icn-check.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -2018,6 +2110,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/style/css/customers-azimo-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/customers-azimo-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/style/css/customers-azimo.css": {
 		"aP": 1,
 		"bl": 0,
@@ -2068,6 +2170,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/style/css/terms.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/terms-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/style/scss/404.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -2104,6 +2216,19 @@
 		"oA": 1,
 		"oAP": "/style/css/common.css",
 		"oF": 2,
+		"oS": 3,
+		"uL": 1
+		},
+	"/style/scss/customers-azimo.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/customers-azimo.css",
+		"oF": 0,
 		"oS": 3,
 		"uL": 1
 		},
@@ -2172,12 +2297,46 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"/style/scss/tarifs.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/tarifs.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/style/scss/terms.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/terms.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"/tarifs.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/tarifs.php",
+		"oF": 0
+		},
+	"/terms.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/terms.php",
 		"oF": 0
 		}
 	},

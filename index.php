@@ -19,7 +19,11 @@
 	
 	<body>
 
-		<?php include('common-header.php') ?>
+		<?php 
+			$styleHeaderMobile = "style-white";
+			include('common-header.php'); 
+		?> 
+
 
 		<main>
 
