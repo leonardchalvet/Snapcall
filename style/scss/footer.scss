@@ -204,3 +204,14 @@ footer{
 		
 	}
 }
+
+
+@media screen and (max-width: $breakPoint_mobile) {
+	footer{
+		.container-newletters{
+			.container-input{
+				width: 100%;
+			}
+		}
+	}
+}

@@ -124,8 +124,8 @@ main
 		$h2_lineheight_desktop: 93px;
 
 		/*----------  MOBILE  ----------*/
-		$h2_textsize_mobile: 34px;
-		$h2_lineheight_mobile: 41px;
+		$h2_textsize_mobile: 50px;
+		$h2_lineheight_mobile: 50px;
 
 
 	/*----------  H3  ----------*/
@@ -134,7 +134,7 @@ main
 		$h3_lineheight_desktop: 65px;
 
 		/*----------  MOBILE  ----------*/
-		$h3_textsize_mobile: 28px;
+		$h3_textsize_mobile: 34px;
 		$h3_lineheight_mobile: 40px;
 
 
@@ -144,8 +144,8 @@ main
 		$h4_lineheight_desktop: 48px;
 
 		/*----------  MOBILE  ----------*/
-		$h4_textsize_mobile: 24px;
-		$h4_lineheight_mobile: 29px;
+		$h4_textsize_mobile: 28px;
+		$h4_lineheight_mobile: 33px;
 
 
 	/*----------  H5  ----------*/
@@ -251,7 +251,7 @@ main
 			font-family: $font_1_Bold;
 			color: $colorMain_8;
 
-			@media screen and (min-width: $breakPoint_tablet){
+			@media screen and (min-width: $breakPoint_mobile){
 				font-size: $h1_textsize_desktop;
 				line-height: $h1_lineheight_desktop;
 			}
@@ -267,7 +267,7 @@ main
 			font-family: $font_1_Bold;
 			color: $colorMain_8;		
 
-			@media screen and (min-width: $breakPoint_tablet){
+			@media screen and (min-width: $breakPoint_mobile){
 				font-size: $h2_textsize_desktop;
 				line-height: $h2_lineheight_desktop;
 			}
@@ -283,7 +283,7 @@ main
 			font-family: $font_1_Bold;
 			color: $colorMain_8;
 			
-			@media screen and (min-width: $breakPoint_tablet){
+			@media screen and (min-width: $breakPoint_mobile){
 				font-size: $h3_textsize_desktop;
 				line-height: $h3_lineheight_desktop;
 			}
@@ -299,7 +299,7 @@ main
 			font-family: $font_1_Bold;
 			color: $colorMain_8;
 			
-			@media screen and (min-width: $breakPoint_tablet){
+			@media screen and (min-width: $breakPoint_mobile){
 				font-size: $h4_textsize_desktop;
 				line-height: $h4_lineheight_desktop;
 			}
@@ -315,7 +315,7 @@ main
 			font-family: $font_1_Bold;
 			color: $colorMain_8;
 			
-			@media screen and (min-width: $breakPoint_tablet){
+			@media screen and (min-width: $breakPoint_mobile){
 				font-size: $h5_textsize_desktop;
 				line-height: $h5_lineheight_desktop;
 			}
@@ -488,6 +488,19 @@ main
 					transition: all 0.1s ease;
 				}
 				&:hover{
+					&:before{
+						transform: translateX(0px);
+					}
+					.container-btn-arrow{
+						transform: translateX(0px) !important;
+					}
+					.btn-text{
+						transition-delay: 0.4s;
+						transition: all 0.25s ease;
+						opacity: 1;
+					}
+				}
+				@media screen and (max-width: $breakPoint_mobile) {
 					&:before{
 						transform: translateX(0px);
 					}
@@ -1092,6 +1105,55 @@ main
 			}
 		}
 	}
+
+
+}
+@media screen and (max-width: $breakPoint_mobile) {
+	.cm-section-quotes{
+
+		.obj-1{
+			display: none;
+		}
+		.obj-2{
+			display: none;
+		}
+		.container-quotes{
+			padding: 60px 0px 60px 0px;
+
+			.quote{
+				.content{
+					width: 100%;
+					margin-top: 50px;
+					.container-pr{
+						.pp{
+							margin-right: auto;
+							margin-left: auto;
+						}
+						.text{
+							margin-top: 50px;
+							width: 100%;
+							flex: initial;
+						}
+					}
+					.container-action{
+						width: 100%;
+						margin-top: 50px;
+						justify-content: space-between;
+						.container-nav{
+							order: 2;
+							margin-right: 0px;
+						}
+					}
+
+				}
+			}
+		}
+		&:not(.nomarge) {
+			margin-top: 0px;
+			margin-bottom: 0px;
+		}
+
+	}
 }
 
 #cm-section-banner{
@@ -1145,6 +1207,22 @@ main
 		}
 		.bg-desktop-big{
 			display: block;
+		}
+	}
+
+	@media screen and (max-width: $breakPoint_mobile) {
+		padding: 100px 0px 80px 0px;
+		.wrapper{
+			width: 100%;
+		}
+
+		.container-text{
+			.container-button{
+				a{
+					margin-left: auto;
+					margin-right: auto;
+				}
+			}
 		}
 	}
 }

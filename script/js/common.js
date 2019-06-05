@@ -79,7 +79,7 @@ $(window).on('load', function() {
 
 				interval = setInterval(function() {
 
-			      	prg('next');
+			      	//prg('next');
 
 			    }, valDelay);
 
