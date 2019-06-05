@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="26px" viewBox="0 0 25 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon-Search</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="7a-Help-FAQ" transform="translate(-992.000000, -471.000000)" stroke="#606469" stroke-width="1.5">
+            <g id="Cover" transform="translate(376.000000, 153.000000)">
+                <g id="Search-bar" transform="translate(0.000000, 293.000000)">
+                    <path d="M626.452248,44.7 C621.481685,44.7 617.452248,40.6705627 617.452248,35.7 C617.452248,30.7294373 621.481685,26.7 626.452248,26.7 C631.42281,26.7 635.452248,30.7294373 635.452248,35.7 C635.452248,40.6705627 631.42281,44.7 626.452248,44.7 Z M632.864,42.5802141 L640,49.4307741 L632.864,42.5802141 Z" id="Icon-Search"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

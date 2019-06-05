@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon-Shopify</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="35.8974359" cy="35.9090909" rx="35.8974359" ry="35.9090909"></ellipse>
+    </defs>
+    <g id="Web-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7a-Help-FAQ" transform="translate(-1019.000000, -1075.000000)">
+            <g id="Section-1" transform="translate(234.000000, 593.365858)">
+                <g id="6" transform="translate(672.000000, 406.634142)">
+                    <g id="Icon-Shopify" transform="translate(114.000000, 76.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Oval" stroke="#3EC755" stroke-width="2" xlink:href="#path-1"></use>
+                        <g id="Group" mask="url(#mask-2)" stroke-linecap="round" stroke-linejoin="round">
+                            <g transform="translate(22.000000, 21.000000)" id="shopping-bag-check">
+                                <g>
+                                    <path d="M24.125,29.375 L3.875,29.375 C2.79915551,29.3754136 1.7749514,28.9137372 1.0627856,28.1073493 C0.350619788,27.3009615 0.0190951933,26.2275414 0.1525,25.16 L2.125,9.375 L25.875,9.375 L27.8475,25.16 C27.9809048,26.2275414 27.6493802,27.3009615 26.9372144,28.1073493 C26.2250486,28.9137372 25.2008445,29.3754136 24.125,29.375 L24.125,29.375 Z" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                    <path d="M6.5,5.25 L4.7075,5.25 C4.26851602,5.25044411 3.8618877,5.54560787 3.63625,6.0276 L2.125,9.25 L25.875,9.25 L24.36375,6.0276 C24.1381123,5.54560787 23.731484,5.25044411 23.2925,5.25 L21.5,5.25" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                    <path d="M19,5.51785714 C19,2.67753557 16.7614237,0.375 14,0.375 C11.2385763,0.375 9,2.67753557 9,5.51785714 L9,9.375 L19,9.375 L19,5.51785714 Z" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

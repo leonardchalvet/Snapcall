@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="75px" viewBox="0 0 74 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon-Basic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="35.8974359" cy="35.9090909" rx="35.8974359" ry="35.9090909"></ellipse>
+    </defs>
+    <g id="Web-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7a-Help-FAQ" transform="translate(-347.000000, -656.000000)">
+            <g id="Section-1" transform="translate(234.000000, 593.365858)">
+                <g id="1">
+                    <g id="Icon-Basic" transform="translate(114.000000, 64.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Oval" stroke="#3EC755" stroke-width="2" xlink:href="#path-1"></use>
+                        <g id="Group-2" mask="url(#mask-2)" stroke="#3EC755" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <g transform="translate(20.000000, 20.000000)" id="Shape">
+                                <path d="M13,11.6341423 C13,9.70114566 14.5670034,8.13414229 16.5,8.13414229 C18.4329966,8.13414229 20,9.70114566 20,11.6341423 C20,13.5671389 18.4329966,15.1341423 16.5,15.1341423"></path>
+                                <path d="M16.5,18.1341423 C16.7761424,18.1341423 17,18.3579999 17,18.6341423 C17,18.9102847 16.7761424,19.1341423 16.5,19.1341423 C16.2238576,19.1341423 16,18.9102847 16,18.6341423 C16,18.3579999 16.2238576,18.1341423 16.5,18.1341423"></path>
+                                <path d="M16.5320392,0.134144076 C12.728146,0.146464786 9.08845765,1.63552098 6.42888548,4.26751002 C3.76931331,6.89949906 2.31232819,10.4542573 2.38454338,14.1349125 C2.27726168,16.7116537 2.92272208,19.2654728 4.24687175,21.5033736 L0,30.1341423 L8.92057677,26.0218348 C14.13509,29.1502198 20.8218713,28.7534484 25.6024157,25.03199 C30.3829601,21.3105316 32.2164294,15.0746361 30.1764607,9.47499799 C28.136492,3.87535987 22.6672351,0.131153494 16.5320392,0.134144076 L16.5320392,0.134144076 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="8px" viewBox="0 0 5 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7b-Help-FAQ-Basics" transform="translate(-318.000000, -389.000000)" fill="#4CD964">
+            <g id="Cover" transform="translate(235.000000, 146.000000)">
+                <g id="Back" transform="translate(0.500000, 237.500000)">
+                    <g id="Fil-d'ariane">
+                        <polygon id="Triangle" transform="translate(85.000000, 9.666667) rotate(-270.000000) translate(-85.000000, -9.666667) " points="85 7.66666667 88.3333333 11.6666667 81.6666667 11.6666667"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon-Zendesk</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="35.8974359" cy="35.9090909" rx="35.8974359" ry="35.9090909"></ellipse>
+    </defs>
+    <g id="Web-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7a-Help-FAQ" transform="translate(-683.000000, -1075.000000)">
+            <g id="Section-1" transform="translate(234.000000, 593.365858)">
+                <g id="5" transform="translate(336.000000, 406.634142)">
+                    <g id="Icon-Zendesk" transform="translate(114.000000, 76.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Oval" stroke="#3EC755" stroke-width="2" xlink:href="#path-1"></use>
+                        <g id="Group" mask="url(#mask-2)" stroke-linecap="round" stroke-linejoin="round">
+                            <g transform="translate(20.000000, 20.000000)" id="headphones-customer-support">
+                                <g>
+                                    <path d="M21.3333333,28.6965278 L22.6666667,28.6965278 C25.2453333,28.6965278 27.3333333,27.2723792 27.3333333,24.6923611 L27.3333333,21.7960139" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                    <path d="M26,11.3451362 C28.598818,11.3432971 30.8206043,13.2168269 31.2602412,15.7808575 C31.699878,18.3448881 30.2293533,20.852833 27.7786667,21.7186 C27.3706475,21.8633319 26.9178332,21.8007721 26.5642299,21.5508161 C26.2106265,21.3008601 26.000248,20.8946205 26,20.4612917 L26,11.3451362 Z" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                    <path d="M6,11.3451362 C3.40118196,11.3432971 1.17939569,13.2168269 0.739758833,15.7808575 C0.300121979,18.3448881 1.77064665,20.852833 4.22133333,21.7186 C4.62935247,21.8633319 5.08216679,21.8007721 5.43577013,21.5508161 C5.78937348,21.3008601 5.99975195,20.8946205 6,20.4612917 L6,11.3451362 Z" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                    <path d="M26,13.3472222 L26,10.6777778 C26,5.14917731 21.5228475,0.667361111 16,0.667361111 C10.4771525,0.667361111 6,5.14917731 6,10.6777778 L6,13.3472222" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                    <path d="M15.3333333,26.6298611 L20.6666667,26.6298611 C21.0348565,26.6298611 21.3333333,27.0925002 21.3333333,27.6631944 L21.3333333,29.7298611 C21.3333333,30.3005554 21.0348565,30.7631944 20.6666667,30.7631944 L15.3333333,30.7631944 C14.5969537,30.7631944 14,29.8379163 14,28.6965278 L14,28.6965278 C14,27.5551393 14.5969537,26.6298611 15.3333333,26.6298611 Z" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

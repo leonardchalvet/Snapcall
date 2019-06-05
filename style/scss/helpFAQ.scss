@@ -1,0 +1,201 @@
+@import 'common.scss';
+@import 'header.scss';
+
+/*====================================
+=            PAGE HELP FAQ           =
+=====================================*/
+
+#section-help {
+	padding-top: 150px;
+	padding-bottom: 250px;
+	.wrapper {
+		@include styleGrid3;
+	}
+	.container-title {
+		margin: auto;
+		width: 600px;
+		text-align: center;
+		h2{
+			@include styleH4;
+			color: $colorMain_1;
+			margin-bottom: 30px;
+		}
+		h1{
+			@include styleH2;
+		}
+	}
+	.container-help {
+		padding-top: 50px;
+		.search {
+			position: relative;
+			width: 680px;
+			height: 75px;
+			margin: 0 auto 70px auto;
+			input {
+				@include styleParagraphBig;
+				padding-left: 40px;
+				width: 100%;
+				height: 100%;
+				border-radius: 20px;
+				background-color: $colorMain_7;
+				border: none;
+				outline: none;
+				box-shadow: 0 20px 40px 0 rgba(0,0,0,0.05);
+			}
+			img {
+				position: absolute;
+				top: 50%;
+				transform: translateY(-50%);
+				right: 40px;
+			}
+		}
+		.container-el {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			.el {
+				text-decoration: none;
+				padding: 65px 30px;
+				width: calc(100% / 3 - 25px);
+				border-radius: 40px;
+				background-color: $colorMain_7;
+				transition: all .5s ease;
+				&:hover {
+					box-shadow: 0 20px 40px 0 rgba(0,0,0,0.16);
+				}
+				.icn {
+					margin: auto;
+					width: 75px;
+					height: 75px;
+					img {
+						width: 100%;
+						height: 100%;
+					}
+				}
+				h4 {
+					@include styleH5;
+					text-align: center;
+					margin-top: 30px;
+				}
+				p {
+					@include styleParagraphSmall;
+					text-align: center;
+					margin-top: 40px;
+				}
+				&:nth-last-child(1n+4) {
+					margin-bottom: 35px;
+				}
+			}
+			h4 {
+
+			}
+			p {
+
+			}
+		}
+	}
+}
+
+#section-categorie {
+	padding-top: 150px;
+	padding-bottom: 100px;
+	.wrapper {
+		@include styleGrid3;
+	}
+	.container-title {
+		margin: auto;
+		width: 600px;
+		text-align: center;
+		.icn{
+			margin: auto;
+			width: 75px;
+			height: 75px;
+			img {
+				width: 100%;
+			}
+		}
+		h1{
+			margin-top: 30px;
+			@include styleH2;
+		}
+	}
+	.container-categorie {
+		margin-top: 60px;
+		.path {
+			padding-bottom: 30px;
+			border-bottom: 1px solid #D0D0D0;
+			display: flex;
+			align-items: center;
+			a {
+				text-decoration: none;
+				font-size: 12px;
+				&:not(:last-child) {
+					font-family: $font_2_Regular;
+					color: $colorMain_9;
+				}
+				&:last-child {
+					font-family: $font_2_Bold;
+					color: $colorMain_8;
+				}
+			}
+			img {
+				margin: 0 15px;
+			}
+		}
+		.container-el {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			padding-top: 60px;
+			.el {
+				width: calc(100% / 3 - 20px);
+				margin-bottom: 60px;
+				h4 {
+					@include styleH5;	
+				}
+				ul {
+					margin-top: 42px;
+					li {
+						list-style: none;
+						&:not(:last-child) {
+							margin-bottom: 8px;
+						}
+						a {
+							display: inline-block;
+							padding: 23px 29px;
+							text-decoration: none;
+							@include styleH6;
+							border-radius: 20px;
+							background-color: $colorMain_7;
+							box-shadow: 0 20px 40px 0 rgba(0,0,0,0.02);
+							transition: all .5s ease;
+							&:hover {
+								background-color: $colorMain_5;
+							}
+						}
+						&.active a {
+							background-color: $colorMain_5;
+						}
+					}
+				}
+			}
+			.container-text {
+				margin-left: 70px;
+				flex: 1;
+				h3 {
+					@include styleH4;
+				}
+				p {
+					margin-top: 30px;
+					@include styleParagraphSmall;
+				}
+			}
+		}
+	}
+}
+
+/*===================================
+=            END HELP FAQ           =
+====================================*/
+
+@import 'footer.scss';

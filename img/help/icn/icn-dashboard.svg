@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon-Dashboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="35.8974359" cy="35.9090909" rx="35.8974359" ry="35.9090909"></ellipse>
+    </defs>
+    <g id="Web-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7a-Help-FAQ" transform="translate(-683.000000, -656.000000)">
+            <g id="Section-1" transform="translate(234.000000, 593.365858)">
+                <g id="2" transform="translate(336.000000, 0.000000)">
+                    <g id="Icon-Dashboard" transform="translate(114.000000, 63.634142)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Oval" stroke="#3EC755" stroke-width="2" xlink:href="#path-1"></use>
+                        <g id="Group" mask="url(#mask-2)" stroke-linecap="round" stroke-linejoin="round">
+                            <g transform="translate(19.000000, 24.000000)" id="laptop-help-message">
+                                <g>
+                                    <path d="M29.6458333,9.57506906 L29.6458333,2.35294118 C29.6458333,1.24837168 28.7504028,0.352941176 27.6458333,0.352941176 L12.7340686,0.352941176 L6.64583333,0.352941176 C5.54126383,0.352941176 4.64583333,1.24837168 4.64583333,2.35294118 L4.64583333,18.3529412" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                    <path d="M29.6458333,18.3529412 L29.6458333,8.35294118" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                    <path d="M33.6458333,18.3529412 C33.6458333,21.1143649 31.7187112,23.3529412 29.3414855,23.3529412 L4.95018116,23.3529412 C2.5729555,23.3529412 0.645833333,21.1143649 0.645833333,18.3529412 L33.6458333,18.3529412 Z" id="Shape" stroke="#3EC755" stroke-width="2"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
