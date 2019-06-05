@@ -61,6 +61,18 @@
 	}
 }
 
+@media screen and (max-width: $breakPoint_mobile) {
+	#section-content .obj {
+		display: none;
+	}
+	#section-content .container-text p {
+		padding-left: 30px;
+	}
+	#section-content .container-text {
+		width: 100%;
+	}
+}
+
 /*===================================
 =            END PAGE 404           =
 ====================================*/
