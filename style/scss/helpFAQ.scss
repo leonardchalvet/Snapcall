@@ -47,6 +47,7 @@
 				top: 50%;
 				transform: translateY(-50%);
 				right: 40px;
+				width: 22px;
 			}
 		}
 		.container-el {
@@ -151,7 +152,17 @@
 				width: calc(100% / 3 - 20px);
 				margin-bottom: 60px;
 				h4 {
-					@include styleH5;	
+					position: relative;
+					@include styleH5;
+					img {
+						display: none;
+						position: absolute;
+						top: 50%;
+						transform: translateY(-50%);
+						right: 10px;
+						width: 12px;
+						transition: all .25s ease;
+					}
 				}
 				ul {
 					margin-top: 42px;
@@ -191,6 +202,76 @@
 				}
 			}
 		}
+	}
+}
+
+@media screen and (max-width: $breakPoint_mobile) {
+	#section-help {
+		padding-bottom: 150px;
+	}
+	#section-help .container-title {
+		width: 100%;
+		text-align: left;
+	}	
+	#section-help .container-help .search {
+		width: 100%;
+	}
+	#section-help .container-help .search input {
+		padding-left: 15px;
+	}
+	#section-help .container-help .search img {
+		right: 15px;
+	}
+	#section-help .container-help .container-el .el {
+		width: 100%;
+	}
+	#section-help .container-help .container-el .el:not(:last-child) {
+		margin-bottom: 35px;
+	}
+
+	#section-categorie .container-title {
+		width: 100%;
+	}
+	#section-categorie .container-categorie .path a:nth-last-child(1n + 4),
+	#section-categorie .container-categorie .path img:nth-last-child(1n + 5) {
+		display: none;
+	}
+	#section-categorie .container-categorie .path a {
+		margin: 0 10px;
+	}
+	#section-categorie .container-categorie .path img {
+		margin: 0;
+	}
+	#section-categorie.article .container-categorie .container-el {
+		flex-direction: column-reverse;
+	}
+	#section-categorie .container-categorie .container-el .el {
+		width: 100%;
+	}
+	#section-categorie .container-categorie .container-el .container-text {
+		margin-left: 0;
+		margin-bottom: 60px;
+	}
+	#section-categorie:not(.article) .container-categorie .container-el .el {
+		h4 img {
+			display: block;
+		}
+		ul {
+			display: none;
+		}
+		&.open {
+			h4 img {
+				transform: rotate(180deg);
+			}
+			ul {
+				display: block;
+			}
+		}
+	}
+	#section-categorie:not(.article) .container-categorie .container-el .el:not(:last-child) {
+		padding-bottom: 30px;
+		margin-bottom: 30px;
+		border-bottom: 1px solid #D0D0D0;
 	}
 }
 

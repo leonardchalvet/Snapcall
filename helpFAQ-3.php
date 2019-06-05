@@ -21,7 +21,7 @@
 
 		<main>
 
-			<section id="section-categorie">
+			<section id="section-categorie" class="article">
 				<div class="wrapper">
 					<div class="container-title">
 						<div class="icn">

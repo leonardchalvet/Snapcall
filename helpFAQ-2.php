@@ -37,7 +37,10 @@
 						</div>
 						<div class="container-el">
 							<div class="el">
-								<h4>General Info.</h4>
+								<h4>
+									General Info.
+									<img src="img/common/arrow-3.svg">
+								</h4>
 								<ul>
 									<li><a href="#">
 										Lorem ipsum dolor sit amet, consectetur ? 
@@ -57,7 +60,10 @@
 								</ul>
 							</div>
 							<div class="el">
-								<h4>Calls</h4>
+								<h4>
+									Calls
+									<img src="img/common/arrow-3.svg">
+								</h4>
 								<ul>
 									<li><a href="#">
 										Lorem ipsum dolor sit amet, consectetur ? 
@@ -77,7 +83,10 @@
 								</ul>
 							</div>
 							<div class="el">
-								<h4>Pricing.</h4>
+								<h4>
+									Pricing.
+									<img src="img/common/arrow-3.svg">
+								</h4>
 								<ul>
 									<li><a href="#">
 										Lorem ipsum dolor sit amet, consectetur ? 
@@ -97,7 +106,10 @@
 								</ul>
 							</div>
 							<div class="el">
-								<h4>Account.</h4>
+								<h4>
+									Account.
+									<img src="img/common/arrow-3.svg">
+								</h4>
 								<ul>
 									<li><a href="#">
 										Lorem ipsum dolor sit amet, consectetur ? 
@@ -124,6 +136,8 @@
 		</main>
 
 		<?php include('common-footer.php') ?>
+
+		<script type="text/javascript" src="script/minify/helpFAQ-min.js"></script>
 
 		<script type="text/javascript" src="script/minify/common-min.js"></script>
 	</body>
