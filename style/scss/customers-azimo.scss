@@ -76,7 +76,7 @@
 		.container-logo{
 			position: absolute;
 			right: 0px;
-			bottom: 130px;
+			bottom: 134px;
 			height: 150px;	
 			width: 330px;	
 			background-color: #FFFFFF;
@@ -215,13 +215,14 @@
 		justify-content: space-between;
 	}
 	.sidebar{
-		width: 150px;
-		margin-right: 120px;
+		width: 250px;
+		margin-right: 40px;
 		.logo{
-			width: 100%;
+			width: 105px;
 			margin-bottom: 55px;
 		}
 		.container-el{
+			width: calc(100% - 100px);
 			position: relative;
 			.el{
 				position: relative;
@@ -254,7 +255,33 @@
 		}
 	}
 	.container{
+		position: relative;
 		flex: 1;
+		.container-sn {
+			position: absolute;
+			top: 0;
+			right: 0;
+			width: 40px;
+			.sn {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 100%;
+				height: 40px;
+				border-radius: 13px;
+				background-color: $colorMain_7;
+				transition: all .25s ease;
+				&:not(:last-child) {
+					margin-bottom: 32.5px;
+				}
+				img {
+					width: 16px;
+				}
+				&:hover {
+					opacity: .7;
+				}
+			}
+		}
 		.blog-section-head{
 			padding-right: 100px;
 			h2{
@@ -339,7 +366,7 @@
 								height: 166px;	
 								width: 112px;	
 								border-radius: 20px;
-								margin-right: 80px;
+								margin-right: 70px;
 								background-repeat: no-repeat;
 								background-position: center center;
 								background-size: cover;
@@ -356,6 +383,7 @@
 								q{
 									display: block;
 									@include styleQuote;
+									quotes: "« " " »";
 									i{
 										background-color: $colorMain_1;
 									}

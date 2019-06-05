@@ -166,7 +166,7 @@
 							</div>
 						</div>
 						<a href="" class="cm-button-style1">
-							<span class="btn-text">Try Free</span>
+							<span class="btn-text">Start your trial</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
 								   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -175,6 +175,20 @@
 						</a>
 					</div>
 					<div class="container">
+						<div class="container-sn">
+							<a href="#" class="sn">
+								<img src="img/common/sn/tw-black.svg">
+							</a>
+							<a href="#" class="sn">
+								<img src="img/common/sn/fb-black.svg">
+							</a>
+							<a href="#" class="sn">
+								<img src="img/common/sn/in-black.svg">
+							</a>
+							<a href="#" class="sn">
+								<img src="img/common/sn/is-black.svg">
+							</a>
+						</div>
 						<section class="blog-section-head">
 							<h2>
 								Sending money has never been this easy.
@@ -205,20 +219,20 @@
 									<div class="quote anim-show">
 										<div class="head">
 											<div class="name">
-												Alessandro Angioni 1
+												Alessandro Angioni
 											</div>
 											<div class="job">
 												<img src="img/common/icn-azimo-black.svg" alt="">
-												<span>Business Account Manager</span>
+												<span>Business Account Manager of Azimo</span>
 											</div>
 										</div>
 										<div class="content">
 											<div class="container-pr">
-												<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
+												<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 												<div class="text">
 													<img class="icn" src="img/common/icn-quote.svg" alt="">
 													<q class="wrapLine">
-														« We were using another voice solution and displaying a public phone number on our website and app. The volume of incoming calls was quite high. For this reason we interrupted voice support and decided to focus on email and chat channels, but it had a shortcoming we didn’t anticipate, our NPS was affected since our customers wanted a fast reply. We started looking for a innovative solution that was smarter than a phone number and we found it in SnapCall. »
+														We were using another voice solution and displaying a public phone number on our website and app. The volume of <i>incoming calls was quite high.</i> For this reason we interrupted voice support and decided to focus on email and chat channels, but it had a shortcoming we didn’t anticipate, our NPS was affected since our customers wanted a fast reply. We started looking for a innovative solution that was <i>smarter than a phone</i> number and we found it in SnapCall.
 													</q>
 												</div>
 											</div>
@@ -314,23 +328,20 @@
 									<div class="quote anim-show">
 										<div class="head">
 											<div class="name">
-												Alessandro Angioni 1
+												Jakub Pelczar
 											</div>
 											<div class="job">
 												<img src="img/common/icn-azimo-black.svg" alt="">
-												<span>Business Account Manager</span>
+												<span>Front-End Software Engineer of Azimo</span>
 											</div>
 										</div>
 										<div class="content">
 											<div class="container-pr">
-												<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
+												<div class="pp" style="background-image: url(img/product/section-quotes/user-2.jpg);"></div>
 												<div class="text">
 													<img class="icn" src="img/common/icn-quote.svg" alt="">
 													<q class="wrapLine">
-														SnapCall’s flexible API is allowing us to
-														continuously shape support according to
-														our ever changing priorities and customer’s
-														behavior.
+														SnapCall’s flexible API is allowing us to continuously shape support according to our ever changing priorities and <i>customer’s behavior.</i>
 													</q>
 												</div>
 											</div>
@@ -405,23 +416,20 @@
 									<div class="quote anim-show">
 										<div class="head">
 											<div class="name">
-												Alessandro Angioni 1
+												Alessandro Angioni
 											</div>
 											<div class="job">
 												<img src="img/common/icn-azimo-black.svg" alt="">
-												<span>Business Account Manager</span>
+												<span>Business Account Manager of Azimo</span>
 											</div>
 										</div>
 										<div class="content">
 											<div class="container-pr">
-												<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
+												<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 												<div class="text">
 													<img class="icn" src="img/common/icn-quote.svg" alt="">
 													<q class="wrapLine">
-														SnapCall’s flexible API is allowing us to
-														continuously shape support according to
-														our ever changing priorities and customer’s
-														behavior.
+														SnapCall has become the <i>core of our phone support operation.</i> We plan to continue rolling-out support in new languages and to different segments of customers in the future.
 													</q>
 												</div>
 											</div>
@@ -458,7 +466,7 @@
 				<div class="wrapper">
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_0">
-							Voice at scale & hassle-free.
+							Read similar customer stories.
 						</h2>
 						<p class="elAnim__slide anim__delayMedium_1">
 							see how SnapCall is helping other companies leverage voice for customer relationships
@@ -522,7 +530,7 @@
 
 				<div class="wrapper">
 					<div class="container-text">
-						<h2 class="elAnim__slide anim__delayMedium_1">Ready to super power your business with voice?</h2>
+						<h2 class="elAnim__slide anim__delayMedium_1">Join the wave of smart voice support.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
 							<a href="" class="cm-button-style1">
 								<span class="btn-text">Get Started</span>
