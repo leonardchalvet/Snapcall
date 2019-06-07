@@ -189,5 +189,27 @@ $(window).on('load', function() {
 		$(this).addClass('active');
 	})
 
+
+
+	window.addEventListener('load', function() {
+		[].forEach.call(document.querySelectorAll('footer .container-lg'), function(openDropdown) {
+			openDropdown.addEventListener('click', function (event) {
+				if (this.classList.contains("open")) {
+					this.classList.remove('open');
+				} else {
+					this.classList.add('open');
+				}
+			}, false);
+		})
+	})
+
+	$('footer .container-lg').click(function(){
+		if ($(this).hasClass('open')) {
+			$(this).removeClass('open');
+		} else {
+			$(this).addClass('open');
+		}
+	})
+
 	
 })

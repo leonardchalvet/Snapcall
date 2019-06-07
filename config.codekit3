@@ -241,6 +241,30 @@
 		"oAP": "/font/SF-Compact-Display-Semibold.otf",
 		"oF": 0
 		},
+	"/helpFAQ-1.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/helpFAQ-1.php",
+		"oF": 0
+		},
+	"/helpFAQ-2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/helpFAQ-2.php",
+		"oF": 0
+		},
+	"/helpFAQ-3.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/helpFAQ-3.php",
+		"oF": 0
+		},
 	"/img/404/obj-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -482,6 +506,16 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
+	"/img/common/arrow-3-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/arrow-3-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/img/common/arrow-3.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -562,37 +596,55 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/common/flag/fr.svg": {
+	"/img/common/flags/de.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/common/flag/fr.svg",
+		"oAP": "/img/common/flags/de.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/common/Footer@2x.jpg": {
-		"ft": 16384,
-		"iS": 509273,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/common/Footer@2x.jpg",
+	"/img/common/flags/en.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/flags/en.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 4010962575359,
+		"prP": 0
 		},
-	"/img/common/Header@2x-2.png": {
-		"ft": 32768,
-		"iS": 42016,
-		"oA": 0,
-		"oAP": "/img/common/Header@2x-2.png",
+	"/img/common/flags/es.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/flags/es.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/flags/it.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/flags/it.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/flags/pt.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/flags/pt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
 		},
 	"/img/common/icn-azimo-black.svg": {
 		"ft": 2097152,
@@ -601,6 +653,46 @@
 		"oAP": "/img/common/icn-azimo-black.svg",
 		"oF": 0,
 		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/icn-facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/icn-facebook.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/icn-gdpr.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/icn-gdpr.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/icn-instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/icn-instagram.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/icn-linkedin.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/icn-linkedin.svg",
+		"oF": 1,
+		"opt": 1,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -619,6 +711,16 @@
 		"miP": 0,
 		"oA": 0,
 		"oAP": "/img/common/icn-replay.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/icn-twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/icn-twitter.svg",
 		"oF": 1,
 		"opt": 1,
 		"plM": 4010962575359,
@@ -1026,6 +1128,96 @@
 		"oAP": "/img/customers-main/section-quotes-bg.svg",
 		"oF": 1,
 		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/arrow-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/arrow-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/arrow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/arrow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/icn/icn-basic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/icn/icn-basic.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/icn/icn-dashboard.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/icn/icn-dashboard.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/icn/icn-features.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/icn/icn-features.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/icn/icn-installation.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/icn/icn-installation.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/icn/icn-search.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/icn/icn-search.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/icn/icn-shopify.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/icn/icn-shopify.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/icn/icn-zendesk.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/icn/icn-zendesk.svg",
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -1936,6 +2128,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/script/js/helpFAQ.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/helpFAQ-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/script/js/index.js": {
 		"bF": 0,
 		"ft": 64,
@@ -2046,6 +2249,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/script/minify/helpFAQ-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/helpFAQ-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/script/minify/index-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -2137,6 +2351,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/style/css/customers-main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/style/css/helpFAQ.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/helpFAQ-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -2267,6 +2491,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/style/css/header.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/style/scss/helpFAQ.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/helpFAQ.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

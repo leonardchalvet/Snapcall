@@ -114,6 +114,7 @@ footer{
 	}
 
 	.foot{
+		border-top: 1px solid rgba(255, 255, 255, 0.1);
 		height: 65px;
 		.wrapper{
 			height: 100%;
@@ -121,13 +122,18 @@ footer{
 			display: flex;
 			flex-flow: row wrap;
 			align-items: center;
+			> *{
+				&:not(:last-child){
+					border-right: 1px solid rgba(255, 255, 255, 0.1);
+				}
+			}
 		}
 		.container-lg{
 			position: relative;
 			height: 100%;
 			display: flex;
 			flex-flow: row wrap;
-			height: 100%;
+			padding-right: 25px;
 			.lg{
 				cursor: pointer;
 				display: flex;
@@ -143,7 +149,6 @@ footer{
 					color: #FFF;
 				}
 				svg{
-					fill: #FFF;
 					width: 6px;
 				}
 			}
@@ -192,6 +197,10 @@ footer{
 			}
 		}
 		.link{
+			height: 100%;
+			display: flex;
+			flex-flow: row wrap;
+			align-items: center;
 			text-decoration: none;
 			padding: 0px 25px 0px 25px;
 			span{
@@ -200,6 +209,48 @@ footer{
 				line-height: 18px;
 				color: rgba(255, 255, 255, 0.7);
 			}
+		}
+		.container-rs{
+			height: 100%;
+			flex: 1;
+			display: flex;
+			flex-flow: row wrap;
+			align-items: center;
+			padding-left: 35px;
+			padding-right: 35px;
+			.li-rs{
+				flex: 1;
+				display: flex;
+				flex-flow: row wrap;
+				align-items: center;
+				a{
+					display: block;
+					text-decoration: none;
+					&:not(:last-child){
+						margin-right: 35px;
+					}
+					img{
+						height: 18px;
+					}
+				}
+			}
+			.bdg{
+				width: 83px;
+			}
+		}
+		.cpr{
+			padding-left: 25px;
+			height: 100%;
+			display: flex;
+			flex-flow: row wrap;
+			align-items: center;
+			span{
+				font-family: $font_2_Regular;
+				font-size: 13px;
+				line-height: 18px;
+				color: rgba(255, 255, 255, 0.7);
+			}
+			
 		}
 		
 	}

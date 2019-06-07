@@ -77,35 +77,35 @@
 			
 			<div class="container-lg">
 				<div class="lg">
-					<img src="img/footer/flag-fr.svg" alt="">
+					<img src="img/common/flags/fr.svg" alt="">
 					<span>Français</span>
-					<svg class="link-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 5">
-						<use xlink:href="img/common/arrow-3.svg#arrow-3"></use>
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 5">
+						<use xlink:href="img/common/arrow-3-white.svg#arrow-3-white"></use>
 					</svg>
 				</div>
 				<div class="dropdown">
 					<a href="#" class="ch-lg">
-						<img src="img/footer/flags/fr.svg" alt="">
+						<img src="img/common/flags/fr.svg" alt="">
 						<span>Français</span>
 					</a>
 					<a href="#" class="ch-lg">
-						<img src="img/footer/flags/en.svg" alt="">
+						<img src="img/common/flags/en.svg" alt="">
 						<span>Anglais</span>
 					</a>
 					<a href="#" class="ch-lg">
-						<img src="img/footer/flags/es.svg" alt="">
+						<img src="img/common/flags/es.svg" alt="">
 						<span>Espagnol</span>
 					</a>
 					<a href="#" class="ch-lg">
-						<img src="img/footer/flags/it.svg" alt="">
+						<img src="img/common/flags/it.svg" alt="">
 						<span>Italiens</span>
 					</a>
 					<a href="#" class="ch-lg">
-						<img src="img/footer/flags/pt.svg" alt="">
+						<img src="img/common/flags/pt.svg" alt="">
 						<span>Portugais</span>
 					</a>
 					<a href="#" class="ch-lg">
-						<img src="img/footer/flags/de.svg" alt="">
+						<img src="img/common/flags/de.svg" alt="">
 						<span>Allemand</span>
 					</a>
 				</div>
@@ -119,22 +119,22 @@
 			<div class="container-rs">
 				<div class="li-rs">
 					<a href="">
-						<img src="" alt="">
+						<img src="img/common/icn-facebook.svg" alt="">
 					</a>
 					<a href="">
-						<img src="" alt="">
+						<img src="img/common/icn-twitter.svg" alt="">
 					</a>
 					<a href="">
-						<img src="" alt="">
+						<img src="img/common/icn-linkedin.svg" alt="">
 					</a>
 					<a href="">
-						<img src="" alt="">
+						<img src="img/common/icn-instagram.svg" alt="">
 					</a>
 				</div>
-				<div class="bdg"></div>
-				<div class="cpr">
-					©2019 Snapcall. All rights Reserved
-				</div>
+				<img class="bdg" src="img/common/icn-gdpr.svg" alt="">
+			</div>
+			<div class="cpr">
+				<span>©2019 Snapcall. All rights Reserved</span>
 			</div>
 
 		</div>
