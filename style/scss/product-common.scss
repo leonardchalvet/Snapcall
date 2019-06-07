@@ -616,6 +616,33 @@
 			}
 		}
 	}
+
+	#section-logo{
+		.obj-1, 
+		.obj-2, 
+		.obj-3{
+			display: none;
+		}
+		.wrapper{
+			padding-top: 55px;
+			padding-bottom: 55px;
+		}
+		.container-text{
+			.container-logo{
+				justify-content: space-between;
+				.logo{
+					max-width: 45%;
+					&:not(:last-child){
+						margin-right: 0px;
+					}
+					img{
+						width: 100px;
+					}
+				}
+			}
+		}
+		
+	}
 	
 
 }
