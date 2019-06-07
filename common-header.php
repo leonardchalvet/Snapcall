@@ -5,7 +5,7 @@
 		</a>
 		<ul class="container-link">
 			<li>
-				<a>
+				<a class="link-product">
 					<span>Product</span>
 					<img src="img/common/arrow-3.svg" alt="">
 				</a>
@@ -36,7 +36,74 @@
 		</div>
 	</div>
 	<div class="dropdown">
-		
+		<div class="wrapper">
+			<ul>
+				<li>
+					<a href="">
+						<h4>Smart Voice Support.</h4>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="">
+						<h4>Web Calls.</h4>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="">
+						<h4>Shopify.</h4>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="">
+						<h4>Customers Data in Calls.</h4>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="">
+						<h4>Smart Plugs.</h4>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="">
+						<h4>Zendesk.</h4>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="">
+						<h4>Call Recording.</h4>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="">
+						<h4>Data & Analytics.</h4>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+						</p>
+					</a>
+				</li>
+			</ul>
+		</div>
 	</div>
 </header>
 

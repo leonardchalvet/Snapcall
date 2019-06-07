@@ -158,18 +158,12 @@ $(window).on('load', function() {
 	    };
 	});
 
-	$('#header-desktop .li-dropdown').click(function(){
-		if ($(this).hasClass('show')) {
-			$('#header-desktop .li-dropdown').removeClass('show');
-			setTimeout(function() {
-				$('#header-desktop .li-dropdown .dropdown').removeClass('displayBlock');
-			}, 250);
+	$('#header-desktop .link-product').click(function(){
+		console.log('salut');
+		if ($('#header-desktop .dropdown').hasClass('open')) {
+			$('#header-desktop .dropdown').removeClass('open');
 		} else {
-			$('#header-desktop .li-dropdown').removeClass('show');
-			$('#header-desktop .li-dropdown .dropdown').removeClass('displayBlock');
-			
-			$(this).find('.dropdown').addClass('displayBlock').outerWidth();
-			$(this).addClass('show');
+			$('#header-desktop .dropdown').addClass('open');
 		}
 	})
 
