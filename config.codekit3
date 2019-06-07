@@ -177,6 +177,14 @@
 		"oAP": "/common-header.php",
 		"oF": 0
 		},
+	"/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/contact.php",
+		"oF": 0
+		},
 	"/customers-azimo.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -446,12 +454,12 @@
 		},
 	"/img/about/section-partners/logo-laFrenchTech.png": {
 		"ft": 32768,
-		"iS": 3346,
+		"iS": 3434,
 		"oA": 0,
 		"oAP": "/img/about/section-partners/logo-laFrenchTech.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -519,7 +527,7 @@
 	"/img/common/arrow-3.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/img/common/arrow-3.svg",
 		"oF": 1,
 		"opt": 1,
@@ -626,6 +634,16 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
+	"/img/common/flags/fr.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/flags/fr.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/img/common/flags/it.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -659,40 +677,40 @@
 	"/img/common/icn-facebook.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/icn-facebook.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
 	"/img/common/icn-gdpr.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/icn-gdpr.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
 	"/img/common/icn-instagram.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/icn-instagram.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
 	"/img/common/icn-linkedin.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/icn-linkedin.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -719,10 +737,10 @@
 	"/img/common/icn-twitter.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/icn-twitter.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -740,20 +758,20 @@
 	"/img/common/logo-lafayette.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/logo-lafayette.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
 	"/img/common/logo-seloger.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/logo-seloger.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -780,40 +798,40 @@
 	"/img/common/logo-snapcall-white.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/logo-snapcall-white.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
 	"/img/common/logo-station-f.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/logo-station-f.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
 	"/img/common/logo-zendesk-white.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/common/logo-zendesk-white.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
 	"/img/common/sn/fb-black.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "/img/common/sn/fb-black.svg",
-		"oF": 0,
-		"opt": 0,
+		"oF": 1,
+		"opt": 1,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -842,6 +860,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/img/common/sn/tw-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/contact/pattern.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/contact/pattern.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
@@ -1121,15 +1149,16 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/customers-main/section-quotes-bg.svg": {
-		"ft": 2097152,
-		"miP": 0,
+	"/img/customers-main/section-quotes-bg.png": {
+		"ft": 32768,
+		"iS": 39487,
 		"oA": 0,
-		"oAP": "/img/customers-main/section-quotes-bg.svg",
-		"oF": 1,
+		"oAP": "/img/customers-main/section-quotes-bg.png",
+		"oF": 0,
+		"oIPL": 1,
 		"opt": 1,
-		"plM": 4010962575359,
-		"prP": 0
+		"oT": 1,
+		"q": 100
 		},
 	"/img/help/arrow-2.svg": {
 		"ft": 2097152,
@@ -1769,10 +1798,10 @@
 	"/img/product/section-features/shopify-illu-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/img/product/section-features/shopify-illu-1.svg",
-		"oF": 1,
-		"opt": 1,
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -1851,18 +1880,18 @@
 		},
 	"/img/product/section-quotes/user-1.jpg": {
 		"ft": 16384,
-		"iS": 7702,
+		"iS": 8611,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/product/section-quotes/user-2.jpg": {
 		"ft": 16384,
-		"iS": 7177,
+		"iS": 7347,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-2.jpg",
@@ -2106,6 +2135,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/script/js/contact.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/contact-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/script/js/customers-azimo.js": {
 		"bF": 0,
 		"ft": 64,
@@ -2216,6 +2256,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/script/minify/contact-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/script/minify/contact-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/script/minify/customers-azimo-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -2321,6 +2372,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/style/css/about-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/style/css/contact.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/contact-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -2440,6 +2501,19 @@
 		"oA": 1,
 		"oAP": "/style/css/common.css",
 		"oF": 2,
+		"oS": 3,
+		"uL": 1
+		},
+	"/style/scss/contact.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/contact.css",
+		"oF": 0,
 		"oS": 3,
 		"uL": 1
 		},
