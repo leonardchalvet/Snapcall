@@ -1,0 +1,233 @@
+@import 'common.scss';
+@import 'header.scss';
+
+/*===================================
+=            PAGE CONTACT           =
+====================================*/
+
+#section-cover{
+	position: relative;
+	.wrapper{
+		position: relative;
+		width: 450px;
+		margin: auto;
+		padding-top: 150px;
+		padding-bottom: 70px;
+	}
+	h1{
+		@include styleH1;
+		span{
+			&:nth-child(2){
+			 	color: $colorMain_1;
+			}
+		}
+	}
+	p{
+		margin-top: 50px;
+		width: 410px;
+		border-left: 2px solid $colorMain_1;
+		padding-left: 38px;
+		@include styleParagraphBig;
+	}
+	
+}
+/* ANIM */
+#section-cover{
+	h1{
+		transition: all 1000ms cubic-bezier(0.070, 0.965, 0.560, 1.000);
+		transform: translateY(60px);
+		opacity: 0;
+	}
+	p{
+		transition: all 1000ms cubic-bezier(0.070, 0.965, 0.560, 1.000);
+		transform: translateY(60px);
+		opacity: 0;
+	}
+
+	&.ready{
+		h1{
+			transition-delay: 0s;
+			transform: translateY(0px);
+			opacity: 1;
+		}
+		p{
+			transition-delay: 0.1s;
+			transform: translateY(0px);
+			opacity: 1;
+		}
+	}
+}
+
+#section-form {
+	padding-top: 50px;
+	padding-bottom: 250px;
+	.wrapper {
+		@include styleGrid4;
+	}
+	.container-text {
+		width: 680px;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+		h2 {
+			@include styleH3;
+		}
+		p {
+			padding: 0 35px;
+			margin-top: 15px;
+			@include styleParagraphBig;
+		}
+	}
+	.container-form {
+		margin-top: 25px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 680px;
+		input, textarea {
+			width: 100%;
+			padding: 20px 30px;
+			border-radius: 20px;
+			border: 1px solid #DCDCDC;
+			outline: none;
+			@include styleParagraphBig;
+			&:not(:last-child) {
+				margin-bottom: 20px;
+			}
+			&:focus {
+				color: $colorMain_8;
+				border-color: $colorMain_8;
+			}
+		}
+		.validate {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			p {
+				@include styleParagraphSmall;
+				font-size: 12px;
+				padding-right: 100px;
+			}
+			button {
+				cursor: pointer;
+				@include buttonStyle2-color1;
+				outline: none;
+				border: none;
+			}
+		}
+	}
+}
+
+#section-adress {
+	position: relative;
+	.wrapper {
+		@include styleGrid2;
+	}
+	.pattern {
+		position: absolute;
+		left: calc(50% + 100px);
+		transform: translateX(-50%);
+		top: -125px;
+	}
+	.container-text {
+		width: 500px;
+		padding-bottom: 150px;
+		h2 {
+			@include styleH2;
+		}
+		h6 {
+			margin-top: 25px;
+			@include styleH5;
+		}
+		img {
+			margin: 25px 0;
+			width: 140px;
+			height: 25px;
+		}
+		p {
+			@include styleParagraphBig;
+		}
+	}
+	.container-map {
+		position: absolute;
+		right: 0;
+		top: 0;
+		width: calc( ((100% - #{$grid_desktop_2}) / 2) + (#{$grid_desktop_2} / 2) );
+		height: 100%;
+		iframe {
+			width: 100%;
+			height: 100%;
+		}
+	}
+}
+
+@media screen and (max-width: $breakPoint_mobile) {
+	#section-cover .wrapper {
+		width: 100%;
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	#section-cover p {
+		width: 100%;
+	}
+
+	#section-form {
+		padding-bottom: 0;
+	}
+	#section-form .wrapper {
+		position: relative;
+		padding-bottom: 75px;
+		&:before {
+			content: " ";
+			position: absolute;
+			left: 25px;
+			bottom: 0;
+			width: calc(100% - 50px);
+			height: 1px;
+			background-color: #D0D0D0;
+		}
+	}
+	#section-form .container-text {
+		width: 100%;
+	}
+	#section-form .container-form {
+		margin-top: 50px;
+		width: 100%;
+	}
+	#section-form .container-form .validate {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	#section-form .container-form .validate p {
+		padding-right: 0;
+	}
+	#section-form .container-form .validate button {
+		margin-top: 40px;
+	}
+
+	#section-adress {
+		margin-top: 75px;
+	}
+	#section-adress .pattern {
+		display: none;
+	}
+	#section-adress .wrapper {
+		padding: 0;
+	}
+	#section-adress .container-text {
+		width: 100%;
+		padding-left: 25px;
+		padding-right: 25px;
+		padding-bottom: 50px;
+	}
+	#section-adress .container-map {
+		position: relative;
+		width: 100%;
+		height: 275px;
+	}
+}
+
+/*=======================================
+=            END PAGE CONTACT           =
+========================================*/
+
+@import 'footer.scss';

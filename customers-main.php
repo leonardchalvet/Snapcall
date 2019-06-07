@@ -60,7 +60,7 @@
 				</div>
 			</section>	
 
-			<section class="cm-section-quotes section-quotes-1 nomarge sectionAnim_container">
+			<section class="cm-section-quotes section-quotes-1 nomarge sectionAnim_container" data-carousel="on">
 				<div class="wrapper elAnim__fade">
 					<div class="container-quotes">
 						<div class="quote">
@@ -196,7 +196,9 @@
 							</div>
 						</div>
 					</div>
-					<img class="background" src="img/customers-main/section-quotes-bg.svg" alt="">
+					<div class="container-background">
+						<img class="background" src="img/customers-main/section-quotes-bg.svg" alt="">
+					</div>
 				</div>
 			</section>
 
@@ -357,7 +359,7 @@
 				</div>
 			</section>
 
-			<section class="cm-section-quotes section-quotes-2 large green nomarge sectionAnim_container">
+			<section class="cm-section-quotes section-quotes-2 large green nomarge sectionAnim_container" data-carousel="on">
 				<div class="wrapper elAnim__fade">
 					<div class="container-quotes">
 						<div class="quote">

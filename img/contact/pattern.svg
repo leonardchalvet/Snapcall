@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="544px" height="385px" viewBox="0 0 544 385" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Path Copy + Path Mask</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="6c-Contact" transform="translate(-586.000000, -1508.000000)" stroke="#4CD964" stroke-width="3">
+            <g id="Section-2" transform="translate(234.000000, 1438.000000)">
+                <g id="Path-Copy-+-Path-Mask" transform="translate(353.991146, 0.365858)">
+                    <ellipse id="Oval" cx="20.3686489" cy="116" rx="20.0074529" ry="20"></ellipse>
+                    <path d="M163.881387,17.3436413 C163.881387,17.3436413 257.705678,129.863024 254.000027,205.913606 C250.294376,281.964187 145.761973,278.877296 138.307178,357.397391 C130.852383,435.917486 274.424599,460.647403 308.427858,458.177889 C342.431117,455.708376 375.225255,437.769621 374.607647,395.727023 C373.990039,353.684425 381.888468,339.206467 398.259441,332.476173 C423.120355,322.206823 454.670578,275.886054 403.556955,226.469697 C332.22753,157.540706 367.892243,65.6035004 431.227553,27.2564772" id="Path-Copy" transform="translate(284.627351, 237.843641) scale(-1, 1) rotate(-120.000000) translate(-284.627351, -237.843641) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

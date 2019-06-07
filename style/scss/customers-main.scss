@@ -138,8 +138,16 @@
 	margin-top: 170px;
 	.wrapper{
 		@include styleGrid3;
-		border-bottom: 1px solid #D0D0D0;
 		padding-bottom: 135px;
+		&:before {
+			content: " ";
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			width: 100%;
+			height: 1px;
+			background-color: #D0D0D0;
+		}
 	}
 	.container-text{
 		text-align: center;
@@ -331,6 +339,83 @@
 				
 			}
 		}
+	}
+}
+
+@media screen and (max-width: $breakPoint_mobile) {
+	#section-cover {
+		padding-bottom: 50px;
+	}
+	#section-cover .wrapper {
+		flex-direction: column;
+	}
+	#section-cover .container-background {
+		left: 0;
+		width: 270px;
+		height: 777px;
+	}
+	#section-cover .container-text {
+		width: 100%;
+		margin-right: 0;
+		padding-bottom: 0px;
+	}
+	#section-cover.ready .container-text h1 {
+		hyphens: auto;
+	}
+	#section-cover .container-illu {
+		width: 100%;
+		height: 550px;
+		transform: translateY(-25px) translateX(-10px);
+	}
+
+	#section-articles {
+		margin-top: 150px;
+	}
+	#section-articles .wrapper {
+		padding: 0;
+	}
+	#section-articles .wrapper:before {
+		left: 25px;
+		width: calc(100% - 50px);
+	}
+	#section-articles .container-text {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	#section-articles .container-thumbnails {
+		display: block;
+		white-space: nowrap;
+		overflow-x: scroll;
+		padding-top: 10px;
+    	padding-bottom: 100px;
+	}
+	#section-articles .container-thumbnails .thumbnail {
+		display: inline-block;
+		margin-right: 20px;
+		&:first-child {
+			margin-left: 20px;
+		}
+	}
+
+	#section-platforms .container-platforms {
+		width: 100%;
+	}
+	#section-platforms .container-platforms .container-el {
+		margin-top: 75px;
+		justify-content: space-between;
+	}
+	#section-platforms .container-platforms .container-el .el {
+		width: calc(100% / 3 - 20px);
+		margin-bottom: 150px;
+		margin-right: 0;
+	}
+	@for $i from 1 through 20 {
+		#section-platforms .container-platforms .container-el .el:nth-child(#{$i}) {
+			top: 0;
+		}
+	}
+	#section-platforms .container-platforms .container-el .el:nth-child(3n + 2) {
+		top: 50px
 	}
 }
 
