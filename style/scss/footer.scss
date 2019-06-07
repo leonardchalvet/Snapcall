@@ -259,9 +259,62 @@ footer{
 
 @media screen and (max-width: $breakPoint_mobile) {
 	footer{
+		
+		.container-links{
+			.col{
+				width: 50%;
+				&:not(:last-child){
+					margin-bottom: 50px;
+				}
+			}
+		}
 		.container-newletters{
+			padding-left: 25px;
+			padding-right: 25px;
 			.container-input{
 				width: 100%;
+			}
+		}
+		.foot{
+			padding-bottom: 30px;
+			height: initial;
+			.wrapper{
+				height: initial;
+				>*{
+					height: initial;
+					width: 50%;
+				}
+				.container-lg{
+					width: 100%;
+					height: 65px;
+					padding-right: 0px;
+					border-right: none;
+					justify-content: center;
+				}
+				.link{
+					border-right: none;
+				}
+				.container-rs{
+					border-right: none;
+					width: 100%;
+					flex: initial;
+					padding-right: 0px;
+					padding-left: 0px;
+					margin-top: 25px;
+					.li-rs{
+						a{
+							img{
+								height: 26px;
+							}
+						}
+					}
+				}
+				.cpr{
+					width: 100%;
+					margin-top: 25px;
+					padding-left: 0px;
+					justify-content: center;
+				}
 			}
 		}
 	}
