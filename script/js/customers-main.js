@@ -5,7 +5,7 @@ $(window).on('load', function() {
 		var animation = bodymovin.loadAnimation({
 		  container: document.getElementById('cover-anim'),
 		  renderer: 'svg',
-		  loop: false,
+		  loop: true,
 		  autoplay: true,
 		  path: 'bodymovin/customers-main/data.json'
 		})

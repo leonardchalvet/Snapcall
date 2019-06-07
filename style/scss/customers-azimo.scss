@@ -802,7 +802,209 @@
 		}
 	}
 }
+@media screen and (max-width: $breakPoint_mobile) {
 
+	#section-cover .container-background {
+		left: 0;
+		width: calc(100% - 100px);
+	}
+	#section-cover .container-text {
+		width: 100%;
+	}
+	#section-cover .container-text p {
+		width: 100%;
+	}
+	#section-cover.ready .container-illu {
+		display: none;
+	}
+
+	#section-fetaures {
+		margin-top: 75px;
+	}
+	#section-fetaures .container-features .feature:nth-last-child(1n + 3) {
+		margin-bottom: 50px;
+	}
+	#section-fetaures .wrapper {
+		border: none;
+	}
+
+	#section-content {
+		margin-top: 25px;
+	}
+	#section-content .sidebar,
+	#section-content .sidebar .container-el {
+		width: 100%;
+	}
+	#section-content .sidebar .container-el {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	#section-content .sidebar .container-el .el {
+		width: 50%;
+		&:not(:last-child) {
+			margin-bottom: 40px;	
+		}
+	}
+	#section-content .sidebar a {
+		margin-top: 75px;
+	}
+	#section-content .container {
+		margin-top: 50px;
+		width: 100%;
+	}
+	#section-content .container .blog-section-head {
+		padding-right: 0;
+	}
+	#section-content .container .blog-section-head .paragraph-3 {
+		width: 100%;
+	}
+
+	#section-content .container .container-sn {
+		display: none;
+	}
+
+	#section-content .container .blog-section-quotes.blog-section-quotes-1 h2 {
+		margin-bottom: 0;
+	}
+	#section-content .container .blog-section-quotes{
+		.obj-1{
+			display: none;
+		}
+		.obj-2{
+			display: none;
+		}
+		.container-quotes{
+			padding: 40px 0px 40px 0px;
+			.quote{
+				.content{
+					width: 100%;
+					margin-top: 50px;
+					.container-pr{
+						.pp{
+							margin-right: auto;
+							margin-left: auto;
+						}
+						.text{
+							margin-top: 50px;
+							width: 100%;
+							flex: initial;
+						}
+					}
+				}
+			}
+		}
+	}
+	#section-content .container .blog-section-features .container-features {
+		margin-top: 75px;
+	}
+	#section-content .container .blog-section-features .container-features .feature {
+		width: calc(50% - 20px);
+		&:nth-last-child(1n + 3) {
+			margin-bottom: 40px;
+		}
+	}
+	#section-content .container .blog-section-pres-1 {
+		margin-top: 100px;
+	}
+	#section-content .container .blog-section-pres-1 .container-pres {
+		justify-content: center;
+	}
+	#section-content .container .blog-section-pres-1 .container-pres .pres:nth-child(1) {
+		order: 3;
+		transform: translateX(35px);
+	}
+	#section-content .container .blog-section-pres-1 .container-pres .pres:nth-child(2) {
+		order: 1;
+		margin-top: 0;
+		transform: translateX(-35px);
+	}
+	#section-content .container .blog-section-pres-1 .container-pres .obj {
+		order: 2;
+		position: relative;
+		width: 340px;
+		height: 150px;
+		top: auto;
+		left: auto;
+		transform: none;
+		margin: 70px 0;
+	}
+	#section-content .container .blog-section-pres-1 .container-pres .pres:nth-child(2) .container-img:before {
+		top: 20px;
+		left: -25px;
+	}
+	#section-content .container .blog-section-pres-1 .container-pres .pres p {
+		margin-top: 75px;
+		transform: translateX(-35px);
+	}
+	#section-content .container .blog-section-pres-2 {
+		margin-top: 75px;
+		padding-right: 0;
+	}
+	#section-content .container .blog-section-pres-2 > p {
+		margin-bottom: 60px;
+	}
+	#section-content .container .blog-section-pres-2 .pres,
+	#section-content .container .blog-section-pres-2 q {
+		width: 100%;
+	}
+
+	#section-support {
+		margin-top: 0;
+	}
+	#section-support .obj-1,
+	#section-support .obj-2,
+	#section-support .obj-3 {
+		display: none;
+	}
+	#section-support .wrapper {
+		position: relative;
+		border: none;
+		padding-top: 75px;
+		padding-bottom: 75px;
+		&:before {
+			content: " ";
+			position: absolute;
+			bottom: 0;
+			left: 25px;
+			width: calc(100% - 50px);
+			height: 1px;
+			background-color: #D0D0D0;
+		}
+	}
+	#section-support .container-el .el {
+		width: calc(50% - 20px);
+		height: 130px;
+	}
+
+	#section-articles {
+		margin-top: 75px;
+	}
+	#section-articles .wrapper {
+		padding: 0;
+	}
+	#section-articles .wrapper:before {
+		left: 25px;
+		width: calc(100% - 50px);
+	}
+	#section-articles .container-text {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	#section-articles .container-thumbnails {
+		display: block;
+		white-space: nowrap;
+		overflow-x: scroll;
+		padding-top: 10px;
+    	padding-bottom: 100px;
+	}
+	#section-articles .container-thumbnails .thumbnail {
+		display: inline-block;
+		margin-right: 20px;
+		&:first-child {
+			margin-left: 20px;
+		}
+	}
+}
 /*==============================================
 =            END PAGE MAIN CUSTOMERS           =
 ==============================================*/

@@ -197,7 +197,7 @@
 						</div>
 					</div>
 					<div class="container-background">
-						<img class="background" src="img/customers-main/section-quotes-bg.svg" alt="">
+						<img class="background" src="img/customers-main/section-quotes-bg.png" alt="">
 					</div>
 				</div>
 			</section>
@@ -309,6 +309,7 @@
 			</section>
 
 			<section id="cm-section-features" class="sectionAnim_container">
+				<img class="obj-1" src="img/common/cm-section-features.svg" alt="">
 				<div class="wrapper">
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_0">
@@ -360,6 +361,8 @@
 			</section>
 
 			<section class="cm-section-quotes section-quotes-2 large green nomarge sectionAnim_container" data-carousel="on">
+				<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
+				<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">
 				<div class="wrapper elAnim__fade">
 					<div class="container-quotes">
 						<div class="quote">
