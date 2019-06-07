@@ -79,7 +79,7 @@
 							Where you can find us.
 						</h2>
 						<h6 class="elAnim__slide anim__delayMedium_1">Paris,</h6>
-						<img class="elAnim__slide anim__delayMedium_2" src="img/product/logo-stationF.svg">
+						<img class="elAnim__slide anim__delayMedium_2" src="img/product/logo-StationF.svg">
 						<p class="elAnim__slide anim__delayMedium_3">
 							55 parvis Alan Turing, 75013 Paris
 						</p>
