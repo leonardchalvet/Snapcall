@@ -488,6 +488,73 @@
 	}
 }
 
+@media screen and (max-width: $breakPoint_mobile) {
+	#section-cover{
+		.wrapper{
+			@include styleGrid1;
+		}
+		p{
+			width: 100%;
+		}
+	}
+	#section-table{
+		.container-action{
+			flex-flow: row wrap;
+			.container-date{
+				width: 100%;
+				margin-right: 0px;
+			}
+			.container-money{
+				margin-top: 25px;
+				width: 100%;
+			}
+		}
+		.container-table{
+			width: calc(100% + 50px);
+			margin-left: -25px;
+			-webkit-overflow-scrolling: touch;
+			overflow: auto;
+			>*{
+				width: 1100px;
+			}
+
+			
+		}
+	}
+	#section-faq{
+		.wrapper{
+			padding-bottom: 55px;
+		}
+		.container-questions{
+			margin-top: 40px;
+			.question{
+				padding: 24px;
+			}
+		}
+	}
+	#section-support{
+		.obj-1, 
+		.obj-2, 
+		.obj-3{
+			display: none;
+		}
+		.wrapper{
+
+			padding-top: 55px;
+			padding-bottom: 55px;
+		}
+		.container-el{
+			justify-content: space-between;
+			.el{
+				width: 45%;
+				&:not(:last-child){
+					margin-right: 0px;
+				}
+			}
+		}
+	}
+}
+
 /*==============================================
 =            END PAGE MAIN CUSTOMERS           =
 ==============================================*/
