@@ -16,7 +16,7 @@
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
 		<?php include('common-header.php') ?>
@@ -38,7 +38,7 @@
 					</div>
 					<div class="container-action elAnim__slide anim__delayMedium_3">
 						<div class="line"></div>
-						<a href="" class="cm-button-style1">
+						<a href="https://www.zendesk.com/apps/support/snapcall/" class="cm-button-style1">
 							<span class="btn-text">Get It Now</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -70,7 +70,7 @@
 									Offer voice support only to VIP customers or according to defined criteria.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="">
+									<a href="./product-smart-voice-support.php">
 										<span class="btn-text">Explore Smart Voice Support</span>
 									</a>
 								</div>
@@ -89,7 +89,7 @@
 									Pick calls with one click and generate an automatic Zendesk ticket for each caller.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="">
+									<a href="./product-smart-plugs.php">
 										<span class="btn-text">Explore Smart Plugs</span>
 									</a>
 								</div>
@@ -138,7 +138,7 @@
 											</h3>
 										</div>
 										<p>
-											Review your interactions with them. 
+											Review your interactions with them.
 										</p>
 									</li>
 									<li class="elAnim__slide anim__delayMedium_5">
@@ -165,7 +165,7 @@
 									</li>
 								</ul>
 								<div class="container-button elAnim__slide anim__delayMedium_7">
-									<a href="">
+									<a href="product-customer-data-in-call.php">
 										<span class="btn-text">Explore Customer Data in Calls</span>
 									</a>
 								</div>
@@ -184,7 +184,7 @@
 									Be close to your customers without having to buy phone numbers in each country.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="">
+									<a href="./product-web-calls">
 										<span class="btn-text">Explore Web Calls</span>
 									</a>
 								</div>
@@ -203,7 +203,7 @@
 									Choose who is the best agent or team to take specific calls. According to skills or schedule.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="">
+									<a href="product-smart-voice-support.php">
 										<span class="btn-text">Explore Smart Voice Support</span>
 									</a>
 								</div>
@@ -222,7 +222,7 @@
 									Connecting to the right agent is as simple as a click. Deliver an outstanding customer experience and improve your NPS.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="">
+									<a href="./product-web-calls">
 										<span class="btn-text">Explore Web Calls</span>
 									</a>
 								</div>
@@ -241,7 +241,7 @@
 									Keep an eye on your interactions in real time and assess your team’s performance.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="">
+									<a href="./product-call-recording.php">
 										<span class="btn-text">Explore Call Recording</span>
 									</a>
 								</div>
@@ -322,7 +322,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -334,15 +334,15 @@
 								</div>
 								<div class="container-action">
 									<div class="container-nav">
-										
+
 									</div>
 
 									<div class="container-button">
-										<a href="">
+										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -379,7 +379,7 @@
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_1">Your Zendesk support.<br>Just better.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="" class="cm-button-style1">
+							<a href="https://www.zendesk.com/apps/support/snapcall/" class="cm-button-style1">
 								<span class="btn-text">Connect with Zendesk</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -388,7 +388,7 @@
 								</span>
 							</a>
 						</div>
-						
+
 					</div>
 				</div>
 			</section>

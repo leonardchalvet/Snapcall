@@ -16,13 +16,13 @@
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
-		<?php 
+		<?php
 			$styleHeaderMobile = "style-white";
-			include('common-header.php'); 
-		?> 
+			include('common-header.php');
+		?>
 
 		<main>
 
@@ -36,14 +36,14 @@
 							Customer stories
 						</h2>
 						<h1>
-							Redefining<br> 
+							Redefining<br>
 							Personalization.
 						</h1>
 						<p>
 							Startups, unicorns and enterprise companies are transforming their customer relationships with voice.
 						</p>
 						<div class="container-button">
-							<a href="" class="cm-button-style1">
+							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Try Free</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -55,10 +55,10 @@
 
 					</div>
 					<div class="container-illu" id=cover-anim>
-						
+
 					</div>
 				</div>
-			</section>	
+			</section>
 
 			<section class="cm-section-quotes section-quotes-1 nomarge sectionAnim_container" data-carousel="on">
 				<div class="wrapper elAnim__fade">
@@ -74,7 +74,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -103,7 +103,7 @@
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -118,7 +118,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -143,11 +143,11 @@
 									</div>
 
 									<div class="container-button">
-										<a href="">
+										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -162,7 +162,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -191,7 +191,7 @@
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -376,7 +376,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -401,11 +401,11 @@
 									</div>
 
 									<div class="container-button">
-										<a href="">
+										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -420,7 +420,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -449,7 +449,7 @@
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -464,7 +464,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -493,7 +493,7 @@
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -518,7 +518,7 @@
 								</span>
 							</a>
 						</div>
-						
+
 					</div>
 				</div>
 			</section>

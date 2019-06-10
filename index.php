@@ -16,13 +16,13 @@
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
-		<?php 
+		<?php
 			$styleHeaderMobile = "style-white";
-			include('common-header.php'); 
-		?> 
+			include('common-header.php');
+		?>
 
 
 		<main>
@@ -33,18 +33,18 @@
 						<div class="background"></div>
 					</div>
 					<div class="container-illu" id="cover-anim">
-						
+
 					</div>
 					<div class="container-text">
 						<h1>
-							<span>Meet</span> 
+							<span>Meet</span>
 							<span>SnapCall.</span>
 						</h1>
 						<p>
 							Valuable conversations only.
 						</p>
 						<div class="container-button">
-							<a href="" class="cm-button-style1">
+							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Get Started</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -63,7 +63,7 @@
 						<div class="container-text">
 							<h3>YOU ARE IN GOOD COMPANY</h3>
 						</div>
-						
+
 						<div class="container-el">
 							<div class="el">
 								<img src="img/home/section-logos/icn-azimo.svg" alt="">
@@ -144,15 +144,15 @@
 									</li>
 								</ul>
 								<div class="container-button elAnim__slide anim__delayMedium_5">
-									<a href="">
+									<a href="./product-web-calls.php">
 										<span class="btn-text">Explore it now</span>
 									</a>
 								</div>
-								
+
 							</div>
 							<div class="container-illu">
 								<iframe class="illu" src="https://player.vimeo.com/video/335425367?api=1&loop=1&background=1&mute=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-								
+
 								<div class="infos">
 									<img class="icn" src="img/home/section-features/icn-illu-feature-1.svg" alt="">
 									<p>
@@ -189,7 +189,7 @@
 									</li>
 								</ul>
 								<div class="container-button elAnim__slide anim__delayMedium_6">
-									<a href="">
+									<a href="./product-smart-voice-support.php">
 										<span class="btn-text">Explore it now</span>
 									</a>
 								</div>
@@ -237,7 +237,7 @@
 
 								</ul>
 								<div class="container-button elAnim__slide anim__delayMedium_7">
-									<a href="">
+									<a href="./product-customer-data-in-call.php">
 										<span class="btn-text">Explore it now</span>
 									</a>
 								</div>
@@ -272,7 +272,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -297,11 +297,11 @@
 									</div>
 
 									<div class="container-button">
-										<a href="">
+										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -316,7 +316,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -341,11 +341,11 @@
 									</div>
 
 									<div class="container-button">
-										<a href="">
+										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -360,7 +360,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -385,11 +385,11 @@
 									</div>
 
 									<div class="container-button">
-										<a href="">
+										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -446,7 +446,7 @@
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_1">Ready to super power your business with voice?</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="" class="cm-button-style1">
+							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Get Started</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -455,11 +455,11 @@
 								</span>
 							</a>
 						</div>
-						
+
 					</div>
 				</div>
 			</section>
-			
+
 		</main>
 
 		<?php include('common-footer.php') ?>
@@ -470,6 +470,6 @@
 
 		<script type="text/javascript" src="script/minify/index-min.js"></script>
 
-		
+
 	</body>
 </html>

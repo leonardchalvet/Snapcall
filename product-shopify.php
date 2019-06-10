@@ -16,7 +16,7 @@
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
 		<?php include('common-header.php') ?>
@@ -38,7 +38,7 @@
 					</div>
 					<div class="container-action elAnim__slide anim__delayMedium_3">
 						<div class="line"></div>
-						<a href="" class="cm-button-style1">
+						<a href="https://shopify.snapcall.io" class="cm-button-style1">
 							<span class="btn-text">Get It Now</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -70,7 +70,7 @@
 									Keep your customers engaged on their shopping experience when placing calls.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="">
+									<a href="./product-web-calls.php">
 										<span class="btn-text">Explore Web Calls</span>
 									</a>
 								</div>
@@ -123,7 +123,7 @@
 									</li>
 								</ul>
 								<div class="container-button elAnim__slide anim__delayMedium_6">
-									<a href="">
+									<a href="./product-smart-voice-support.php">
 										<span class="btn-text">Explore Smart Voice Support</span>
 									</a>
 								</div>
@@ -142,7 +142,7 @@
 									Switch on and off your call buttons according to your preferences and availability.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="">
+									<a href="./product-smart-voice-support.php">
 										<span class="btn-text">Explore Smart Voice Support</span>
 									</a>
 								</div>
@@ -180,7 +180,7 @@
 									</li>
 								</ul>
 								<div class="container-button elAnim__slide anim__delayMedium_4">
-									<a href="">
+									<a href="./product-data-analytics.php">
 										<span class="btn-text">Explore Data & Analytics</span>
 									</a>
 								</div>
@@ -246,7 +246,7 @@
 						</div>
 					</div>
 				</div>
-				
+
 			</section>
 
 			<section id="cm-section-banner" class="sectionAnim_container">
@@ -257,7 +257,7 @@
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_1">Your ecommerce already feels smarter.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="" class="cm-button-style1">
+							<a href="https://shopify.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Connect with Shopify</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -266,7 +266,7 @@
 								</span>
 							</a>
 						</div>
-						
+
 					</div>
 				</div>
 			</section>

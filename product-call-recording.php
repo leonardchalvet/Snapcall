@@ -16,7 +16,7 @@
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
 		<?php include('common-header.php') ?>
@@ -38,7 +38,7 @@
 					</div>
 					<div class="container-action elAnim__slide anim__delayMedium_3">
 						<div class="line"></div>
-						<a href="" class="cm-button-style1">
+						<a href="https://register.snapcall.io" class="cm-button-style1">
 							<span class="btn-text">Start Now</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -84,7 +84,7 @@
 									Analyse call recordings in two different channels.
 								</h3>
 								<p class="elAnim__slide anim__delayMedium_1">
-									Save time and listen to each party recordings separately. Assess your team’s performance, customer satisfaction and sentiment. 
+									Save time and listen to each party recordings separately. Assess your team’s performance, customer satisfaction and sentiment.
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
@@ -111,7 +111,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -123,15 +123,15 @@
 								</div>
 								<div class="container-action">
 									<div class="container-nav">
-										
+
 									</div>
 
 									<div class="container-button">
-										<a href="">
+										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -147,7 +147,7 @@
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_1">Be always on the loop.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="" class="cm-button-style1">
+							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Start Now</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -156,7 +156,7 @@
 								</span>
 							</a>
 						</div>
-						
+
 					</div>
 				</div>
 			</section>

@@ -16,7 +16,7 @@
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
 		<?php include('common-header.php') ?>
@@ -38,7 +38,7 @@
 					</div>
 					<div class="container-action elAnim__slide anim__delayMedium_3">
 						<div class="line"></div>
-						<a href="" class="cm-button-style1">
+						<a href="https://register.snapcall.io" class="cm-button-style1">
 							<span class="btn-text">Start Now</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -103,7 +103,7 @@
 						</div>
 					</div>
 				</div>
-				
+
 			</section>
 
 			<section id="section-features">
@@ -142,7 +142,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -167,11 +167,11 @@
 									</div>
 
 									<div class="container-button">
-										<a href="">
+										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -187,7 +187,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
@@ -212,11 +212,11 @@
 									</div>
 
 									<div class="container-button">
-										<a href="">
+										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -241,7 +241,7 @@
 								</span>
 							</a>
 						</div>
-						
+
 					</div>
 				</div>
 			</section>
