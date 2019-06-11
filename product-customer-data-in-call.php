@@ -182,7 +182,7 @@
 						<h2 class="elAnim__slide anim__delayMedium_1">Get the full picture.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
 							<a href="https://register.snapcall.io" class="cm-button-style1">
-								<span class="btn-text">Create your Free Account</span>
+								<span class="btn-text">Start now</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
