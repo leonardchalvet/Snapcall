@@ -280,7 +280,7 @@
 								</div>
 								<div class="job">
 									<img src="img/common/logo-azimo-white.png" alt="">
-									<span>Front-End Software Engineer of Azimo</span>
+									<span>Front-End Software Engineer</span>
 								</div>
 							</div>
 							<div class="content">

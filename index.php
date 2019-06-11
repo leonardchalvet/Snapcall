@@ -265,21 +265,21 @@
 						<div class="quote">
 							<div class="head">
 								<div class="name">
-									Alessandro Angioni 1
+									Paul Cochois
 								</div>
 								<div class="job">
-									<img src="img/common/logo-azimo-white.png" alt="">
-									<span>Business Account Manager</span>
+									<img src="img/common/logo-seloger-white.png" alt="">
+									<span>Product Manager</span>
 								</div>
 							</div>
 							<div class="content">
 
 								<div class="container-pr">
-									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
+									<div class="pp" style="background-image: url(img/product/section-quotes/user-3.jpg);"></div>
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
-											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
+											We are a user centric site and we couldn’t perform as such using standard traditional phone calls. That’s why we <i>switched to digital</i> with SnapCall
 										</q>
 									</div>
 								</div>
@@ -309,7 +309,7 @@
 						<div class="quote">
 							<div class="head">
 								<div class="name">
-									Alessandro Angioni 2
+									Alessandro Angioni
 								</div>
 								<div class="job">
 									<img src="img/common/logo-azimo-white.png" alt="">
@@ -319,55 +319,11 @@
 							<div class="content">
 
 								<div class="container-pr">
-									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
+									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
-											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
-										</q>
-									</div>
-								</div>
-								<div class="container-action">
-									<div class="container-nav">
-										<div class="nav nav-prev">
-											<svg class="btn-arrow" viewBox="0 0 23 22">
-											   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
-											</svg>
-										</div>
-										<div class="nav nav-next">
-											<svg class="btn-arrow" viewBox="0 0 23 22">
-											   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
-											</svg>
-										</div>
-									</div>
-
-									<div class="container-button">
-										<a href="./customers-azimo.php">
-											<span class="btn-text">Read their story</span>
-										</a>
-									</div>
-
-								</div>
-							</div>
-						</div>
-						<div class="quote">
-							<div class="head">
-								<div class="name">
-									Alessandro Angioni 3
-								</div>
-								<div class="job">
-									<img src="img/common/logo-azimo-white.png" alt="">
-									<span>Business Account Manager</span>
-								</div>
-							</div>
-							<div class="content">
-
-								<div class="container-pr">
-									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
-									<div class="text">
-										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
-										<q class="wrapLine">
-											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
+											SnapCall has become the <i>core of our phone support operation</i>. We plan to continue rolling-out support in new languages and to different segments of customers in the future.
 										</q>
 									</div>
 								</div>

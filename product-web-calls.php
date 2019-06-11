@@ -154,24 +154,22 @@
 								</div>
 								<div class="job">
 									<img src="img/common/logo-azimo-white.png" alt="">
-									<span>Business Account Manager of Azimo</span>
+									<span>Business Account Manager</span>
 								</div>
 							</div>
 							<div class="content">
 
 								<div class="container-pr">
-									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
+									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											SnapCall facilitates for customers outside Europe to reach us. <i>Initiating a call</i> is as <i>easy</i> and effortless as initiating a chat.
 										</q>
 									</div>
 								</div>
 								<div class="container-action">
-									<div class="container-nav">
-
-									</div>
+									<div class="container-nav"></div>
 
 									<div class="container-button">
 										<a href="./customers-azimo.php">
