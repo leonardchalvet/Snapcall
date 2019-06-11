@@ -198,14 +198,14 @@
 									Sébastien Blanc
 								</div>
 								<div class="job">
-									<img src="img/common/logo-azimo-white.png" alt="">
-									<span>Head of Marketing of SeLoger</span>
+									<img src="img/common/logo-seloger.svg" alt="">
+									<span>Head of Marketing</span>
 								</div>
 							</div>
 							<div class="content">
 
 								<div class="container-pr">
-									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
+									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote.svg" alt="">
 										<q class="wrapLine">
