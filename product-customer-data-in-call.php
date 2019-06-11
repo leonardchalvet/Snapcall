@@ -16,7 +16,7 @@
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
 		<?php include('common-header.php') ?>
@@ -38,7 +38,7 @@
 					</div>
 					<div class="container-action elAnim__slide anim__delayMedium_3">
 						<div class="line"></div>
-						<a href="" class="cm-button-style1">
+						<a href="https://register.snapcall.io" class="cm-button-style1">
 							<span class="btn-text">Start Now</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -113,7 +113,7 @@
 						<div class="el sectionAnim_container">
 							<div class="text">
 								<h3 class="elAnim__slide anim__delayMedium_0">
-									Customer intention. 
+									Customer intention.
 								</h3>
 								<p class="elAnim__slide anim__delayMedium_1">
 									Be one step ahead by anticipating their behavior and needs.
@@ -147,7 +147,7 @@
 								</div>
 							</div>
 							<div class="content">
-								
+
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 									<div class="text">
@@ -161,11 +161,11 @@
 									<div class="container-nav"></div>
 
 									<div class="container-button">
-										<a href="">
+										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
@@ -181,7 +181,7 @@
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_1">Get the full picture.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="" class="cm-button-style1">
+							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Create your Free Account</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -190,7 +190,7 @@
 								</span>
 							</a>
 						</div>
-						
+
 					</div>
 				</div>
 			</section>

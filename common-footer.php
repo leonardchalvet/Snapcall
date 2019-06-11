@@ -4,27 +4,27 @@
 	</div>
 	<div class="container-links">
 		<div class="wrapper">
-			
+
 			<div class="col">
 				<ul>
 					<li><a href="">Platform</a></li>
-					<li><a href="">Smart voice support</a></li>
-					<li><a href="">Customer data in calls</a></li>
-					<li><a href="">Web calls</a></li>
-					<li><a href="">Smart plugs</a></li>
-					<li><a href="">Call recording</a></li>
-					<li><a href="">Data and analytics</a></li>
+					<li><a href="./product-smart-voice-support.php">Smart voice support</a></li>
+					<li><a href="./product-customer-data-in-call.php">Customer data in calls</a></li>
+					<li><a href="./product-web-calls.php">Web calls</a></li>
+					<li><a href="./product-smart-plugs.php">Smart plugs</a></li>
+					<li><a href="./product-call-recording.php">Call recording</a></li>
+					<li><a href="./product-data-analytics.php">Data and analytics</a></li>
 				</ul>
 			</div>
 
 			<div class="col">
 				<ul>
-					<li><a href="">About</a></li>
-					<li><a href="">Customers</a></li>
+					<li><a href="./about.php">About</a></li>
+					<li><a href="./customers-main.php">Customers</a></li>
 					<li><a href="">Company</a></li>
-					<li><a href="">Blog</a></li>
+					<li><a href="https://blog.snapcall.io">Blog</a></li>
 					<li><a href="">Events</a></li>
-					<li><a href="">Careers</a></li>
+					<li><a href="https://jobs.stationf.co/companies/snapcall-2">Careers</a></li>
 					<li><a href="">Media kit</a></li>
 				</ul>
 			</div>
@@ -52,7 +52,7 @@
 				<ul>
 					<li><a>Try SnapCall</a></li>
 					<li><a>Pricing</a></li>
-					<a class="button" href="">
+					<a class="button" href="./tarifs.php">
 						<span class="btn-text">
 							Try it free
 						</span>
@@ -61,7 +61,7 @@
 			</div>
 
 		</div>
-		
+
 	</div>
 	<div class="container-newletters">
 		<h4>Get SnapCall updates. No spam, just fun</h4>
@@ -74,7 +74,7 @@
 	</div>
 	<div class="foot">
 		<div class="wrapper">
-			
+
 			<div class="container-lg">
 				<div class="lg">
 					<img src="img/common/flags/fr.svg" alt="">
@@ -111,9 +111,9 @@
 				</div>
 			</div>
 			<a class="link" href="">
-				<span>Legal</span>  
+				<span>Legal</span>
 			</a>
-			<a class="link" href="">
+			<a class="link" href="./terms.php">
 				<span>Terms and Conditions</span>
 			</a>
 			<div class="container-rs">

@@ -14,13 +14,13 @@
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
-		<?php 
+		<?php
 			$styleHeaderMobile = "style-white";
-			include('common-header.php'); 
-		?> 
+			include('common-header.php');
+		?>
 
 		<main>
 
@@ -38,7 +38,7 @@
 							We believe in the power of voice, warm conversations and snap connections
 						</p>
 						<div class="container-button">
-							<a href="" class="cm-button-style1">
+							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Get Started</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -65,7 +65,7 @@
 								600K
 							</h4>
 							<p class="elAnim__slide anim__delayMedium_2">
-								Calls and counting	
+								Calls and counting
 							</p>
 						</div>
 
@@ -129,7 +129,7 @@
 										1.
 									</div>
 									<h3 class="elAnim__slide anim__delayMedium_1">
-										Taking the leap. 
+										Taking the leap.
 									</h3>
 								</div>
 								<p class="elAnim__slide anim__delayMedium_2">
@@ -147,7 +147,7 @@
 										2.
 									</div>
 									<h3 class="elAnim__slide anim__delayMedium_1">
-										Joining the experts. 
+										Joining the experts.
 									</h3>
 								</div>
 								<p class="elAnim__slide anim__delayMedium_2">
@@ -165,7 +165,7 @@
 										3.
 									</div>
 									<h3 class="elAnim__slide anim__delayMedium_1">
-										Leveraging funds for our mission. 
+										Leveraging funds for our mission.
 									</h3>
 								</div>
 								<p class="elAnim__slide anim__delayMedium_2">
@@ -183,7 +183,7 @@
 										4.
 									</div>
 									<h3 class="elAnim__slide anim__delayMedium_1">
-										We keep shipping and shining. 
+										We keep shipping and shining.
 									</h3>
 								</div>
 								<p class="elAnim__slide anim__delayMedium_2">
@@ -298,7 +298,7 @@
 							Sounds like we are building something cool ?
 						</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="" class="cm-button-style1">
+							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Get Started</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -307,7 +307,7 @@
 								</span>
 							</a>
 						</div>
-						
+
 					</div>
 				</div>
 			</section>

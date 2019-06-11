@@ -1,6 +1,6 @@
 <header id="header-desktop">
 	<div class="head">
-		<a href="" class="logo">
+		<a href="./" class="logo">
 			<img src="img/common/logo-snapcall-black.svg" alt="">
 		</a>
 		<ul class="container-link">
@@ -11,26 +11,26 @@
 				</a>
 			</li>
 			<li>
-				<a>
+				<a href="./customers-main.php">
 					<span>Customers</span>
 				</a>
 			</li>
 			<li>
-				<a>
+				<a href="./tarifs.php">
 					<span>Pricing</span>
 				</a>
 			</li>
 			<li>
-				<a>
+				<a href="./helpFAQ-1.php">
 					<span>Support</span>
 				</a>
 			</li>
 		</ul>
 		<div class="container-action">
-			<a class="signin" href="">
+			<a class="signin" href="https://admin.snapcall.io">
 				Login
 			</a>
-			<a class="signup" href="">
+			<a class="signup" href="https://register.snapcall.io">
 				<span class="btn-text">Try it free</span>
 			</a>
 		</div>
@@ -39,66 +39,66 @@
 		<div class="wrapper">
 			<ul>
 				<li>
-					<a href="">
+					<a href="./product-smart-voice-support.php">
 						<h4>Smart Voice Support.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 						</p>
 					</a>
 				</li>
 				<li>
-					<a href="">
+					<a href="./product-web-calls.php">
 						<h4>Web Calls.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 						</p>
 					</a>
 				</li>
 				<li>
-					<a href="">
+					<a href="./product-shopify.php">
 						<h4>Shopify.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 						</p>
 					</a>
 				</li>
 				<li>
-					<a href="">
+					<a href="./product-customer-data-in-call.php">
 						<h4>Customers Data in Calls.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 						</p>
 					</a>
 				</li>
 				<li>
-					<a href="">
+					<a href="./product-smart-plugs.php">
 						<h4>Smart Plugs.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 						</p>
 					</a>
 				</li>
 				<li>
-					<a href="">
+					<a href="./product-zendesk.php">
 						<h4>Zendesk.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 						</p>
 					</a>
 				</li>
 				<li>
-					<a href="">
+					<a href="./product-call-recording.php">
 						<h4>Call Recording.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 						</p>
 					</a>
 				</li>
 				<li>
-					<a href="">
+					<a href="./product-data-analytics.php">
 						<h4>Data & Analytics.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 						</p>
 					</a>
 				</li>
@@ -121,7 +121,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 	</div>
 	<div class="container-link">
 		<div class="wrapper">
@@ -132,54 +132,54 @@
 						<img class="arrow" src="img/common/arrow-3.svg" alt="">
 					</a>
 					<div class="container-el">
-						<a class="el" href="">
+						<a class="el" href="./product-smart-voice-support.php">
 							<h3>Smart Voice Support</h3>
 						</a>
-						<a class="el" href="">
+						<a class="el" href="./product-customer-data-in-call.php">
 							<h3>Customers Data in Calls</h3>
 						</a>
-						<a class="el" href="">
+						<a class="el" href="./product-web-calls.php">
 							<h3>Web Calls</h3>
 						</a>
-						<a class="el" href="">
+						<a class="el" href="./product-smart-plugs.php">
 							<h3>Smart Plugs</h3>
 						</a>
-						<a class="el" href="">
+						<a class="el" href="./product-call-recording.php">
 							<h3>Call Recording</h3>
 						</a>
-						<a class="el" href="">
+						<a class="el" href="./product-data-analytics.php">
 							<h3>Data & Analytics</h3>
 						</a>
-						<a class="el" href="">
+						<a class="el" href="./product-shopify.php">
 							<h3>Shopify</h3>
 						</a>
-						<a class="el" href="">
+						<a class="el" href="./product-zendesk.php">
 							<h3>Zendesk</h3>
 						</a>
 
 					</div>
 				</div>
 				<div class="link">
-					<a>
+					<a href="./customers-main.php">
 						<span>Customers</span>
 					</a>
 				</div>
 				<div class="link">
-					<a href="">
+					<a href="./tarifs.php">
 						<span>Pricing</span>
 					</a>
 				</div>
 				<div class="link">
-					<a href="">
+					<a href="./helpFAQ-1.php">
 						<span>Support</span>
 					</a>
 				</div>
 			</div>
 			<div class="container-action">
-				<a class="signin" href>
+				<a class="signin" href="https://register.snapcall.io">
 					<span class="btn-text">Try it free</span>
 				</a>
-				<a class="signup">
+				<a class="signup" href="https://admin.snapcall.io">
 					<span class="btn-text">Login</span>
 				</a>
 			</div>

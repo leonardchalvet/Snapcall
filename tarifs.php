@@ -16,7 +16,7 @@
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
 		<?php include('common-header.php') ?>
@@ -27,7 +27,7 @@
 				<div class="wrapper">
 					<h1>
 						<span>
-							Grow 
+							Grow
 						</span>
 						<span>
 							Smartly.
@@ -40,7 +40,7 @@
 			</section>
 
 			<section id="section-table" class="sectionAnim_container">
-				
+
 				<div class="wrapper">
 
 					<div class="container-action elAnim__slide anim__delayMedium_0">
@@ -74,13 +74,13 @@
 					<div class="container-table">
 						<div class="head elAnim__slide anim__delayMedium_0">
 							<div class="cell">
-								
+
 							</div>
 							<div class="cell">
 								<h5 class="title">
 									STARTER
 								</h5>
-								<div class="price" data-value="eur" data-price-eur="25€" 
+								<div class="price" data-value="eur" data-price-eur="25€"
                                     data-price-usd="29$">
 									25€
 								</div>
@@ -93,7 +93,7 @@
 								<h5 class="title">
 									GROWTH
 								</h5>
-								<div class="price" data-value="eur" data-price-eur="79€" 
+								<div class="price" data-value="eur" data-price-eur="79€"
                                     data-price-usd="89$">
 									79€
 								</div>
@@ -106,7 +106,7 @@
 								<h5 class="title">
 									PRO
 								</h5>
-								<div class="price" data-value="eur" data-price-eur="249€" 
+								<div class="price" data-value="eur" data-price-eur="249€"
                                     data-price-usd="278$">
 									249€
 								</div>
@@ -119,7 +119,7 @@
 								<h5 class="title">
 									ENTERPRISE
 								</h5>
-								<div class="price" data-value="eur" data-price-eur="999€" 
+								<div class="price" data-value="eur" data-price-eur="999€"
                                     data-price-usd="1122$">
 									999€
 								</div>
@@ -418,51 +418,51 @@
 						</div>
 						<div class="foot">
 							<div class="cell">
-									
+
 							</div>
 							<div class="cell">
-								<a href="" class="button">
+								<a href="https://register.snapcall.io" class="button">
 									<span class="btn-text">
 										Start Free Trial
 									</span>
 								</a>
-								<a href="" class="link">
+								<a href="https://register.snapcall.io" class="link">
 									<span class="btn-text">
 										Purchase Now
 									</span>
 								</a>
 							</div>
 							<div class="cell">
-								<a href="" class="button">
+								<a href="https://register.snapcall.io" class="button">
 									<span class="btn-text">
 										Start Free Trial
 									</span>
 								</a>
-								<a href="" class="link">
+								<a href="https://register.snapcall.io" class="link">
 									<span class="btn-text">
 										Purchase Now
 									</span>
 								</a>
 							</div>
 							<div class="cell">
-								<a href="" class="button">
+								<a href="https://register.snapcall.io" class="button">
 									<span class="btn-text">
 										Start Free Trial
 									</span>
 								</a>
-								<a href="" class="link">
+								<a href="https://register.snapcall.io" class="link">
 									<span class="btn-text">
 										Purchase Now
 									</span>
 								</a>
 							</div>
 							<div class="cell">
-								<a href="" class="button">
+								<a href="https://register.snapcall.io" class="button">
 									<span class="btn-text">
 										Contact Us
 									</span>
 								</a>
-								<a href="" class="link">
+								<a href="https://register.snapcall.io" class="link">
 									<span class="btn-text">
 										Purchase Now
 									</span>

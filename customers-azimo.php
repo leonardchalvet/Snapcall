@@ -16,13 +16,13 @@
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
-		<?php 
+		<?php
 			$styleHeaderMobile = "style-white";
-			include('common-header.php'); 
-		?> 
+			include('common-header.php');
+		?>
 
 		<main>
 
@@ -36,14 +36,14 @@
 							Cool Stories
 						</h2>
 						<h1>
-							Azimo's smarter 
+							Azimo's smarter
 							<br>voice support.
 						</h1>
 						<p>
 							Discover how Azimo pivoted its phone support and focused it on high value customers only.
 						</p>
 						<div class="container-button">
-							<a href="" class="cm-button-style1">
+							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Try Free</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -62,7 +62,7 @@
 						</div>
 					</div>
 				</div>
-			</section>	
+			</section>
 
 			<section id="section-fetaures">
 				<div class="wrapper">
@@ -168,7 +168,7 @@
 								</h5>
 							</div>
 						</div>
-						<a href="" class="cm-button-style1">
+						<a href="https://register.snapcall.io" class="cm-button-style1">
 							<span class="btn-text">Start your trial</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -244,7 +244,7 @@
 								</div>
 								<div class="background"></div>
 							</div>
-							
+
 						</section>
 
 						<section class="blog-section-features">
@@ -255,15 +255,15 @@
 								<div class="feature">
 									<div class="line"></div>
 									<h3>
-										Free, easy 
-										& fast as initiating 
+										Free, easy
+										& fast as initiating
 										a chat
 									</h3>
 								</div>
 								<div class="feature">
 									<div class="line"></div>
 									<h3>
-										Flexible 
+										Flexible
 										& scalable
 									</h3>
 								</div>
@@ -353,7 +353,7 @@
 								</div>
 								<div class="background"></div>
 							</div>
-							
+
 						</section>
 
 						<section class="blog-section-pres-2">
@@ -441,7 +441,7 @@
 								</div>
 								<div class="background"></div>
 							</div>
-							
+
 						</section>
 
 					</div>
@@ -483,7 +483,7 @@
 								<p>
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque reiciendis totam repudiandae. Ratione modi, voluptate deserunt inventore exercitationem at quo eos velit fugit blanditiis, delectus error, dolore facilis! Quod, tempore.
 								</p>
-								<a href="">
+								<a href="./customers-azimo.php">
 									<span>Read their story</span>
 									<svg class="arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -499,7 +499,7 @@
 								<p>
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque reiciendis totam repudiandae. Ratione modi, voluptate deserunt inventore exercitationem at quo eos velit fugit blanditiis, delectus error, dolore facilis! Quod, tempore.
 								</p>
-								<a href="">
+								<a href="./customers-azimo.php">
 									<span>Read their story</span>
 									<svg class="arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -515,7 +515,7 @@
 								<p>
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque reiciendis totam repudiandae. Ratione modi, voluptate deserunt inventore exercitationem at quo eos velit fugit blanditiis, delectus error, dolore facilis! Quod, tempore.
 								</p>
-								<a href="">
+								<a href="./customers-azimo.php">
 									<span>Read their story</span>
 									<svg class="arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -535,7 +535,7 @@
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_1">Join the wave of smart voice support.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="" class="cm-button-style1">
+							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Get Started</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -544,7 +544,7 @@
 								</span>
 							</a>
 						</div>
-						
+
 					</div>
 				</div>
 			</section>
