@@ -33,7 +33,7 @@
 							Data & Analytics
 						</h2>
 						<h1 class="elAnim__slide anim__delayMedium_1">
-							Real time and rich data.
+							Real time<br>and rich data.
 						</h1>
 					</div>
 					<div class="container-action elAnim__slide anim__delayMedium_3">
@@ -54,10 +54,10 @@
 				<div class="wrapper">
 					<div class="container-text sectionAnim_container">
 						<h2 class="elAnim__slide anim__delayMedium_0">
-							Unlock what you were missing.
+							Unlock what you<br>were missing.
 						</h2>
 						<p class="elAnim__slide anim__delayMedium_1">
-							With SnapCall you are able to dig into your interactions. Even when the call is never made.
+							With SnapCall you are able to dig into your interactions.<br>Even when the call is never made.
 						</p>
 					</div>
 					<div class="container-el">
@@ -237,7 +237,7 @@
 
 				<div class="wrapper">
 					<div class="container-text">
-						<h2 class="elAnim__slide anim__delayMedium_1">Valuable data at your fingertips.</h2>
+						<h2 class="elAnim__slide anim__delayMedium_1">Valuable data at your<br>fingertips.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
 							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Start Now</span>
