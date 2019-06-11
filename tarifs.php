@@ -81,8 +81,8 @@
 									STARTER
 								</h5>
 								<div class="price" data-value="eur" data-price-eur-month="29€"
-                                    data-price-usd-month="35$" data-price-eur-year="25€"
-                                    data-price-usd-year="30$">
+                                    data-price-usd-month="$35" data-price-eur-year="25€"
+                                    data-price-usd-year="$30">
 									29€
 								</div>
 								<p class="month">
@@ -95,8 +95,8 @@
 									GROWTH
 								</h5>
 								<div class="price" data-value="eur" data-price-eur-month="99€"
-                                    data-price-usd-month="119$" data-price-eur-year="79€"
-                                    data-price-usd-year="95$">
+                                    data-price-usd-month="$119" data-price-eur-year="79€"
+                                    data-price-usd-year="$95">
 									99€
 								</div>
 								<p class="month">
@@ -109,8 +109,8 @@
 									PRO
 								</h5>
 								<div class="price" data-value="eur" data-price-eur-month="299€"
-                                    data-price-usd-month="359$" data-price-eur-year="249€"
-                                    data-price-usd-year="299$">
+                                    data-price-usd-month="$359" data-price-eur-year="249€"
+                                    data-price-usd-year="$299">
 									299€
 								</div>
 								<p class="month">
@@ -123,8 +123,8 @@
 									ENTERPRISE
 								</h5>
 								<div class="price" data-value="eur" data-price-eur-month="1199€"
-                                    data-price-usd-month="1199$" data-price-eur-year="999€"
-                                    data-price-usd-year="1199$">
+                                    data-price-usd-month="$1199" data-price-eur-year="999€"
+                                    data-price-usd-year="$1199">
 									1199€
 								</div>
 								<p class="month">
