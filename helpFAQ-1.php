@@ -29,7 +29,7 @@
 					</div>
 					<div class="container-help">
 						<div class="search">
-							<input type="search" name="search" placeholder="Search for what you need help with">
+							<input type="text" name="search" placeholder="Search for what you need help with">
 							<img src="img/help/icn/icn-search.svg">
 						</div>
 						<div class="container-el">

@@ -347,6 +347,72 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
+	"/img/about/cover-photo.jpg": {
+		"ft": 16384,
+		"iS": 1936337,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/cover-photo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-carrousel/img-1-Arnaud.JPG": {
+		"ft": 16384,
+		"iS": 219052,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/img-1-Arnaud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-carrousel/img-2-Thomas.JPG": {
+		"ft": 16384,
+		"iS": 225715,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/img-2-Thomas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-carrousel/img-3-Natalia.JPG": {
+		"ft": 16384,
+		"iS": 209510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/img-3-Natalia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-carrousel/img-4-Eve-Anne.JPG": {
+		"ft": 16384,
+		"iS": 239522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/img-4-Eve-Anne.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-carrousel/img-5-Benjamin.JPG": {
+		"ft": 16384,
+		"iS": 222259,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/img-5-Benjamin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/about/section-carrousel/obj-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -367,48 +433,48 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/about/section-carrousel/photo-1.png": {
-		"ft": 32768,
-		"iS": 1144270,
+	"/img/about/section-numbers/photo-1.jpg": {
+		"ft": 16384,
+		"iS": 100652,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/about/section-carrousel/photo-1.png",
+		"oAP": "/img/about/section-numbers/photo-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/img/about/section-carrousel/photo-2.png": {
-		"ft": 32768,
-		"iS": 1144270,
+	"/img/about/section-numbers/photo-2.jpg": {
+		"ft": 16384,
+		"iS": 83732,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/about/section-carrousel/photo-2.png",
+		"oAP": "/img/about/section-numbers/photo-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/img/about/section-carrousel/photo-3.png": {
-		"ft": 32768,
-		"iS": 1144270,
+	"/img/about/section-numbers/photo-3.jpg": {
+		"ft": 16384,
+		"iS": 83923,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/about/section-carrousel/photo-3.png",
+		"oAP": "/img/about/section-numbers/photo-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/img/about/section-carrousel/photo-4.png": {
-		"ft": 32768,
-		"iS": 1144270,
+	"/img/about/section-numbers/photo-4.jpg": {
+		"ft": 16384,
+		"iS": 222007,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/about/section-carrousel/photo-4.png",
+		"oAP": "/img/about/section-numbers/photo-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/img/about/section-partners/logo-franceDigitale.svg": {
@@ -471,6 +537,17 @@
 		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
+		},
+	"/img/about/story-photo.jpg": {
+		"ft": 16384,
+		"iS": 345563,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/story-photo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/img/common/arrow-1.svg": {
 		"ft": 2097152,
@@ -2156,27 +2233,15 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/section-articles/cover-seloger.png": {
-		"ft": 32768,
-		"iS": 66708,
-		"oA": 0,
-		"oAP": "/img/section-articles/cover-seloger.png",
+	"/img/section-articles/logo-azimo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/section-articles/logo-azimo.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/section-articles/cover-sncf.png": {
-		"ft": 32768,
-		"iS": 84033,
-		"oA": 0,
-		"oAP": "/img/section-articles/cover-sncf.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"plM": 4010962575359,
+		"prP": 0
 		},
 	"/img/section-articles/logo-decathlon.svg": {
 		"ft": 2097152,
@@ -2197,6 +2262,17 @@
 		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
+		},
+	"/img/section-articles/logo-selogerneuf.png": {
+		"ft": 32768,
+		"iS": 7672,
+		"oA": 0,
+		"oAP": "/img/section-articles/logo-selogerneuf.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/img/section-articles/logo-sncf.svg": {
 		"ft": 2097152,
