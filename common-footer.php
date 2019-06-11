@@ -136,6 +136,9 @@
 					<a href="">
 						<img src="img/common/icn-instagram.svg" alt="">
 					</a>
+					<a href="">
+						<img src="img/common/icn-medium.svg" alt="">
+					</a>
 				</div>
 				<img class="bdg" src="img/common/icn-gdpr.svg" alt="">
 			</div>

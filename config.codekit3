@@ -35,7 +35,7 @@
 		},
 	"/bodymovin/customers-main/images/img_0.png": {
 		"ft": 32768,
-		"iS": 2197,
+		"iS": 1430,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_0.png",
 		"oF": 0,
@@ -46,7 +46,7 @@
 		},
 	"/bodymovin/customers-main/images/img_1.png": {
 		"ft": 32768,
-		"iS": 511954,
+		"iS": 163790,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_1.png",
 		"oF": 0,
@@ -57,7 +57,7 @@
 		},
 	"/bodymovin/customers-main/images/img_2.png": {
 		"ft": 32768,
-		"iS": 524259,
+		"iS": 186820,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_2.png",
 		"oF": 0,
@@ -68,7 +68,7 @@
 		},
 	"/bodymovin/customers-main/images/img_3.png": {
 		"ft": 32768,
-		"iS": 319189,
+		"iS": 104384,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_3.png",
 		"oF": 0,
@@ -498,7 +498,7 @@
 		},
 	"/img/about/section-partners/logo-laFrenchTech.png": {
 		"ft": 32768,
-		"iS": 3434,
+		"iS": 3346,
 		"oA": 0,
 		"oAP": "/img/about/section-partners/logo-laFrenchTech.png",
 		"oF": 0,
@@ -755,6 +755,16 @@
 		"oAP": "/img/common/icn-linkedin.svg",
 		"oF": 0,
 		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/icn-medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/common/icn-medium.svg",
+		"oF": 1,
+		"opt": 1,
 		"plM": 4010962575359,
 		"prP": 0
 		},
@@ -1105,69 +1115,6 @@
 		"miP": 0,
 		"oA": 0,
 		"oAP": "/img/customers-azimo/logo-snapcall.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 4010962575359,
-		"prP": 0
-		},
-	"/img/customers-azimo/section-articles/cover-decathlon.png": {
-		"ft": 32768,
-		"iS": 152118,
-		"oA": 0,
-		"oAP": "/img/customers-azimo/section-articles/cover-decathlon.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/customers-azimo/section-articles/cover-seloger.png": {
-		"ft": 32768,
-		"iS": 231060,
-		"oA": 0,
-		"oAP": "/img/customers-azimo/section-articles/cover-seloger.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/customers-azimo/section-articles/cover-sncf.png": {
-		"ft": 32768,
-		"iS": 290475,
-		"oA": 0,
-		"oAP": "/img/customers-azimo/section-articles/cover-sncf.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/customers-azimo/section-articles/logo-decathlon.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/img/customers-azimo/section-articles/logo-decathlon.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 4010962575359,
-		"prP": 0
-		},
-	"/img/customers-azimo/section-articles/logo-seloger.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/img/customers-azimo/section-articles/logo-seloger.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 4010962575359,
-		"prP": 0
-		},
-	"/img/customers-azimo/section-articles/logo-sncf.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/img/customers-azimo/section-articles/logo-sncf.svg",
 		"oF": 1,
 		"opt": 1,
 		"plM": 4010962575359,
@@ -2037,7 +1984,7 @@
 		},
 	"/img/product/section-quotes/user-1.jpg": {
 		"ft": 16384,
-		"iS": 8611,
+		"iS": 7702,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-1.jpg",
@@ -2048,7 +1995,7 @@
 		},
 	"/img/product/section-quotes/user-2.jpg": {
 		"ft": 16384,
-		"iS": 7347,
+		"iS": 7177,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-2.jpg",
@@ -2184,6 +2131,91 @@
 		"oAP": "/img/product/section-smartly/icn-without-5.svg",
 		"oF": 1,
 		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/section-articles/cover-azimo.jpg": {
+		"ft": 16384,
+		"iS": 922455,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/section-articles/cover-azimo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/section-articles/cover-decathlon.png": {
+		"ft": 32768,
+		"iS": 54933,
+		"oA": 0,
+		"oAP": "/img/section-articles/cover-decathlon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/section-articles/cover-seloger.jpg": {
+		"ft": 16384,
+		"iS": 87842,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/section-articles/cover-seloger.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/section-articles/cover-seloger.png": {
+		"ft": 32768,
+		"iS": 66708,
+		"oA": 0,
+		"oAP": "/img/section-articles/cover-seloger.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/section-articles/cover-sncf.png": {
+		"ft": 32768,
+		"iS": 84033,
+		"oA": 0,
+		"oAP": "/img/section-articles/cover-sncf.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/section-articles/logo-decathlon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/section-articles/logo-decathlon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/section-articles/logo-seloger.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/section-articles/logo-seloger.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/section-articles/logo-sncf.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/section-articles/logo-sncf.svg",
+		"oF": 0,
+		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
