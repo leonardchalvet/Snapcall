@@ -18,6 +18,7 @@
 	<body>
 
 		<?php
+			$styleHeaderDesktop = "style-white";
 			$styleHeaderMobile = "style-white";
 			include('common-header.php');
 		?>

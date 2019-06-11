@@ -160,16 +160,15 @@ $(window).on('load', function() {
 
 	$('#header-desktop .link-product').click(function(){
 		console.log('salut');
-		if ($('#header-desktop .dropdown').hasClass('open')) {
-			$('#header-desktop .dropdown').removeClass('open');
+		if ($('#header-desktop').hasClass('open')) {
+			$('#header-desktop').removeClass('open');
 		} else {
-			$('#header-desktop .dropdown').addClass('open');
+			$('#header-desktop').addClass('open');
 		}
 	})
 
 	$('main').click(function(){
-		$('#header-desktop .li-dropdown').removeClass('show');
-		$('#header-desktop .li-dropdown .dropdown').removeClass('displayBlock');
+		$('#header-desktop').removeClass('open');
 	})
 
 

@@ -1,4 +1,4 @@
-<header id="header-desktop">
+<header id="header-desktop" class="<?php echo($styleHeaderDesktop); ?>">
 	<div class="head">
 		<a href="./" class="logo">
 			<img src="img/common/logo-snapcall-black.svg" alt="">
@@ -42,7 +42,7 @@
 					<a href="./product-smart-voice-support.php">
 						<h4>Smart Voice Support.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+							Offer voice to high value customers and prequalified leads.
 						</p>
 					</a>
 				</li>
@@ -50,7 +50,7 @@
 					<a href="./product-web-calls.php">
 						<h4>Web Calls.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+							Allow customers to launch calls from any platform.
 						</p>
 					</a>
 				</li>
@@ -58,7 +58,7 @@
 					<a href="./product-shopify.php">
 						<h4>Shopify.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+							Smart voice for your Shopify store.
 						</p>
 					</a>
 				</li>
@@ -66,7 +66,7 @@
 					<a href="./product-customer-data-in-call.php">
 						<h4>Customers Data in Calls.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+							Receive valuable data when picking up calls.
 						</p>
 					</a>
 				</li>
@@ -74,7 +74,7 @@
 					<a href="./product-smart-plugs.php">
 						<h4>Smart Plugs.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+							Connect SnapCall to any call reception system.
 						</p>
 					</a>
 				</li>
@@ -82,7 +82,7 @@
 					<a href="./product-zendesk.php">
 						<h4>Zendesk.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+							Smart voice for your Zendesk support.
 						</p>
 					</a>
 				</li>
@@ -90,7 +90,7 @@
 					<a href="./product-call-recording.php">
 						<h4>Call Recording.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+							Recordings off all interactions in real-time.
 						</p>
 					</a>
 				</li>
@@ -98,7 +98,7 @@
 					<a href="./product-data-analytics.php">
 						<h4>Data & Analytics.</h4>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+							Rich datasets on calls and customer behaviour.
 						</p>
 					</a>
 				</li>
