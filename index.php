@@ -256,7 +256,7 @@
 				</div>
 			</section>
 
-			<section class="cm-section-quotes green nomarge sectionAnim_container" data-carousel="on">
+			<section class="cm-section-quotes sectionAnim_container" data-carousel="on">
 				<div class="wrapper">
 					<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
 					<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">
