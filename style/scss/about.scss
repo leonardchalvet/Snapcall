@@ -362,6 +362,9 @@
 		&.color-4 {
 			background-color: #3B655B;
 		}
+		&.color-5 {
+			background-color: $colorMain_5;
+		}
 	}
 	.bg-2 {
 		position: absolute;
@@ -382,6 +385,9 @@
 		&.color-4 {
 			background-color: $colorMain_10;
 		}
+		&.color-5 {
+			background-color: #3B655B;
+		}
 	}
 	.obj {
 		position: absolute;
@@ -394,7 +400,8 @@
 			stroke: $colorMain_3;
 		}
 		&.color-2 svg,
-		&.color-4 svg {
+		&.color-4 svg,
+		&.color-5 svg {
 			stroke: $colorMain_2;
 		}
 	}
@@ -414,10 +421,9 @@
 		position: absolute;
 		left: 50%;
 		bottom: 0;
-		width: 445px;
-		height: 595px;
+		height: 100%;
+		width: 450px;
 		.container-el {
-			width: 100%;
 			height: 100%;
 			.el {
 				position: absolute;
@@ -432,7 +438,7 @@
 				&.anim-hide-top{
 					transition: all 500ms cubic-bezier(1.000, 0.005, 1.000, 0.980);
 							
-					transform: translateY(-25px) scaleX(0.95) scaleY(1.05);
+					transform: translateY(-25px);
 					opacity: 0;
 
 					transition-delay: 0.1s;
@@ -447,7 +453,7 @@
 				}
 
 				&.anim-hide-bottom{
-					transform: translateY(25px) scaleX(0.95) scaleY(1.05);
+					transform: translateY(25px);
 					opacity: 0;
 				}
 
@@ -518,20 +524,23 @@
 				}
 
 				&:nth-child(2),
-				&:nth-child(4) {
+				&:nth-child(4),
+				&:nth-child(5) {
 					h5 {
 						color: $colorMain_2;
 					}
 				}
 
-				&:nth-child(2) {
+				&:nth-child(2),
+				&:nth-child(5) {
 					p {
 						color: #FFF;
 					}
 				}
 
 				&:nth-child(1),
-				&:nth-child(2) {
+				&:nth-child(2),
+				&:nth-child(5) {
 					h2 {
 						color: #FFF;
 					}

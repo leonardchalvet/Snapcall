@@ -34,8 +34,8 @@ $(window).on('load', function() {
 
 			if (countEl <= numberEl && countEl >= 1) {
 
-				$('.clr').removeClass('color-1 color-2 color-3 color-4');
-				$(Nav).removeClass('color-1 color-2 color-3 color-4');
+				$('.clr').removeClass('color-1 color-2 color-3 color-4 color-5');
+				$(Nav).removeClass('color-1 color-2 color-3 color-4 color-5');
 
 				$(elPp + '.anim-show').removeClass('anim-show').addClass('anim-hide-top');
 				setTimeout(function(){ 
@@ -65,7 +65,7 @@ $(window).on('load', function() {
 				countEl = numberEl;
 				prg(drtc);
 			} else {
-				countEl = 1;
+				countEl = 0;
 				prg(drtc);
 			};
 			

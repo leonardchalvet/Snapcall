@@ -358,6 +358,61 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/about/section-carrousel/img-1-Arnaud.JPG": {
+		"ft": 16384,
+		"iS": 219052,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/img-1-Arnaud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-carrousel/img-2-Thomas.JPG": {
+		"ft": 16384,
+		"iS": 225715,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/img-2-Thomas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-carrousel/img-3-Natalia.JPG": {
+		"ft": 16384,
+		"iS": 209510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/img-3-Natalia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-carrousel/img-4-Eve-Anne.JPG": {
+		"ft": 16384,
+		"iS": 239522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/img-4-Eve-Anne.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/about/section-carrousel/img-5-Benjamin.JPG": {
+		"ft": 16384,
+		"iS": 222259,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/about/section-carrousel/img-5-Benjamin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/about/section-carrousel/obj-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -377,50 +432,6 @@
 		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
-		},
-	"/img/about/section-carrousel/photo-1.png": {
-		"ft": 32768,
-		"iS": 1144270,
-		"oA": 0,
-		"oAP": "/img/about/section-carrousel/photo-1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/about/section-carrousel/photo-2.png": {
-		"ft": 32768,
-		"iS": 1144270,
-		"oA": 0,
-		"oAP": "/img/about/section-carrousel/photo-2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/about/section-carrousel/photo-3.png": {
-		"ft": 32768,
-		"iS": 1144270,
-		"oA": 0,
-		"oAP": "/img/about/section-carrousel/photo-3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/about/section-carrousel/photo-4.png": {
-		"ft": 32768,
-		"iS": 1144270,
-		"oA": 0,
-		"oAP": "/img/about/section-carrousel/photo-4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"/img/about/section-numbers/photo-1.jpg": {
 		"ft": 16384,

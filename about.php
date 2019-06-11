@@ -213,23 +213,24 @@
 					</div>
 					<div class="container-pp">
 						<div class="container-el">
-							<div class="el" style="background-image: url(img/about/section-carrousel/photo-1.png)"></div>
-							<div class="el" style="background-image: url(img/about/section-carrousel/photo-2.png)"></div>
-							<div class="el" style="background-image: url(img/about/section-carrousel/photo-3.png)"></div>
-							<div class="el" style="background-image: url(img/about/section-carrousel/photo-4.png)"></div>
+							<div class="el" style="background-image: url(img/about/section-carrousel/img-1-Arnaud.JPG)"></div>
+							<div class="el" style="background-image: url(img/about/section-carrousel/img-2-Thomas.JPG)"></div>
+							<div class="el" style="background-image: url(img/about/section-carrousel/img-3-Natalia.JPG)"></div>
+							<div class="el" style="background-image: url(img/about/section-carrousel/img-4-Eve-Anne.JPG)"></div>
+							<div class="el" style="background-image: url(img/about/section-carrousel/img-5-Benjamin.JPG)"></div>
 						</div>
 					</div>
 					<div class="container-text">
 						<div class="container-el">
 							<div class="el">
 								<h5>The team</h5>
-								<h2>Thomas de Becdelievre</h2>
-								<p>CTO of SnapCall</p>
+								<h2>Arnaud Pigueller</h2>
+								<p>CEO & Co-Founder of SnapCall</p>
 							</div>
 							<div class="el">
 								<h5>The team</h5>
-								<h2>Benjamin Crot</h2>
-								<p>Sales of SnapCall</p>
+								<h2>Thomas de Becdelievre</h2>
+								<p>CTO & Co-Founder of SnapCall</p>
 							</div>
 							<div class="el">
 								<h5>The team</h5>
@@ -240,6 +241,11 @@
 								<h5>The team</h5>
 								<h2>Eve-Anne Collomb</h2>
 								<p>Growth Marketing of SnapCall</p>
+							</div>
+							<div class="el">
+								<h5>The team</h5>
+								<h2>Benjamin Crot</h2>
+								<p>Sales of SnapCall </p>
 							</div>
 						</div>
 					</div>
