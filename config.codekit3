@@ -35,45 +35,45 @@
 		},
 	"/bodymovin/customers-main/images/img_0.png": {
 		"ft": 32768,
-		"iS": 1430,
+		"iS": 2197,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_0.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
 	"/bodymovin/customers-main/images/img_1.png": {
 		"ft": 32768,
-		"iS": 163790,
+		"iS": 511954,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_1.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
 	"/bodymovin/customers-main/images/img_2.png": {
 		"ft": 32768,
-		"iS": 186820,
+		"iS": 524259,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
 	"/bodymovin/customers-main/images/img_3.png": {
 		"ft": 32768,
-		"iS": 104384,
+		"iS": 319189,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -498,7 +498,7 @@
 		},
 	"/img/about/section-partners/logo-laFrenchTech.png": {
 		"ft": 32768,
-		"iS": 3346,
+		"iS": 3434,
 		"oA": 0,
 		"oAP": "/img/about/section-partners/logo-laFrenchTech.png",
 		"oF": 0,
@@ -889,11 +889,31 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
+	"/img/common/sn/fb-color.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/sn/fb-color.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/img/common/sn/in-black.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/img/common/sn/in-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/sn/in-color.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/sn/in-color.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
@@ -909,11 +929,31 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
+	"/img/common/sn/is-color.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/sn/is-color.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/img/common/sn/tw-black.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/img/common/sn/tw-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/sn/tw-color.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/sn/tw-color.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
@@ -1997,7 +2037,7 @@
 		},
 	"/img/product/section-quotes/user-1.jpg": {
 		"ft": 16384,
-		"iS": 7702,
+		"iS": 8611,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-1.jpg",
@@ -2008,7 +2048,7 @@
 		},
 	"/img/product/section-quotes/user-2.jpg": {
 		"ft": 16384,
-		"iS": 7177,
+		"iS": 7347,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-2.jpg",

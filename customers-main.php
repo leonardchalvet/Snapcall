@@ -381,7 +381,7 @@
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
 										</q>
@@ -425,7 +425,7 @@
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
 										</q>
@@ -469,7 +469,7 @@
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											SnapCall has become the core of our phone support operation. We plan to continue rolling-out support in <i>new languages</i> and to different segments of customers in the future.
 										</q>

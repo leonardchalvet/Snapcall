@@ -1034,7 +1034,7 @@ main
 	&.reach{
 		opacity: 1;
 	}
-
+	/*
 	&:not(.nomarge) {
 		margin-top: 100px;
 		margin-bottom: 100px;
@@ -1130,7 +1130,7 @@ main
 			}
 		}
 	}
-
+	*/
 
 }
 @media screen and (max-width: $breakPoint_mobile) {

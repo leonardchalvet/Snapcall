@@ -97,6 +97,7 @@
 				<div class="wrapper">
 					<div class="container-photo">
 						<div class="bg" style="background-image: url(img/about/story-photo.jpg);"></div>
+						<div class="rect"></div>
 					</div>
 					<div class="container-text">
 						<h2>
