@@ -21,9 +21,38 @@
 				</a>
 			</li>
 			<li>
-				<a href="./helpFAQ-1.php">
+				<a class="link-support">
 					<span>Support</span>
+					<img src="img/common/arrow-3.svg" alt="">
 				</a>
+				<div class="dropdown-support">
+					<ul>
+						<li>
+							<a href="./product-smart-voice-support.php">
+								<h4>Help Center</h4>
+								<p>
+									Find all your answers an our knowledge base.
+								</p>
+							</a>
+						</li>
+						<li>
+							<a href="./product-web-calls.php">
+								<h4>Contact Us</h4>
+								<p>
+									Get in touch with the team.
+								</p>
+							</a>
+						</li>
+						<li>
+							<a href="./product-shopify.php">
+								<h4>API Docs</h4>
+								<p>
+									Use our API to integrate SnapCall with other solutions.
+								</p>
+							</a>
+						</li>
+					</ul>
+				</div>
 			</li>
 		</ul>
 		<div class="container-action">
@@ -35,7 +64,7 @@
 			</a>
 		</div>
 	</div>
-	<div class="dropdown">
+	<div class="dropdown-product">
 		<div class="wrapper">
 			<ul>
 				<li>
@@ -170,9 +199,21 @@
 					</a>
 				</div>
 				<div class="link">
-					<a href="./helpFAQ-1.php">
+					<a>
 						<span>Support</span>
+						<img class="arrow" src="img/common/arrow-3.svg" alt="">
 					</a>
+					<div class="container-el">
+						<a class="el">
+							<h3>Help Center</h3>
+						</a>
+						<a class="el">
+							<h3>Contact Us</h3>
+						</a>
+						<a class="el">
+							<h3>API Docs</h3>
+						</a>
+					</div>
 				</div>
 			</div>
 			<div class="container-action">
