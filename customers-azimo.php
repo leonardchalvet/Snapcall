@@ -478,9 +478,9 @@
 					</div>
 					<div class="container-thumbnails">
 						<div class="thumbnail elAnim__slide anim__delayMedium_2" >
-							<div class="cover" style="background-image: url(img/img-test/background-1.jpg);"></div>
+							<div class="cover" style="background-image: url(img/customers-azimo/section-articles/cover-sncf.png);"></div>
 							<div class="infos">
-								<img class="logo" src="img/customers-main/logo-sncf.png" alt="">
+								<img class="logo" src="img/customers-azimo/section-articles/logo-sncf.svg" alt="">
 								<p>
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque reiciendis totam repudiandae. Ratione modi, voluptate deserunt inventore exercitationem at quo eos velit fugit blanditiis, delectus error, dolore facilis! Quod, tempore.
 								</p>

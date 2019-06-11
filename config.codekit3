@@ -1070,6 +1070,69 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
+	"/img/customers-azimo/section-articles/cover-decathlon.png": {
+		"ft": 32768,
+		"iS": 152118,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/section-articles/cover-decathlon.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/section-articles/cover-seloger.png": {
+		"ft": 32768,
+		"iS": 231060,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/section-articles/cover-seloger.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/section-articles/cover-sncf.png": {
+		"ft": 32768,
+		"iS": 290475,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/section-articles/cover-sncf.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/customers-azimo/section-articles/logo-decathlon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/section-articles/logo-decathlon.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-azimo/section-articles/logo-seloger.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/section-articles/logo-seloger.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/customers-azimo/section-articles/logo-sncf.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/customers-azimo/section-articles/logo-sncf.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 4010962575359,
+		"prP": 0
+		},
 	"/img/customers-main/logo-decathlon.png": {
 		"ft": 32768,
 		"iS": 3580,
