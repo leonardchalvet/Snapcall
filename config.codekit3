@@ -1818,50 +1818,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/product/section-carrousel/photo-1.jpg": {
-		"ft": 16384,
-		"iS": 120075,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/product/section-carrousel/photo-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/img/product/section-carrousel/photo-2.jpg": {
-		"ft": 16384,
-		"iS": 89055,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/product/section-carrousel/photo-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/img/product/section-carrousel/photo-3.jpg": {
-		"ft": 16384,
-		"iS": 104645,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/product/section-carrousel/photo-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/img/product/section-carrousel/photo-4.jpg": {
-		"ft": 16384,
-		"iS": 66046,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/product/section-carrousel/photo-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/img/product/section-features/call-recordign-illu-2.svg": {
 		"ft": 2097152,
 		"miP": 0,
