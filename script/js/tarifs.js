@@ -11,8 +11,6 @@ $(window).on('load', function() {
 			$('#section-faq .container-questions .question').removeClass('open');
 			$(this).addClass('open');
 		}
-		
-		
 	})
 	
 	$('#section-table .container-action .container-date').click(function(){
@@ -23,12 +21,13 @@ $(window).on('load', function() {
 
 			$('#section-table .container-table .head .cell .price').each(function(i){
 				let price = $(this).attr('data-value');
-				let nb = parseInt($(this).attr('data-price-' + price));
+				let nbU = parseInt($(this).attr('data-price-' + price + '-month'));
+				let nbD = parseInt($(this).attr('data-price-' + price + '-year'));
 				let sign = '';
 				if(price == 'eur') { sign = '€'; }
 				else if(price == 'usd') { sign = '$'; }
 
-				countUp($(this), nb, nb*12, sign);
+				countDown($(this), nbU, nbD, sign);
 			})
 
 			$('#section-table .container-table .head .cell p').removeClass('month');
@@ -40,12 +39,13 @@ $(window).on('load', function() {
 
 			$('#section-table .container-table .head .cell .price').each(function(i){
 				let price = $(this).attr('data-value');
-				let nb = parseInt($(this).attr('data-price-' + price));
+				let nbU = parseInt($(this).attr('data-price-' + price + '-month'));
+				let nbD = parseInt($(this).attr('data-price-' + price + '-year'));
 				let sign = '';
 				if(price == 'eur') { sign = '€'; }
 				else if(price == 'usd') { sign = '$'; }
 
-				countDown($(this), nb*12, nb, sign);
+				countUp($(this), nbD, nbU, sign);
 			})
 
 			$('#section-table .container-table .head .cell p').removeClass('year');
@@ -66,6 +66,8 @@ $(window).on('load', function() {
 			let nb = $(this).attr('data-price-' + price);
 			$(this).text(nb);
 		})
+
+		$('#section-table .container-action .container-money').removeClass('open');
 	})
 
 	$('#section-table .container-action .container-money >.money').mouseenter(function(){
@@ -73,6 +75,15 @@ $(window).on('load', function() {
 	})
 	$('#section-table .container-action .container-money .dropdown').mouseleave(function(){
 		$(this).parent().removeClass('open');
+	})
+	$('#section-table').mouseleave(function(){
+		$('#section-table .container-action .container-money').removeClass('open');
+	})
+	$('body').on('click', function(event) { 
+	    if (!$(event.target).closest('#section-table .container-action .container-money').length) {
+	    	if($('#section-table .container-action .container-money').hasClass('open'))
+	    		$('#section-table .container-action .container-money').removeClass('open');
+	    }
 	})
 
 	let countUp = function(el, start, value, sign) {

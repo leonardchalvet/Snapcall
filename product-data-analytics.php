@@ -205,9 +205,9 @@
 							<div class="content">
 
 								<div class="container-pr">
-									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
+									<div class="pp" style="background-image: url(img/product/section-quotes/user-4.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											With SnapCall we are finally able to easily <i>track calls</i> from web visitors to the agency on each property listed on our website. Today we are able to track several user actions and analyse our conversion rates, like clicks to call, picked and dropped calls. We are also gathering valuable customer insights such as their location and used devices.
 										</q>
