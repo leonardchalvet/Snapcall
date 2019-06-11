@@ -33,6 +33,50 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/bodymovin/customers-main/images/img_0.png": {
+		"ft": 32768,
+		"iS": 1430,
+		"oA": 0,
+		"oAP": "/bodymovin/customers-main/images/img_0.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/customers-main/images/img_1.png": {
+		"ft": 32768,
+		"iS": 163790,
+		"oA": 0,
+		"oAP": "/bodymovin/customers-main/images/img_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/customers-main/images/img_2.png": {
+		"ft": 32768,
+		"iS": 186820,
+		"oA": 0,
+		"oAP": "/bodymovin/customers-main/images/img_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/customers-main/images/img_3.png": {
+		"ft": 32768,
+		"iS": 104384,
+		"oA": 0,
+		"oAP": "/bodymovin/customers-main/images/img_3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/bodymovin/home/section-cover/data.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -709,6 +753,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/img/common/icn-linkedin.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/common/icn-quote-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/common/icn-quote-white.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
