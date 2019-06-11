@@ -54,7 +54,7 @@
 				<div class="wrapper">
 					<div class="container-text sectionAnim_container">
 						<h2 class="elAnim__slide anim__delayMedium_0">
-							Hear what your customer has to say.
+							Hear what your<br>customer has to say.
 						</h2>
 						<p class="elAnim__slide anim__delayMedium_1">
 							The best way to learn from your customer is to be on the loop.
