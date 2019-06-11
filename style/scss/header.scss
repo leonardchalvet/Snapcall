@@ -47,6 +47,7 @@
 					align-items: center;
 					span{
 						@include styleLinkMedium;
+						transition: all 0.25s ease;
 					}
 					img{
 						width: 7px;
@@ -62,8 +63,10 @@
 					width: 100%;
 					height: 2px;
 					background-color: $colorMain_1;
+					transition: all 0.25s ease;
 				}
-				&.active{
+				&.active,
+				&:hover{
 					&:after{
 						opacity:1;
 					}
@@ -98,15 +101,6 @@
 		.head{
 			background-color: #FFF;
 			box-shadow: 0 20px 29px 0 rgba(0,0,0,0.05);
-			.container-link{
-				li{
-					a{
-						span{
-							color: $colorMain_8 !important;
-						}
-					}
-				}
-			}
 		}
 	}
 	&.open{
@@ -184,10 +178,27 @@
 								color: #FFF;
 							}
 						}
+						&:after{
+							background-color: #FFF;
+						}
 					}
 				}
 			}
-		}
+			&.open{
+				.head{
+					.container-link{
+						li{
+							a{
+								span{
+									color: $colorMain_8;
+								}
+							}
+						}
+					}
+				}
+				
+			}
+		}	
 	}
 }
 /*=========================================
