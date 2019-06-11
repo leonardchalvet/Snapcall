@@ -66,13 +66,20 @@ footer{
 					position: relative;
 					display: flex;
 					align-items: center;
-					img{
-						max-height: 42px;
-						max-width: 100px;
+					a{
+						text-decoration: none;
+						display: block;
 						&:not(:last-child){
 							margin-right: 20px;
 						}
+						img{
+							display: block;
+							height: 42px;
+							max-width: 100px;
+							
+						}
 					}
+					
 				}
 			}
 		}
@@ -104,6 +111,7 @@ footer{
 				background-color: transparent;
 				@include styleParagraphSmall;
 				color: #FFF;
+				border: none;
 			}
 			.arrow{
 				width: 13px;

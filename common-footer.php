@@ -40,9 +40,15 @@
 					<li><a href="">Incubated by</a></li>
 					<li>
 						<div class="container-logos">
-							<img src="img/common/logo-zendesk-white.svg" alt="">
-							<img src="img/common/logo-station-f.svg" alt="">
-							<img src="img/common/logo-lafayette.svg" alt="">
+							<a target="_blank" href="https://www.zendesk.com/">
+								<img src="img/common/logo-zendesk-white.svg" alt="">
+							</a>
+							<a target="_blank" href="https://stationf.co/">
+								<img src="img/common/logo-station-f.svg" alt="">
+							</a>
+							<a target="_blank" href="http://www.lafayetteplugandplay.com/">
+								<img src="img/common/logo-lafayette.svg" alt="">
+							</a>
 						</div>
 					</li>
 				</ul>
