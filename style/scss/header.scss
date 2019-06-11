@@ -18,8 +18,15 @@
 			left: 30px;
 			top: 50%;
 			transform: translateY(-50%);
+			
 			img{
-				height: 40px;
+				@media screen and (min-width: 1400px) {
+					height: 40px;
+				}
+				@media screen and (max-width: 1400px) {
+					height: 30px;
+				}
+				
 			}
 		}
 		.container-link{
