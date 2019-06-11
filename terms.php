@@ -365,6 +365,7 @@
 						<p>
 							Any dispute between the Parties arising from this Contract, relating to the existence, validity, interpretation, performance, and termination of this Contract (or to any of its clauses) and that the Parties are not able to resolve by mutual agreement, shall be submitted to the sole jurisdiction of the Paris Commercial Court.
 						</p>
+						<br><br><br>
 						<h4>2. Special conditions applicable to each service</h4>
 						<h5>Emergeny calls:</h5>
 						<p>
@@ -388,7 +389,7 @@
 						<p>
 							By call, we designate all human interactions initiated by the end-customer with The Services.
 						</p>
-						<h5>xEmergeny calls:</h5>
+						<h5>Emergeny calls:</h5>
 						<p>
 							You understand and agree that The Services are not intended to support or carry emergency calls to any emergency services, such as public safety answering points; (b) We will not be held liable for any claim, damages or loss (and You hereby waive any and all such claims or causes of action), arising from or relating to Your (or Agents’ or End-Users’) inability to use The  Services to make such emergency calls; (c) You are solely responsible for Your operation of The  Services in compliance with all applicable laws in all jurisdictions, including, but not limited to, telephone recording and wiretapping laws and laws related to telemarketing and spam, such as the Telephone Consumer Protection Act; and (d) You will defend, hold harmless and indemnify Us from and against any third party claim arising from any of the foregoing.
 						</p>
