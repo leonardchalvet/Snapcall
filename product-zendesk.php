@@ -54,10 +54,10 @@
 				<div class="wrapper">
 					<div class="container-text sectionAnim_container">
 						<h2 class="elAnim__slide anim__delayMedium_0">
-							Super power your Zendesk support.
+							Super power your<br>Zendesk support.
 						</h2>
 						<p class="elAnim__slide anim__delayMedium_1">
-							Introduce voice to your current support and talk directly to your most valuable customers.
+							Introduce voice to your current support and talk directly<br>to your most valuable customers.
 						</p>
 					</div>
 					<div class="container-el">
@@ -289,7 +289,7 @@
 								Pre-qualified calls
 							</h3>
 							<p class="elAnim__slide anim__delayMedium_6">
-								Set criteria for customers to be able to place calls
+								Set criteria for customers to be able to place calls.
 							</p>
 						</div>
 
@@ -299,7 +299,7 @@
 								Personalization at scale
 							</h3>
 							<p class="elAnim__slide anim__delayMedium_7">
-								Get customer info plus their digital journey with a click
+								Get customer info plus their digital journey with a click.
 							</p>
 						</div>
 					</div>
