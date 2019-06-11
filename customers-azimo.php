@@ -478,11 +478,11 @@
 					</div>
 					<div class="container-thumbnails">
 						<div class="thumbnail elAnim__slide anim__delayMedium_2" >
-							<div class="cover" style="background-image: url(img/customers-azimo/section-articles/cover-sncf.png);"></div>
+							<div class="cover" style="background-image: url(img/section-articles/cover-azimo.jpg);"></div>
 							<div class="infos">
-								<img class="logo" src="img/customers-azimo/section-articles/logo-sncf.svg" alt="">
+								<img class="logo" src="img/section-articles/logo-azimo.svg" alt="">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque reiciendis totam repudiandae. Ratione modi, voluptate deserunt inventore exercitationem at quo eos velit fugit blanditiis, delectus error, dolore facilis! Quod, tempore.
+									Azimo pivoted its phone support and focused it on high value customers only.
 								</p>
 								<a href="./customers-azimo.php">
 									<span>Read their story</span>
@@ -494,11 +494,11 @@
 						</div>
 
 						<div class="thumbnail elAnim__slide anim__delayMedium_3">
-							<div class="cover" style="background-image: url(img/img-test/background-2.jpg);"></div>
+							<div class="cover" style="background-image: url(img/section-articles/cover-seloger.jpg);"></div>
 							<div class="infos">
-								<img class="logo" src="img/customers-main/logo-seloger.png" alt="">
+								<img class="logo" src="img/section-articles/logo-selogerneuf.png" alt="">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque reiciendis totam repudiandae. Ratione modi, voluptate deserunt inventore exercitationem at quo eos velit fugit blanditiis, delectus error, dolore facilis! Quod, tempore.
+									SeLoger Neuf website tracks calls and its conversions for all their property listings.
 								</p>
 								<a href="./customers-azimo.php">
 									<span>Read their story</span>
@@ -510,11 +510,11 @@
 						</div>
 
 						<div class="thumbnail elAnim__slide anim__delayMedium_4">
-							<div class="cover" style="background-image: url(img/img-test/background-3.jpg);"></div>
+							<div class="cover" style="background-image: url(img/img-test/background-1.jpg);"></div>
 							<div class="infos">
-								<img class="logo" src="img/customers-main/logo-decathlon.png" alt="">
+								<img class="logo" src="img/section-articles/logo-sncf.svg" alt="">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque reiciendis totam repudiandae. Ratione modi, voluptate deserunt inventore exercitationem at quo eos velit fugit blanditiis, delectus error, dolore facilis! Quod, tempore.
+									SNCF allows all web visitors to launch snap calls from their website
 								</p>
 								<a href="./customers-azimo.php">
 									<span>Read their story</span>

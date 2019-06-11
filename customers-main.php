@@ -108,21 +108,21 @@
 				<div class="wrapper">
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_0">
-							Voice at scale & hassle-free.
+							Read similar customer stories.
 						</h2>
 						<p class="elAnim__slide anim__delayMedium_1">
-							See how SnapCall is helping other companies leverage voice for customer relationships.
+							see how SnapCall is helping other companies leverage voice for customer relationships
 						</p>
 					</div>
 					<div class="container-thumbnails">
 						<div class="thumbnail elAnim__slide anim__delayMedium_2" >
-							<div class="cover" style="background-image: url(img/img-test/background-1.jpg);"></div>
+							<div class="cover" style="background-image: url(img/section-articles/cover-azimo.jpg);"></div>
 							<div class="infos">
-								<img class="logo" src="img/customers-main/logo-sncf.png" alt="">
+								<img class="logo" src="img/section-articles/logo-azimo.svg" alt="">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque reiciendis totam repudiandae. Ratione modi, voluptate deserunt inventore exercitationem at quo eos velit fugit blanditiis, delectus error, dolore facilis! Quod, tempore.
+									Azimo pivoted its phone support and focused it on high value customers only.
 								</p>
-								<a href="">
+								<a href="./customers-azimo.php">
 									<span>Read their story</span>
 									<svg class="arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -132,13 +132,13 @@
 						</div>
 
 						<div class="thumbnail elAnim__slide anim__delayMedium_3">
-							<div class="cover" style="background-image: url(img/img-test/background-2.jpg);"></div>
+							<div class="cover" style="background-image: url(img/section-articles/cover-seloger.jpg);"></div>
 							<div class="infos">
-								<img class="logo" src="img/customers-main/logo-seloger.png" alt="">
+								<img class="logo" src="img/section-articles/logo-selogerneuf.png" alt="">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque reiciendis totam repudiandae. Ratione modi, voluptate deserunt inventore exercitationem at quo eos velit fugit blanditiis, delectus error, dolore facilis! Quod, tempore.
+									SeLoger Neuf website tracks calls and its conversions for all their property listings.
 								</p>
-								<a href="">
+								<a href="./customers-azimo.php">
 									<span>Read their story</span>
 									<svg class="arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -148,13 +148,13 @@
 						</div>
 
 						<div class="thumbnail elAnim__slide anim__delayMedium_4">
-							<div class="cover" style="background-image: url(img/img-test/background-3.jpg);"></div>
+							<div class="cover" style="background-image: url(img/img-test/background-1.jpg);"></div>
 							<div class="infos">
-								<img class="logo" src="img/customers-main/logo-decathlon.png" alt="">
+								<img class="logo" src="img/section-articles/logo-sncf.svg" alt="">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque reiciendis totam repudiandae. Ratione modi, voluptate deserunt inventore exercitationem at quo eos velit fugit blanditiis, delectus error, dolore facilis! Quod, tempore.
+									SNCF allows all web visitors to launch snap calls from their website
 								</p>
-								<a href="">
+								<a href="./customers-azimo.php">
 									<span>Read their story</span>
 									<svg class="arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -162,6 +162,11 @@
 								</a>
 							</div>
 						</div>
+					</div>
+					<div class="container-button elAnim__slide anim__delayMedium_7">
+						<a class="button" href="">
+							<span class="btn-text">See All</span>
+						</a>
 					</div>
 				</div>
 			</section>
