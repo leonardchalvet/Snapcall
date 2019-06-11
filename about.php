@@ -36,11 +36,11 @@
 							<br><span>Us.</span>
 						</h1>
 						<p>
-							We believe in the power of voice, warm conversations and snap connections
+							We believe in the power of voice, warm conversations and snap connections.
 						</p>
 						<div class="container-button">
 							<a href="https://register.snapcall.io" class="cm-button-style1">
-								<span class="btn-text">Get Started</span>
+								<span class="btn-text">Join our Team</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -300,7 +300,7 @@
 						</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
 							<a href="https://register.snapcall.io" class="cm-button-style1">
-								<span class="btn-text">Get Started</span>
+								<span class="btn-text">Check open positions</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>

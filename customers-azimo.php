@@ -525,6 +525,11 @@
 							</div>
 						</div>
 					</div>
+					<div class="container-button elAnim__slide anim__delayMedium_7">
+						<a class="button" href="">
+							<span class="btn-text">See All</span>
+						</a>
+					</div>
 				</div>
 			</section>
 

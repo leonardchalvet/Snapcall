@@ -347,6 +347,53 @@
 	}
 }
 
+.cm-section-quotes {
+	.wrapper {
+		background-color: #3B655B;
+	}
+	.container-quotes{
+		.quote{
+			.head{
+				.name{
+					color: #FFF;
+				}
+				.job{
+					img{
+						opacity: 0.7;
+					}
+					span{
+						
+						color: rgba(255, 255, 255, 0.7);
+					}
+				}
+			}
+			.content{
+				.container-pr{
+					.text{
+						q{
+							color: #FFF;
+						}
+					}
+				}
+				.container-action{
+					.container-nav{
+						.nav{
+							svg{
+								stroke: #FFF;
+							}
+						}
+					}
+					.container-button{
+						a{
+							@include buttonStyle2-color3;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
 #section-platforms{
 	margin-top: 100px;
 	position: relative;
