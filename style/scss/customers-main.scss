@@ -133,6 +133,89 @@
 	}
 }
 
+.cm-section-quotes {
+	&.section-quotes-1 {
+		.container-background {
+			position: absolute;
+			right: 0px;
+			top: 0px;
+			width: 428px;
+			height: 100%;
+			background-color: $colorMain_5;
+			.background{
+				position:absolute;
+				left: 0;
+				bottom: 0;
+				width: 100%;
+			}
+		}
+		.container-quotes{
+			.quote{
+				.content{
+					.container-action{
+						.container-nav{
+							.nav{
+								svg{
+									stroke: #000;
+								}
+							}
+						}
+						.container-button{
+							a{
+								@include buttonStyle2-color2;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	&.section-quotes-2 {
+		background-color: #3B655B;
+		.container-quotes{
+			.quote{
+				.head{
+					.name{
+						color: #FFF;
+					}
+					.job{
+						img{
+							opacity: 0.7;
+						}
+						span{
+							
+							color: rgba(255, 255, 255, 0.7);
+						}
+					}
+				}
+				.content{
+					.container-pr{
+						.text{
+							q{
+								color: #FFF;
+							}
+						}
+					}
+					.container-action{
+						.container-nav{
+							.nav{
+								svg{
+									stroke: #FFF;
+								}
+							}
+						}
+						.container-button{
+							a{
+								@include buttonStyle2-color3;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
 #section-articles{
 	position: relative;
 	margin-top: 170px;

@@ -33,6 +33,50 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/bodymovin/customers-main/images/img_0.png": {
+		"ft": 32768,
+		"iS": 2197,
+		"oA": 0,
+		"oAP": "/bodymovin/customers-main/images/img_0.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/customers-main/images/img_1.png": {
+		"ft": 32768,
+		"iS": 511954,
+		"oA": 0,
+		"oAP": "/bodymovin/customers-main/images/img_1.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/customers-main/images/img_2.png": {
+		"ft": 32768,
+		"iS": 524259,
+		"oA": 0,
+		"oAP": "/bodymovin/customers-main/images/img_2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bodymovin/customers-main/images/img_3.png": {
+		"ft": 32768,
+		"iS": 319189,
+		"oA": 0,
+		"oAP": "/bodymovin/customers-main/images/img_3.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/bodymovin/home/section-cover/data.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -454,7 +498,7 @@
 		},
 	"/img/about/section-partners/logo-laFrenchTech.png": {
 		"ft": 32768,
-		"iS": 3346,
+		"iS": 3434,
 		"oA": 0,
 		"oAP": "/img/about/section-partners/logo-laFrenchTech.png",
 		"oF": 0,
@@ -1880,7 +1924,7 @@
 		},
 	"/img/product/section-quotes/user-1.jpg": {
 		"ft": 16384,
-		"iS": 7702,
+		"iS": 8611,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-1.jpg",
@@ -1891,7 +1935,7 @@
 		},
 	"/img/product/section-quotes/user-2.jpg": {
 		"ft": 16384,
-		"iS": 7177,
+		"iS": 7347,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-2.jpg",
