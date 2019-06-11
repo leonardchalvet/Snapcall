@@ -45,7 +45,7 @@
 						</p>
 						<div class="container-button">
 							<a href="https://register.snapcall.io" class="cm-button-style1">
-								<span class="btn-text">Try Free</span>
+								<span class="btn-text">Start Free Trial</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -210,7 +210,7 @@
 							Voice at scale & hassle-free.
 						</h2>
 						<p class="elAnim__slide anim__delayMedium_1">
-							see how SnapCall is helping other companies leverage voice for customer relationships
+							See how SnapCall is helping other companies leverage voice for customer relationships.
 						</p>
 					</div>
 					<div class="container-thumbnails">
@@ -344,7 +344,7 @@
 								Pre-qualified calls
 							</h3>
 							<p class="elAnim__slide anim__delayMedium_6">
-								Set criteria for customers to be able to place calls
+								Set criteria for customers to be able to place calls.
 							</p>
 						</div>
 
@@ -354,7 +354,7 @@
 								Personalization at scale
 							</h3>
 							<p class="elAnim__slide anim__delayMedium_7">
-								Get customer info plus their digital journey with a click
+								Get customer info plus their digital journey with a click.
 							</p>
 						</div>
 					</div>
