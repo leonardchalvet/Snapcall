@@ -62,6 +62,7 @@
 				background-color: $colorMain_7;
 				transition: all .5s ease;
 				&:hover {
+					background-color: #FFF;
 					box-shadow: 0 20px 40px 0 rgba(0,0,0,0.16);
 				}
 				.icn {
