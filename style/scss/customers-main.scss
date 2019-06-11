@@ -220,6 +220,7 @@
 	position: relative;
 	margin-top: 170px;
 	.wrapper{
+		position: relative;
 		@include styleGrid3;
 		padding-bottom: 135px;
 		&:before {

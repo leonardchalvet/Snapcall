@@ -13,7 +13,7 @@ $(window).on('load', function() {
 
 		let valDelay = 0;
 		let numberEl = $(Pp).length;
-		let countEl = 2;
+		let countEl = 1;
 		
 		let drtc;
 
@@ -37,27 +37,24 @@ $(window).on('load', function() {
 				$('.clr').removeClass('color-1 color-2 color-3 color-4');
 				$(Nav).removeClass('color-1 color-2 color-3 color-4');
 
-				$(elPp + '.active').removeClass('active').addClass('hide').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend',   
-					    function(e) {
+				$(elPp + '.anim-show').removeClass('anim-show').addClass('anim-hide-top');
+				setTimeout(function(){ 
+					$(elPp + '.anim-hide-top').removeClass('anim-hide-top displayBlock').addClass('anim-hide-bottom');
+					$(elPp + ':nth-child('+countEl+')').addClass('displayBlock').outerWidth();
+					$(elPp + ':nth-child('+countEl+')').removeClass('anim-hide-bottom').addClass('anim-show');
+				}, 750);
 
-				    $(elPp + '.hide').removeClass('hide').addClass('wait');
-
-				    $(elPp + ':nth-child(' + countEl + ')').removeClass('wait').addClass('active');
-				    
-				});
-
-				$(elHp + '.active').removeClass('active').addClass('hide').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend',   
-					    function(e) {
-
-				    $(elHp + '.hide').removeClass('hide').addClass('wait');
-				    
-				    $(elHp + ':nth-child(' + countEl + ')').removeClass('wait').addClass('active');
-
-				    $('.clr').addClass('color-' + countEl);
+				$(elHp + '.anim-show').removeClass('anim-show').addClass('anim-hide-top');
+				setTimeout(function(){ 
+					$(elHp + '.anim-hide-top').removeClass('anim-hide-top displayBlock').addClass('anim-hide-bottom');
+					$(elHp + ':nth-child('+countEl+')').addClass('displayBlock').outerWidth();
+					$(elHp + ':nth-child('+countEl+')').removeClass('anim-hide-bottom').addClass('anim-show');
+						
+					$('.clr').addClass('color-' + countEl);
 				    $(Nav).addClass('color-' + countEl);
 				    state = true;
 
-				});
+				}, 750);
 
 				clearInterval(interval);
 				interval = setInterval(function() {
@@ -75,10 +72,10 @@ $(window).on('load', function() {
 		};
 
 		function init(){
-			$(Pp + ':nth-child(2)').addClass('active');
-			$(Pp + ':not(:nth-child(2))').addClass('wait');
-			$(Hp + ':nth-child(2)').addClass('active');
-			$(Hp + ':not(:nth-child(2))').addClass('wait');
+			$(Pp + ':nth-child(1)').addClass('displayBlock anim-show');
+			$(Pp + ':not(:nth-child(2))').addClass('anim-hide-bottom');
+			$(Hp + ':nth-child(1)').addClass('displayBlock anim-show');
+			$(Hp + ':not(:nth-child(2))').addClass('anim-hide-bottom');
 		};
 
 		$(Nav + ' .arrow:nth-child(2)').click(function(){

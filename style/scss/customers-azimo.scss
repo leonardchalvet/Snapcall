@@ -293,15 +293,16 @@
 				height: 40px;
 				border-radius: 13px;
 				background-color: $colorMain_7;
-				transition: all .25s ease;
 				&:not(:last-child) {
 					margin-bottom: 32.5px;
 				}
 				img {
 					width: 16px;
+					transition: all .25s ease;
+					filter: brightness(0%);
 				}
-				&:hover {
-					opacity: .7;
+				&:hover img {
+					filter: brightness(100%);
 				}
 			}
 		}

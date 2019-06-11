@@ -181,16 +181,16 @@
 					<div class="container">
 						<div class="container-sn">
 							<a href="#" class="sn">
-								<img src="img/common/sn/tw-black.svg">
+								<img src="img/common/sn/tw-color.svg">
 							</a>
 							<a href="#" class="sn">
-								<img src="img/common/sn/fb-black.svg">
+								<img src="img/common/sn/fb-color.svg">
 							</a>
 							<a href="#" class="sn">
-								<img src="img/common/sn/in-black.svg">
+								<img src="img/common/sn/in-color.svg">
 							</a>
 							<a href="#" class="sn">
-								<img src="img/common/sn/is-black.svg">
+								<img src="img/common/sn/is-color.svg">
 							</a>
 						</div>
 						<section class="blog-section-head">
