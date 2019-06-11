@@ -86,7 +86,7 @@
 								</div>
 								<p class="month">
 									<span>per month, billed annually</span>
-									<span>annually</span>
+									<span>per year, billed annually</span>
 								</p>
 							</div>
 							<div class="cell">
@@ -99,7 +99,7 @@
 								</div>
 								<p class="month">
 									<span>per month, billed annually</span>
-									<span>annually</span>
+									<span>per year, billed annually</span>
 								</p>
 							</div>
 							<div class="cell">
@@ -112,7 +112,7 @@
 								</div>
 								<p class="month">
 									<span>per month, billed annually</span>
-									<span>annually</span>
+									<span>per year, billed annually</span>
 								</p>
 							</div>
 							<div class="cell">
@@ -125,7 +125,7 @@
 								</div>
 								<p class="month">
 									<span>per month, billed annually</span>
-									<span>annually</span>
+									<span>per year, billed annually</span>
 								</p>
 							</div>
 						</div>

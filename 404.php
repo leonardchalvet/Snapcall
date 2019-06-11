@@ -35,7 +35,7 @@
 						</p>
 						<div class="container-button">
 							<a href="" class="cm-button-style1">
-								<span class="btn-text">Home page</span>
+								<span class="btn-text">Go to HomePage</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>

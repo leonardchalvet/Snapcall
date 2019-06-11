@@ -5,8 +5,14 @@ $(window).on('load', function() {
 	}, 100);
 
 	$('#section-faq .container-questions .question').click(function(){
-		$('#section-faq .container-questions .question').removeClass('open');
-		$(this).addClass('open');
+		if ($(this).hasClass('open')) {
+			$('#section-faq .container-questions .question').removeClass('open');
+		}else {
+			$('#section-faq .container-questions .question').removeClass('open');
+			$(this).addClass('open');
+		}
+		
+		
 	})
 	
 	$('#section-table .container-action .container-date').click(function(){
