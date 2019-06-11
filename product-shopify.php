@@ -57,7 +57,7 @@
 							Super-power your ecommerce with voice.
 						</h2>
 						<p class="elAnim__slide anim__delayMedium_1">
-							Phone systems can be too complex. We made talking to your customers as simple as a click.
+							Phone systems can be too complex. We made talking to your<br>customers as simple as a click.
 						</p>
 					</div>
 					<div class="container-el">
@@ -174,7 +174,7 @@
 											<img class="icn" src="img/common/check-1.svg" alt="">
 											<h3>
 												Events on Google Analytics:
-												intent, duration and call rating
+												<span>intent, duration and call rating</span>
 											</h3>
 										</div>
 									</li>
@@ -231,7 +231,7 @@
 							</div>
 							<div class="el el-4">
 								<h2 class="elAnim__slide anim__delayMedium_1">
-									Connect SnapCall buttons to your <i>zendesk support.</i>
+									Connect SnapCall buttons to your <i>ZENDESK support.</i>
 								</h2>
 								<p class="elAnim__slide anim__delayMedium_2">
 									It works with what you already have in place as support. Plug and chill.
@@ -255,7 +255,7 @@
 
 				<div class="wrapper">
 					<div class="container-text">
-						<h2 class="elAnim__slide anim__delayMedium_1">Your ecommerce already feels smarter.</h2>
+						<h2 class="elAnim__slide anim__delayMedium_1">Your ecommerce<br>already feels smarter.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
 							<a href="https://shopify.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Connect with Shopify</span>
