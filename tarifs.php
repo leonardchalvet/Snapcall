@@ -34,7 +34,7 @@
 						</span>
 					</h1>
 					<p>
-						Every plan includes a 14-day free trial. No credit card required. Sign up and cancel anytime.
+						Every plan includes a 30-day free trial. No credit card required. Sign up and cancel anytime.
 					</p>
 				</div>
 			</section>
@@ -86,7 +86,7 @@
 									29€
 								</div>
 								<p class="month">
-									<span>per month, billed annually</span>
+									<span>per month, billed monthly</span>
 									<span>per year, billed annually</span>
 								</p>
 							</div>
@@ -100,7 +100,7 @@
 									99€
 								</div>
 								<p class="month">
-									<span>per month, billed annually</span>
+									<span>per month, billed monthly</span>
 									<span>per year, billed annually</span>
 								</p>
 							</div>
@@ -114,7 +114,7 @@
 									299€
 								</div>
 								<p class="month">
-									<span>per month, billed annually</span>
+									<span>per month, billed monthly</span>
 									<span>per year, billed annually</span>
 								</p>
 							</div>
@@ -128,7 +128,7 @@
 									1199€
 								</div>
 								<p class="month">
-									<span>per month, billed annually</span>
+									<span>per month, billed monthly</span>
 									<span>per year, billed annually</span>
 								</p>
 							</div>
