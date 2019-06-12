@@ -43,7 +43,7 @@
 
 				<div class="wrapper">
 
-					<div class="container-action elAnim__slide anim__delayMedium_0">
+					<div class="container-action elAnim__slide anim__delayMedium_4">
 						<div class="container-date left">
 							<span>Monthly</span>
 							<div class="bg">
@@ -54,17 +54,17 @@
 						<div class="container-money">
 							<span>Display prices in : </span>
 							<div class="money">
-								EURO €
+								Euro €
 								<img class="flag" src="img/common/flags/fr.svg">
 								<img class="arrow" src="img/common/arrow-3.svg">
 							</div>
 							<div class="dropdown">
 								<div class="money" data-price="eur">
-									EURO €
+									Euro €
 									<img class="flag" src="img/common/flags/fr.svg">
 								</div>
 								<div class="money" data-price="usd">
-									USD $
+									Usd $
 									<img class="flag" src="img/common/flags/en.svg">
 								</div>
 							</div>
@@ -72,7 +72,7 @@
 					</div>
 
 					<div class="container-table">
-						<div class="head elAnim__slide anim__delayMedium_0">
+						<div class="head elAnim__slide anim__delayMedium_5">
 							<div class="cell">
 
 							</div>
@@ -134,7 +134,7 @@
 							</div>
 						</div>
 						<div class="container-raw">
-							<div class="raw elAnim__slide anim__delayMedium_1">
+							<div class="raw elAnim__slide anim__delayMedium_6">
 								<div class="cell">
 									<h6>
 										Smart Voice Support
@@ -192,7 +192,7 @@
 									</ul>
 								</div>
 							</div>
-							<div class="raw elAnim__slide anim__delayMedium_2">
+							<div class="raw elAnim__slide anim__delayMedium_7">
 								<div class="cell">
 									<h6>
 										Web Calls
@@ -238,7 +238,7 @@
 									</ul>
 								</div>
 							</div>
-							<div class="raw elAnim__slide anim__delayMedium_3">
+							<div class="raw elAnim__slide anim__delayMedium_8">
 								<div class="cell">
 									<h6>
 										Customer Data in Calls
@@ -275,7 +275,7 @@
 									</ul>
 								</div>
 							</div>
-							<div class="raw elAnim__slide anim__delayMedium_4">
+							<div class="raw elAnim__slide anim__delayMedium_9">
 								<div class="cell">
 									<h6>
 										Smart Plugs
@@ -345,7 +345,7 @@
 									</ul>
 								</div>
 							</div>
-							<div class="raw elAnim__slide anim__delayMedium_5">
+							<div class="raw elAnim__slide anim__delayMedium_10">
 								<div class="cell">
 									<h6>
 										Data & Analytics
@@ -387,7 +387,7 @@
 									</ul>
 								</div>
 							</div>
-							<div class="raw elAnim__slide anim__delayMedium_6">
+							<div class="raw elAnim__slide anim__delayMedium_11">
 								<div class="cell">
 									<h6>
 										Call Recording

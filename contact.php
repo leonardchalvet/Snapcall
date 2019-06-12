@@ -51,11 +51,31 @@
 						</p>
 					</div>
 					<div class="container-form">
-						<form method="post" action="sendmail.php" class="elAnim__slide anim__delayMedium_3">
-							<input type="text" name="name" placeholder="Name" required>
-							<input type="text" name="compagny" placeholder="Compagny" required>
-							<input type="email" name="email" placeholder="Email*" required>
-							<textarea rows="5" placeholder="Let us know how we can help*" required></textarea>
+						<form method="post" action="sendmail.php" onsubmit="return verifForm(this)" class="elAnim__slide anim__delayMedium_3">
+							<div class="container-input">
+								<input type="text" name="name" placeholder="Name">
+								<div class="message-error">
+									Please write a name
+								</div>
+							</div>
+							<div class="container-input">	
+								<input type="text" name="compagny" placeholder="Compagny">
+								<div class="message-error">
+									Please write a compagny
+								</div>
+							</div>
+							<div class="container-input">
+								<input type="text" name="email" placeholder="Email*">
+								<div class="message-error">
+									Your email is not valid
+								</div>
+							</div>
+							<div class="container-input">
+								<textarea rows="6" name="text" placeholder="Let us know how we can help*"></textarea>
+								<div class="message-error">
+									Please write a message
+								</div>
+							</div>
 							<div class="validate">
 								<p>
 									By submitting this form, you are granting consent to contact you in the future with relevant communications. You may unsubscribe anytime in the future.
