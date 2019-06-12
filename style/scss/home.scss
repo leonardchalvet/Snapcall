@@ -211,6 +211,10 @@
 }
 /* ANIM */
 #section-logos{
+	.wrapper{
+		border-color: transparent;
+		transition: all 0.25s ease;
+	}
 	.container-text{
 		h3{
 			opacity: 0;
@@ -227,6 +231,9 @@
 		}
 	}
 	&.ready{
+		.wrapper{
+			border-color: #D0D0D0;
+		}
 		.container-text{
 			h3{
 				opacity: 1;
