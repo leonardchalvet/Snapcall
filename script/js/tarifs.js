@@ -21,13 +21,10 @@ $(window).on('load', function() {
 
 			$('#section-table .container-table .head .cell .price').each(function(i){
 				let price = $(this).attr('data-value');
-				let nbU = parseInt($(this).attr('data-price-' + price + '-month'));
-				let nbD = parseInt($(this).attr('data-price-' + price + '-year'));
-				let sign = '';
-				if(price == 'eur') { sign = '€'; }
-				else if(price == 'usd') { sign = '$'; }
-
-				countDown($(this), nbU, nbD, sign);
+				let nbU = $(this).attr('data-price-' + price + '-month');
+				let nbD = $(this).attr('data-price-' + price + '-year');
+				
+				$(this).text(nbD);
 			})
 
 			$('#section-table .container-table .head .cell p').removeClass('month');
@@ -39,13 +36,10 @@ $(window).on('load', function() {
 
 			$('#section-table .container-table .head .cell .price').each(function(i){
 				let price = $(this).attr('data-value');
-				let nbU = parseInt($(this).attr('data-price-' + price + '-month'));
-				let nbD = parseInt($(this).attr('data-price-' + price + '-year'));
-				let sign = '';
-				if(price == 'eur') { sign = '€'; }
-				else if(price == 'usd') { sign = '$'; }
+				let nbU = $(this).attr('data-price-' + price + '-month');
+				let nbD = $(this).attr('data-price-' + price + '-year');
 
-				countUp($(this), nbD, nbU, sign);
+				$(this).text(nbU);
 			})
 
 			$('#section-table .container-table .head .cell p').removeClass('year');
@@ -63,7 +57,7 @@ $(window).on('load', function() {
 
 		$('#section-table .container-table .head .cell .price').each(function(i){
 			let price = $(this).attr('data-value');
-			let nb = $(this).attr('data-price-' + price);
+			let nb = $(this).attr('data-price-' + price + '-month');
 			$(this).text(nb);
 		})
 
@@ -85,26 +79,4 @@ $(window).on('load', function() {
 	    		$('#section-table .container-action .container-money').removeClass('open');
 	    }
 	})
-
-	let countUp = function(el, start, value, sign) {
-		let localStart = start;
-		setInterval(function() {
-			if (localStart < value) {
-				localStart+=10000;
-				if (localStart > value) localStart = value;
-				el.text(localStart + '' + sign);
-			}
-		}, 0);
-	}
-
-	let countDown = function(el, start, value, sign) {
-		let localStart = start;
-		setInterval(function() {
-			if (localStart > value) {
-				localStart-=10000;
-				if (localStart < value) localStart = value;
-				el.text(localStart + '' + sign);
-			}
-		}, 0);
-	}
 })
