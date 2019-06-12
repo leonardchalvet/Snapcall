@@ -83,19 +83,38 @@
 		margin-left: auto;
 		margin-right: auto;
 		width: 680px;
+		.container-input {
+			position: relative;
+			width: 100%;
+			&:not(:last-child) {
+				margin-bottom: 20px;
+			}
+			.message-error {
+				display: none;
+				position: absolute;
+				right: 25px;
+				bottom: 23px;
+				@include styleParagraphSmall;
+				color: #E53535;
+			}
+		}
 		input, textarea {
 			width: 100%;
 			padding: 20px 30px;
 			border-radius: 20px;
 			border: 1px solid #DCDCDC;
 			outline: none;
-			@include styleParagraphBig;
-			&:not(:last-child) {
-				margin-bottom: 20px;
-			}
+			@include styleParagraphMedium;
+			transition: all .25s ease;
 			&:focus {
 				color: $colorMain_8;
 				border-color: $colorMain_8;
+			}
+			&.error {
+				border-color: #E53535;
+			}
+			&.error ~ .message-error {
+				display: block;
 			}
 		}
 		textarea {
