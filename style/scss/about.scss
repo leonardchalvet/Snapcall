@@ -179,7 +179,7 @@
 				@include styleH2;
 			}
 			p{
-				@include styleParagraphMedium;
+				@include styleParagraphBig;
 			}
 			&:nth-child(1){
 				.line{
@@ -407,7 +407,7 @@
 	}
 	.obj-1 {
 		top: 0;
-		left: 50%;
+		left: 35%;
 		width: 130px;
 		height: 130px;
 	}
@@ -546,7 +546,6 @@
 					}
 				}
 
-				&:nth-child(1),
 				&:nth-child(3),
 				&:nth-child(4) {
 					svg {
@@ -557,6 +556,12 @@
 				&:nth-child(2) {
 					svg {
 						stroke: #FFF;	
+					}
+				}
+
+				&:nth-child(1) {
+					p {
+						color: #F8F8F8;
 					}
 				}
 			}
@@ -574,6 +579,8 @@
 			height: 30px;
 			&:nth-child(1) {
 				margin-right: 20px;
+			}
+			&:nth-child(2) {
 				svg {
 					transform: rotate(180deg);
 				}
@@ -585,7 +592,12 @@
 			}
 		}
 
-		&.color-1,
+		&.color-1 {
+			.arrow svg {
+				stroke: #F8F8F8;
+			}
+		}
+
 		&.color-3,
 		&.color-4 {
 			.arrow svg {
@@ -627,7 +639,162 @@
 }
 
 @media screen and (max-width: $breakPoint_mobile) {
-	
+	#section-cover .container-background {
+		left: 0;
+		width: calc(100% - 100px);
+	}
+	#section-cover .container-text {
+		margin-left: 0;
+		width: 100%;
+	}
+	#section-cover .container-text h1 {
+		position: relative;
+		&:after {
+			content: " ";
+			position: absolute;
+			top: 43px;
+			right: 0;
+			width: calc(100% / 3 - 20px);
+			height: 3px;
+			background-color: $colorMain_3;
+		}
+	}
+	#section-cover .container-text p {
+		width: 100%;
+	}
+	#section-cover.ready .container-illu {
+		display: none;
+	}
+
+	#section-pr {
+		margin-top: 75px;
+		margin-bottom: 75px;
+	}
+	#section-pr .container-el .el {
+		width: 100%;
+		&:not(:last-child) {
+			margin-bottom: 40px;
+		}
+	}
+	#section-pr .container-el .el h4 {
+		margin-bottom: 10px;
+	}
+
+	#section-story {
+		margin-top: 0;
+		margin-bottom: 90px;
+	}
+	#section-story .container-photo {
+		position: relative;
+		height: 325px;
+	}
+	#section-story .container-photo .bg {
+		width: 100%;
+		background-position: left center;
+	}
+	#section-story .container-photo .rect {
+		display: none;
+	}
+	#section-story .container-photo:after {
+		content: none;
+	}
+	#section-story .container-text {
+		margin-top: 40px;
+		padding-top: 0;
+		padding-bottom: 0;
+		margin-right: 0;
+		width: 100%;
+	}
+
+	#section-numbers .container-text {
+		width: 100%;
+	}
+	#section-numbers .container-el {
+		margin-top: 100px;
+	}
+	#section-numbers .container-el .el .container-photo {
+		position: relative;
+		width: 100%;
+		height: 500px;
+	}
+	#section-numbers .container-el .el .text .row {
+		position: relative;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+		margin-top: 80px;	
+		width: 100%;
+	}
+	#section-numbers .container-el .el .text .row .number {
+		position: absolute;
+		top: -300px;
+		left: 5px;
+		width: 100%;
+		margin-right: 0;
+	}
+	#section-numbers .container-el .el .text .row h3 {
+		max-width: 100%;
+	}
+	#section-numbers .container-el .el .text p {
+		width: 100%;
+	}
+
+	#section-carrousel .obj-1 {
+		left: auto;
+		right: 5%;
+	}
+	#section-carrousel .obj-2 {
+		display: none;
+	}
+	#section-carrousel .wrapper {
+		display: flex;
+		flex-wrap: wrap;
+		height: auto;
+	}
+	#section-carrousel .container-text {
+		order: 1;
+		height: 300px;
+	}
+	#section-carrousel .container-text .container-el {
+		margin-left: 0;
+	}
+	#section-carrousel .container-text .container-el .el {
+		top: 100px;
+	}
+	#section-carrousel .container-text .container-el .el h2 {
+		width: calc(100% - 50px);
+	}
+	#section-carrousel .container-pp {
+		margin-top: 50px;
+		order: 3;
+		position: relative;
+		top: auto;
+		left: auto;
+		bottom: auto;
+		height: 490px;
+	}
+	#section-carrousel .container-pp .container-el {
+		width: calc(100% + 50px);
+		transform: translateX(-25px);
+	}
+	#section-carrousel .container-arrow {
+		order: 2;
+		position: relative;
+		left: auto;
+		bottom: auto;
+	}
+
+	#section-partners {
+		margin-top: 75px;
+		margin-bottom: 55px;
+	}
+	#section-partners .container-logos {
+		flex-wrap: wrap;
+	}
+	#section-partners .container-logos .logo {
+		text-align: center;
+		width: calc(100% / 2);
+		margin-bottom: 40px;
+	}
 }
 
 /*=====================================

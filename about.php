@@ -93,17 +93,17 @@
 				</div>
 			</section>
 
-			<section id="section-story">
+			<section id="section-story" class="sectionAnim_container">
 				<div class="wrapper">
-					<div class="container-photo">
+					<div class="container-photo elAnim__slide anim__delayMedium_0">
 						<div class="bg" style="background-image: url(img/about/story-photo.jpg);"></div>
 						<div class="rect"></div>
 					</div>
 					<div class="container-text">
-						<h2>
+						<h2 class="elAnim__slide anim__delayMedium_1">
 							Our story.
 						</h2>
-						<p>
+						<p class="elAnim__slide anim__delayMedium_2">
 							After working several years in the voice industry we realized everything seemed to change, become digital and smarter but phone systems. The foundation of phone systems haven’t changed much in the last 128 years and we decided to do something about it. That’s how SnapCall was born, we built our product around the end-customer, to make calling a business a delightful experience and not tedious, for once! And for companies we decided to tell them, you don’t need your old phone numbers on your website or app, one smart button will make the job. As simple and powerful as that.
 						</p>
 					</div>
@@ -251,16 +251,16 @@
 					</div>
 					<div class="container-arrow">
 						<div class="arrow left">
-							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-								<g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
-									<path d="M1.563 10.25h16.875M10.563 18.125l7.874-7.875-7.875-7.875"/>
+							<svg viewBox="0 0 33 31" xmlns="http://www.w3.org/2000/svg">
+								<g stroke-width="2.6" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+									<path d="M31.025 15.3H1.775M15.425 28.95L1.775 15.3l13.65-13.65"/>
 								</g>
 							</svg>
 						</div>
 						<div class="arrow right">
-							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-								<g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
-									<path d="M1.563 10.25h16.875M10.563 18.125l7.874-7.875-7.875-7.875"/>
+							<svg viewBox="0 0 33 31" xmlns="http://www.w3.org/2000/svg">
+								<g stroke-width="2.6" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+									<path d="M31.025 15.3H1.775M15.425 28.95L1.775 15.3l13.65-13.65"/>
 								</g>
 							</svg>
 						</div>

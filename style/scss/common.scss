@@ -347,22 +347,32 @@ main
 		@mixin styleParagraphBig{
 			color: $colorMain_9;
 			font-family: $font_2_Regular;
+			font-size: $paragraphBig_textsize_desktop;
+			line-height: $paragraphBig_lineheight_desktop;
+			/*
 			@media screen and (min-width: $breakPoint_tablet){
 				font-size: $paragraphBig_textsize_desktop;
 				line-height: $paragraphBig_lineheight_desktop;
 			}
 			@media screen and (max-width: $breakPoint_mobile){
-				font-size: $paragraphBig_textsize_mobile;
-				line-height: $paragraphBig_lineheight_mobile;
+				font-size: $paragraphSmall_textsize_desktop;
+				line-height: $paragraphSmall_lineheight_desktop;
 			}
+			*/
 		}
 
 		/*----------  PARAGRAPH MEDIUM  ----------*/
 		@mixin styleParagraphMedium{
 			color: $colorMain_9;
 			font-family: $font_2_Regular;
-			font-size: $paragraphMedium_textsize_desktop;
-			line-height: $paragraphMedium_lineheight_desktop;
+			@media screen and (min-width: $breakPoint_tablet){
+				font-size: $paragraphMedium_textsize_desktop;
+				line-height: $paragraphMedium_lineheight_desktop;
+			}
+			@media screen and (max-width: $breakPoint_mobile){
+				font-size: $paragraphSmall_textsize_desktop;
+				line-height: $paragraphSmall_lineheight_desktop;
+			}
 		}
 
 		/*----------  PARAGRAPH SMALL  ----------*/
