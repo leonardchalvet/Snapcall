@@ -142,8 +142,8 @@
 				</div>
 			</section>
 
-			<section class="cm-section-quotes green sectionAnim_container">
-				<div class="wrapper">
+			<section class="cm-section-quotes web-calls sectionAnim_container">
+				<div class="wrapper elAnim__slide anim__delayMedium_1">
 					<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
 					<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">
 					<div class="container-quotes">

@@ -126,8 +126,8 @@
 				</div>
 			</section>
 
-			<section class="cm-section-quotes green sectionAnim_container" data-carousel="on">
-				<div class="wrapper">
+			<section class="cm-section-quotes smart-plugs sectionAnim_container" data-carousel="on">
+				<div class="wrapper elAnim__slide anim__delayMedium_1">
 					<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
 					<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">
 					<div class="container-quotes">
@@ -146,7 +146,7 @@
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											We connected the SnapCall buttons displayed on Azimo’s website and app, into our <i>Zendesk support</i>. Each time a customer is trying to reach us, we receive the calls on our Zendesk system, making it easier to pick up calls, assign agents, and have all the important information about them at the right moment.
 										</q>
@@ -191,7 +191,7 @@
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											We connected the SnapCall buttons displayed on each online property listing to the respective <i>agency phone number.</i> Each time one web visitor is interested on that particular property they just click once on the button and launch the call, which gets picked up immediately by the real estate agent.
 										</q>

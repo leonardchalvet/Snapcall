@@ -306,10 +306,10 @@
 				</div>
 			</section>
 
-			<section class="cm-section-quotes large green nomarge sectionAnim_container">
+			<section class="cm-section-quotes zendesk sectionAnim_container">
 				<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
 				<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">
-				<div class="wrapper">
+				<div class="wrapper elAnim__slide anim__delayMedium_1">
 					<div class="container-quotes">
 						<div class="quote">
 							<div class="head">
@@ -326,7 +326,7 @@
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											Having a <i>seamless integration</i> of our voice support powered by SnapCall into our Zendesk platform, allows us to manage all our support channels in one interface, have efficient workarounds and a 360 view of our customers.
 										</q>

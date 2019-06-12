@@ -54,7 +54,7 @@
 				<div class="wrapper">
 					<div class="container-text sectionAnim_container">
 						<h2 class="elAnim__slide anim__delayMedium_0">
-							Choose who gets to call you.
+							Choose who gets<br>to call you.
 						</h2>
 						<p class="elAnim__slide anim__delayMedium_1">
 							Automatically filter inbound calls according to
@@ -268,8 +268,8 @@
 				</div>
 			</section>
 
-			<section class="cm-section-quotes green sectionAnim_container">
-				<div class="wrapper">
+			<section class="cm-section-quotes smart-voice-support sectionAnim_container">
+				<div class="wrapper elAnim__slide anim__delayMedium_1">
 					<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
 					<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">
 					<div class="container-quotes">
@@ -288,7 +288,7 @@
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/product/section-quotes/user-2.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											Azimo’s <i>voice support</i> is only offered to <i>certain types of customers</i> according to the frequency and value and their transactions. SnapCall’s flexible API is allowing us to continuously shape this support according to our ever changing priorities and customer’s behavior.
 										</q>

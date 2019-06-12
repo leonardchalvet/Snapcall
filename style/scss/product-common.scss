@@ -27,7 +27,7 @@
 		right: 0px;
 	}
 	.wrapper{
-		width: 610px;
+		width: 550px;
 		margin: auto;
 	}
 	.container-text{
@@ -155,7 +155,7 @@
 					flex-flow: row wrap;
 					align-items: center;
 					img{
-						max-height: 30px;
+						max-height: 40px;
 						max-width: 140px;
 						&:not(:last-child){
 							margin-right: 60px;
@@ -185,13 +185,6 @@
 					margin: auto;
 					display: block;
 					width: 430px;
-				}
-				.illu-2 {
-					width: 100%;
-					height: 450px;
-				}
-				.illu-3{
-					width: 70%;
 				}
 			}
 			&.reach{
@@ -530,6 +523,82 @@
 	margin-top: 140px;
 }
 
+.cm-section-quotes {
+	&.web-calls,
+	&.smart-plugs,
+	&.call-recording,
+	&.data-analytics,
+	&.smart-voice-support,
+	&.customer-data-in-call {
+		margin-bottom: 100px;
+		.wrapper {
+			background-color: #3B655B;
+		}
+	}
+
+	&.web-calls,
+	&.smart-plugs,
+	&.call-recording,
+	&.data-analytics,
+	&.customer-data-in-call {
+		margin-top: 100px;
+	}
+
+	&.web-calls,
+	&.zendesk,
+	&.smart-plugs,
+	&.call-recording,
+	&.data-analytics,
+	&.smart-voice-support,
+	&.customer-data-in-call {
+		.container-quotes{
+			.quote{
+				.head{
+					.name{
+						color: #FFF;
+					}
+					.job{
+						img{
+							opacity: 0.7;
+						}
+						span{
+							
+							color: rgba(255, 255, 255, 0.7);
+						}
+					}
+				}
+				.content{
+					.container-pr{
+						.text{
+							q{
+								color: #FFF;
+							}
+						}
+					}
+					.container-action{
+						.container-nav{
+							.nav{
+								svg{
+									stroke: #FFF;
+								}
+							}
+						}
+						.container-button{
+							a{
+								@include buttonStyle2-color3;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	&.zendesk {
+		background-color: #3B655B;	
+	}
+}
+
 @media screen and (max-width: $breakPoint_mobile) {
 
 	
@@ -654,7 +723,18 @@
 		
 	}
 	
-
+	.cm-section-quotes {
+		&.web-calls,
+		&.zendesk,
+		&.smart-plugs,
+		&.call-recording,
+		&.data-analytics,
+		&.smart-voice-support,
+		&.customer-data-in-call {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+	}
 }
 
 /*==============================================

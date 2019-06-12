@@ -84,7 +84,7 @@
 							55 parvis Alan Turing, 75013 Paris
 						</p>
 					</div>
-					<div class="container-map">
+					<div class="container-map elAnim__slide anim__delayMedium_4">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2626.2416537235813!2d2.3679104155689035!3d48.83452911034074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67221ef45df29%3A0x74b250b094e588ab!2s55+Parvis+Alan+Turing%2C+75013+Paris!5e0!3m2!1sfr!2sfr!4v1559900782889!5m2!1sfr!2sfr" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</div>
 				</div>
