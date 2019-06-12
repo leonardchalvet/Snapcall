@@ -99,7 +99,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img src="img/product/section-features/web-call-illu-3.png" alt="">
+								<img class="illu-2" src="img/product/section-features/web-call-illu-3.png" alt="">
 							</div>
 						</div>
 					</div>
@@ -142,8 +142,8 @@
 				</div>
 			</section>
 
-			<section class="cm-section-quotes green sectionAnim_container">
-				<div class="wrapper">
+			<section class="cm-section-quotes web-calls sectionAnim_container">
+				<div class="wrapper elAnim__slide anim__delayMedium_1">
 					<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
 					<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">
 					<div class="container-quotes">

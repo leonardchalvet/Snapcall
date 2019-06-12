@@ -740,10 +740,6 @@ main
 
 .cm-section-quotes{
 	position: relative;
-	&:not(.green) {
-		opacity: 0;
-		transition: all 1s ease;
-	}
 
 	.wrapper{
 		position: relative;
@@ -1034,102 +1030,7 @@ main
 	&.reach{
 		opacity: 1;
 	}
-
-	&:not(.nomarge) {
-		margin-top: 100px;
-		margin-bottom: 100px;
-	}
-
-	&:not(.large) {
-		&.green {
-			.wrapper {
-				background-color: #3B655B;
-			}
-		}
-	}
-	&.large.green {
-		background-color: #3B655B;
-	}
-
-	&:not(.green) {
-		.container-background {
-			position: absolute;
-			right: 0px;
-			top: 0px;
-			width: 428px;
-			height: 100%;
-			background-color: $colorMain_5;
-			.background{
-				position:absolute;
-				left: 0;
-				bottom: 0;
-				width: 100%;
-			}
-		}
-		.container-quotes{
-			.quote{
-				.content{
-					.container-action{
-						.container-nav{
-							.nav{
-								svg{
-									stroke: #000;
-								}
-							}
-						}
-						.container-button{
-							a{
-								@include buttonStyle2-color2;
-							}
-						}
-					}
-				}
-			}
-		}
-	}
-	&.green {
-		.container-quotes{
-			.quote{
-				.head{
-					.name{
-						color: #FFF;
-					}
-					.job{
-						img{
-							opacity: 0.7;
-						}
-						span{
-							
-							color: rgba(255, 255, 255, 0.7);
-						}
-					}
-				}
-				.content{
-					.container-pr{
-						.text{
-							q{
-								color: #FFF;
-							}
-						}
-					}
-					.container-action{
-						.container-nav{
-							.nav{
-								svg{
-									stroke: #FFF;
-								}
-							}
-						}
-						.container-button{
-							a{
-								@include buttonStyle2-color3;
-							}
-						}
-					}
-				}
-			}
-		}
-	}
+	
 }
 @media screen and (max-width: $breakPoint_mobile) {
 	.cm-section-quotes{
@@ -1168,20 +1069,6 @@ main
 						}
 					}
 
-				}
-			}
-		}
-		&:not(.nomarge) {
-			margin-top: 0px;
-			margin-bottom: 0px;
-		}
-		&:not(.green) {
-			.container-background {
-				top: -50px;
-				height: calc(100% + 100px);
-				width: calc(100% - 100px);
-				.background {
-					display: none;
 				}
 			}
 		}

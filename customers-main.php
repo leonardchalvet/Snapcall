@@ -273,7 +273,7 @@
 									Alessandro Angioni
 								</div>
 								<div class="job">
-									<img src="img/common/icn-azimo-black.svg" alt="">
+									<img src="img/common/logo-azimo-white.png" alt="">
 									<span>Business Account Manager</span>
 								</div>
 							</div>

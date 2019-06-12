@@ -76,7 +76,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/shopify-illu-1.svg">
+								<img class="illu" src="img/product/section-features/shopify-illu-1.png">
 							</div>
 						</div>
 
@@ -186,7 +186,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/shopify-illu-4.svg">
+								<img class="illu" src="img/product/section-features/shopify-illu-4.png">
 							</div>
 						</div>
 					</div>

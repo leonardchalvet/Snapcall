@@ -75,7 +75,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/customers-data-illu-1.svg">
+								<img class="illu" src="img/product/section-features/customers-data-illu-1.png">
 							</div>
 						</div>
 
@@ -106,7 +106,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/customers-data-illu-3.svg">
+								<img class="illu" src="img/product/section-features/customers-data-illu-3.png">
 							</div>
 						</div>
 
@@ -131,8 +131,8 @@
 				</div>
 			</section>
 
-			<section class="cm-section-quotes green sectionAnim_container">
-				<div class="wrapper">
+			<section class="cm-section-quotes customer-data-in-call sectionAnim_container">
+				<div class="wrapper elAnim__slide anim__delayMedium_1">
 					<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
 					<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">
 					<div class="container-quotes">
@@ -151,7 +151,7 @@
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											When a client is calling us our agents are able to <i>address them on a personal level</i>, greeting them by their own name and having a good idea of why they are contacting us, even before picking up the call.
 										</q>

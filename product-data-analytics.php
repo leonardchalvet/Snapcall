@@ -127,7 +127,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/data-analytics-illu-2.svg">
+								<img class="illu" src="img/product/section-features/data-analytics-illu-2.png">
 							</div>
 						</div>
 
@@ -154,7 +154,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/data-analytics-illu-4.svg">
+								<img class="illu" src="img/product/section-features/data-analytics-illu-4.png">
 							</div>
 						</div>
 						<div class="el sectionAnim_container">
@@ -180,15 +180,15 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/data-analytics-illu-6.svg">
+								<img class="illu" src="img/product/section-features/data-analytics-illu-6.png">
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
 
-			<section class="cm-section-quotes green sectionAnim_container">
-				<div class="wrapper">
+			<section class="cm-section-quotes data-analytics sectionAnim_container">
+				<div class="wrapper elAnim__slide anim__delayMedium_1">
 					<img class="obj-1" src="img/home/section-quotes-obj-1.svg" alt="">
 					<img class="obj-2" src="img/home/section-quotes-obj-2.svg" alt="">
 					<div class="container-quotes">

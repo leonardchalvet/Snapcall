@@ -503,6 +503,15 @@
 	#section-platforms .container-platforms .container-el .el:nth-child(3n + 2) {
 		top: 50px
 	}
+
+	.cm-section-quotes.section-quotes-1 .container-background {
+		top: -50px;
+		height: calc(100% + 100px);
+		width: calc(100% - 100px);
+		.background {
+			display: none;
+		}
+	}
 }
 
 /*==============================================

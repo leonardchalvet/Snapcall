@@ -79,7 +79,7 @@
 		}
 	}
 	.container-form {
-		margin-top: 25px;
+		margin-top: 50px;
 		margin-left: auto;
 		margin-right: auto;
 		width: 680px;
@@ -97,6 +97,9 @@
 				color: $colorMain_8;
 				border-color: $colorMain_8;
 			}
+		}
+		textarea {
+			resize: none;
 		}
 		.validate {
 			display: flex;
