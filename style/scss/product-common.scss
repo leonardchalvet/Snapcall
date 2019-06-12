@@ -630,11 +630,22 @@
 		.container-el{
 			.el{
 				&:not(:last-child){
-					margin-bottom: 0px;
+					margin-bottom: 70px;
 				}
 				.text{
 					.container-logos{
 						margin-top: 35px;
+					}
+				}
+				.container-illu{
+					
+					.illu-size-1{
+						margin-top: 40px;
+						width: 100%;
+					}
+					.illu-size-2{
+						margin-top: 40px;
+						width: 100%;
 					}
 				}
 			}
