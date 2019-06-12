@@ -105,7 +105,7 @@ footer{
 			border-radius: 25px;
 			justify-content: space-between;
 			align-items: center;
-			input{
+			.email{
 				outline: none;
 				flex: 1;
 				background-color: transparent;
@@ -113,11 +113,27 @@ footer{
 				color: #FFF;
 				border: none;
 			}
-			.arrow{
+			.clear{
+				cursor: pointer;
+				height: 13px;
 				width: 13px;
-				transform: rotate(180deg);
-				stroke: #FFF;
+				position: relative;
+				input{
+					opacity: 0;
+					position: absolute;
+					top: 0px;
+					left: 0px;
+					width: 100%;
+					height: 100%;
+					z-index: 1;
+				}
+				.arrow{
+					width: 13px;
+					transform: rotate(180deg);
+					stroke: #FFF;
+				}
 			}
+			
 		}
 	}
 
