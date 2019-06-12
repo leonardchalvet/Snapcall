@@ -726,7 +726,8 @@
 						margin-right: 0px;
 					}
 					img{
-						width: 100px;
+						width: initial;
+						max-width: 100%;
 					}
 				}
 			}
@@ -744,6 +745,9 @@
 		&.customer-data-in-call {
 			margin-top: 0;
 			margin-bottom: 0;
+		}
+		&.smart-plugs{
+			margin-top: 50px;
 		}
 	}
 }

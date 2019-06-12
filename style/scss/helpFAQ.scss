@@ -223,8 +223,12 @@
 	#section-help .container-help .search img {
 		right: 15px;
 	}
+
 	#section-help .container-help .container-el .el {
 		width: 100%;
+	}
+	#section-help .container-help .container-el .el h4{
+		@include styleH4;
 	}
 	#section-help .container-help .container-el .el:not(:last-child) {
 		margin-bottom: 35px;

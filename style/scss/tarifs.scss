@@ -518,6 +518,16 @@
 			>*{
 				width: 1100px;
 			}
+			.cell:nth-child(1){
+				flex: initial;
+			}
+			.head{
+				.cell{
+					.price{
+						@include styleH3;
+					}
+				}
+			}
 
 			
 		}

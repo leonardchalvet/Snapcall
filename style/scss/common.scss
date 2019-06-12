@@ -352,8 +352,8 @@ main
 				line-height: $paragraphBig_lineheight_desktop;
 			}
 			@media screen and (max-width: $breakPoint_mobile){
-				font-size: $paragraphSmall_textsize_desktop;
-				line-height: $paragraphSmall_lineheight_desktop;
+				font-size: $paragraphBig_textsize_mobile;
+				line-height: $paragraphBig_lineheight_mobile;
 			}
 		}
 
