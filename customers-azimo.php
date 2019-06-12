@@ -45,7 +45,7 @@
 						</p>
 						<div class="container-button">
 							<a href="https://register.snapcall.io" class="cm-button-style1">
-								<span class="btn-text">Try Free</span>
+								<span class="btn-text">Start Free Trial</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -65,7 +65,7 @@
 				</div>
 			</section>
 
-			<section id="section-fetaures">
+			<section id="section-features">
 				<div class="wrapper">
 					<div class="container-features">
 						<div class="feature">
@@ -319,11 +319,12 @@
 								SnapCall button gets only displayed according to the frequency and value of their transactions
 							</p>
 							<div class="pres">
-								<img src="img/customers-azimo/blog-section-pres-2-img-1.png" alt="">
-							</div>
-							<div class="pres">
 								<img src="img/customers-azimo/blog-section-pres-2-img-2.png" alt="">
 							</div>
+							<div class="pres">
+								<img src="img/customers-azimo/blog-section-pres-2-img-1.png" alt="">
+							</div>
+							
 						</section>
 
 						<section class="blog-section-quotes blog-section-quotes-2">
@@ -410,7 +411,7 @@
 								What’s coming next.
 							</h2>
 							<p>
-								Azimo and SnapCall is an ongoing partnership fueled by the same purpose and mission: provide an impeccable customer experience, the one you really enjoy!
+								Azimo and SnapCall is an ongoing partnership fueled by the same purpose and mission: <span>provide an impeccable customer experience,</span> the one you really enjoy!
 							</p>
 						</section>
 
@@ -473,7 +474,7 @@
 							Read similar customer stories.
 						</h2>
 						<p class="elAnim__slide anim__delayMedium_1">
-							see how SnapCall is helping other companies leverage voice for customer relationships
+							Discover how SnapCall is helping other companies like yours leverage voice in a smarter way.
 						</p>
 					</div>
 					<div class="container-thumbnails">

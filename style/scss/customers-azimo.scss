@@ -203,7 +203,7 @@
 	}
 }
 
-#section-fetaures{
+#section-features{
 	margin-top: 150px;
 	.wrapper{
 		@include styleGrid3;
@@ -670,6 +670,10 @@
 			>p{
 				@include styleParagraphSmall;
 				margin-bottom: 95px;
+				span{
+					font-family: $font_2_Bold;
+					color: $colorMain_8;
+				}
 			}
 			q{
 				display: block;
@@ -851,13 +855,13 @@
 		display: none;
 	}
 
-	#section-fetaures {
+	#section-features {
 		margin-top: 75px;
 	}
-	#section-fetaures .container-features .feature:nth-last-child(1n + 3) {
+	#section-features .container-features .feature:nth-last-child(1n + 3) {
 		margin-bottom: 50px;
 	}
-	#section-fetaures .wrapper {
+	#section-features .wrapper {
 		border: none;
 	}
 
