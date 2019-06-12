@@ -113,7 +113,7 @@
 								</ul>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/337786727?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337786727?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -127,7 +127,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/data-analytics-illu-2.svg">
+								<img class="illu-size-2" src="img/product/section-features/data-analytics-illu-2.png">
 							</div>
 						</div>
 
@@ -141,7 +141,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/337786782?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337786782?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 						<div class="el sectionAnim_container">
@@ -154,7 +154,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/data-analytics-illu-4.svg">
+								<img class="illu-size-2" src="img/product/section-features/data-analytics-illu-4.png">
 							</div>
 						</div>
 						<div class="el sectionAnim_container">
@@ -167,7 +167,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/337786823?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337786823?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 						<div class="el sectionAnim_container">
@@ -180,7 +180,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/data-analytics-illu-6.svg">
+								<img class="illu-size-2" src="img/product/section-features/data-analytics-illu-6.png">
 							</div>
 						</div>
 					</div>

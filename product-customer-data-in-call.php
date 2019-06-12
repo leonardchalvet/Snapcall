@@ -75,7 +75,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/customers-data-illu-1.svg">
+								<img class="illu-size-2" src="img/product/section-features/customers-data-illu-1.png">
 							</div>
 						</div>
 
@@ -89,7 +89,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/337786601?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337786601?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -102,11 +102,11 @@
 									Be on the loop. Learn all you need about your relationship with them.
 								</p>
 								<div class="container-logos elAnim__slide anim__delayMedium_2">
-									<img src="img/product/logo-Zendesk.svg" alt="">
+									<img class="illu-size-2" src="img/product/logo-Zendesk.svg" alt="">
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/customers-data-illu-3.svg">
+								<img class="illu-size-2" src="img/product/section-features/customers-data-illu-3.png">
 							</div>
 						</div>
 
@@ -124,7 +124,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/337786651?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337786651?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 					</div>

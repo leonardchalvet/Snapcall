@@ -119,7 +119,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img src="img/product/section-features/smart-plug-illu-1.png">
+								<img class="illu-size-2" src="img/product/section-features/smart-plug-illu-1.png">
 							</div>
 						</div>
 					</div>

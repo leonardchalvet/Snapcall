@@ -1818,95 +1818,137 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/product/section-features/call-recordign-illu-2.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/call-recordign-illu-2.svg",
+	"/img/product/section-carrousel/photo-1.jpg": {
+		"ft": 16384,
+		"iS": 120075,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-carrousel/photo-1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
+		"q": 100
 		},
-	"/img/product/section-features/call-recording-illu-2.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/call-recording-illu-2.svg",
+	"/img/product/section-carrousel/photo-2.jpg": {
+		"ft": 16384,
+		"iS": 89055,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-carrousel/photo-2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
+		"q": 100
 		},
-	"/img/product/section-features/customers-data-illu-1.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/customers-data-illu-1.svg",
+	"/img/product/section-carrousel/photo-3.jpg": {
+		"ft": 16384,
+		"iS": 104645,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-carrousel/photo-3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
+		"q": 100
 		},
-	"/img/product/section-features/customers-data-illu-3.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/customers-data-illu-3.svg",
+	"/img/product/section-carrousel/photo-4.jpg": {
+		"ft": 16384,
+		"iS": 66046,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-carrousel/photo-4.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
+		"q": 100
 		},
-	"/img/product/section-features/data-analytics-illu-2.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/data-analytics-illu-2.svg",
+	"/img/product/section-features/call-recording-illu-2.png": {
+		"ft": 32768,
+		"iS": 136676,
+		"oA": 0,
+		"oAP": "/img/product/section-features/call-recording-illu-2.png",
 		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
-	"/img/product/section-features/data-analytics-illu-4.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/data-analytics-illu-4.svg",
+	"/img/product/section-features/customers-data-illu-1.png": {
+		"ft": 32768,
+		"iS": 143497,
+		"oA": 0,
+		"oAP": "/img/product/section-features/customers-data-illu-1.png",
 		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
-	"/img/product/section-features/data-analytics-illu-6.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/data-analytics-illu-6.svg",
+	"/img/product/section-features/customers-data-illu-3.png": {
+		"ft": 32768,
+		"iS": 60659,
+		"oA": 0,
+		"oAP": "/img/product/section-features/customers-data-illu-3.png",
 		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
-	"/img/product/section-features/shopify-illu-1.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/shopify-illu-1.svg",
+	"/img/product/section-features/data-analytics-illu-2.png": {
+		"ft": 32768,
+		"iS": 78385,
+		"oA": 0,
+		"oAP": "/img/product/section-features/data-analytics-illu-2.png",
 		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
-	"/img/product/section-features/shopify-illu-4.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/shopify-illu-4.svg",
+	"/img/product/section-features/data-analytics-illu-4.png": {
+		"ft": 32768,
+		"iS": 73767,
+		"oA": 0,
+		"oAP": "/img/product/section-features/data-analytics-illu-4.png",
 		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/product/section-features/data-analytics-illu-6.png": {
+		"ft": 32768,
+		"iS": 63348,
+		"oA": 0,
+		"oAP": "/img/product/section-features/data-analytics-illu-6.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/product/section-features/shopify-illu-1.png": {
+		"ft": 32768,
+		"iS": 111213,
+		"oA": 0,
+		"oAP": "/img/product/section-features/shopify-illu-1.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/product/section-features/shopify-illu-4.png": {
+		"ft": 32768,
+		"iS": 78448,
+		"oA": 0,
+		"oAP": "/img/product/section-features/shopify-illu-4.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"/img/product/section-features/smart-plug-illu-1.png": {
 		"ft": 32768,
@@ -1914,20 +1956,10 @@
 		"oA": 0,
 		"oAP": "/img/product/section-features/smart-plug-illu-1.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
-		},
-	"/img/product/section-features/smart-plugs-illu-1.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/smart-plugs-illu-1.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
 		},
 	"/img/product/section-features/web-call-illu-3.png": {
 		"ft": 32768,
@@ -1935,8 +1967,8 @@
 		"oA": 0,
 		"oAP": "/img/product/section-features/web-call-illu-3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1946,30 +1978,21 @@
 		"oA": 0,
 		"oAP": "/img/product/section-features/zendesk-illu-5.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/product/section-features/zendesk-illu-5.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/zendesk-illu-5.svg",
+	"/img/product/section-features/zendesk-illu-7.png": {
+		"ft": 32768,
+		"iS": 138768,
+		"oA": 0,
+		"oAP": "/img/product/section-features/zendesk-illu-7.png",
 		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
-		},
-	"/img/product/section-features/zendesk-illu-7.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/product/section-features/zendesk-illu-7.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"/img/product/section-quotes/user-1.jpg": {
 		"ft": 16384,
@@ -2002,6 +2025,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/img/product/section-quotes/user-4.jpg": {
+		"ft": 16384,
+		"iS": 50501,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/product/section-quotes/user-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/product/section-quotes/user-4.png": {
+		"ft": 32768,
+		"iS": 229752,
+		"oA": 0,
+		"oAP": "/img/product/section-quotes/user-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/img/product/section-smartly/icn-check.svg": {

@@ -172,16 +172,26 @@
 				width: 500px;
 				opacity: 0;
 				transition: all 1s ease;
-				.illu{
+				iframe{
 					width: 100%;
 					height: 309px;
+				}
+				.illu-size-1{
+					margin: auto;
+					display: block;
+					width: 70%;
+				}
+				.illu-size-2{
+					margin: auto;
+					display: block;
+					width: 430px;
 				}
 				.illu-2 {
 					width: 100%;
 					height: 450px;
 				}
-				img{
-					width: 100%;
+				.illu-3{
+					width: 70%;
 				}
 			}
 			&.reach{

@@ -76,7 +76,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/337786899?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337786899?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -95,7 +95,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/337786651?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337786651?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -171,7 +171,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_8">
-								<iframe class="illu" src="https://player.vimeo.com/video/337949344?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337949344?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -190,7 +190,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/337786601?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337786601?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -209,7 +209,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/zendesk-illu-5.png">
+								<img class="illu-size-2" src="img/product/section-features/zendesk-illu-5.png">
 							</div>
 						</div>
 
@@ -228,7 +228,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/337787141?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337787141?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 
@@ -247,7 +247,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/zendesk-illu-7.svg">
+								<img class="illu-size-2" src="img/product/section-features/zendesk-illu-7.png">
 							</div>
 						</div>
 					</div>

@@ -74,7 +74,7 @@
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<img class="illu" src="img/product/section-features/call-recording-illu-2.svg">
+								<img class="illu-size-2" src="img/product/section-features/call-recording-illu-2.png">
 							</div>
 						</div>
 
@@ -88,7 +88,7 @@
 								</p>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">
-								<iframe class="illu" src="https://player.vimeo.com/video/337786561?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+								<iframe src="https://player.vimeo.com/video/337786561?api=1&loop=1&background=1&mute=0&quality=540p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 							</div>
 						</div>
 					</div>
