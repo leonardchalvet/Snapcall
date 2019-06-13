@@ -1,0 +1,29 @@
+RewriteEngine on
+
+#REDIRECTION HTTPS
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://snapcall.io/ [R=301,L]
+
+#REDIRECTION PAGE
+RewriteRule ^pricing tarifs.php
+RewriteRule ^customers customers-main.php
+RewriteRule ^customers/azimo customers-azimo.php
+RewriteRule ^about about.php
+RewriteRule ^help helpFAQ-1.php
+RewriteRule ^legal helpFAQ-2.php
+RewriteRule ^terms helpFAQ-3.php
+RewriteRule ^contact contact.php
+
+#REDIRECTION PRODUCTS
+RewriteRule ^smart-voice-support product-smart-voice-support.php
+RewriteRule ^customer-data-in-calls product-customer-data-in-call.php
+RewriteRule ^web-calls product-web-calls.php
+RewriteRule ^smart-plugs product-smart-plugs.php
+RewriteRule ^call-recording product-call-recording.php
+RewriteRule ^data-analytics product-data-analytics.php
+RewriteRule ^shopify product-shopify.php
+RewriteRule ^zendesk product-zendesk.php
+
+#REDIRECTION PAGE 404
+RewriteRule ^404 404.php
+ErrorDocument 404 /404
