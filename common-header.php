@@ -25,34 +25,7 @@
 					<span>Support</span>
 					<img src="img/common/arrow-3.svg" alt="">
 				</a>
-				<div class="dropdown-support">
-					<ul>
-						<li>
-							<a href="./product-smart-voice-support.php">
-								<h4>Help Center</h4>
-								<p>
-									Find all your answers an our knowledge base.
-								</p>
-							</a>
-						</li>
-						<li>
-							<a href="./product-web-calls.php">
-								<h4>Contact Us</h4>
-								<p>
-									Get in touch with the team.
-								</p>
-							</a>
-						</li>
-						<li>
-							<a href="./product-shopify.php">
-								<h4>API Docs</h4>
-								<p>
-									Use our API to integrate SnapCall with other solutions.
-								</p>
-							</a>
-						</li>
-					</ul>
-				</div>
+				
 			</li>
 		</ul>
 		<div class="container-action">
@@ -128,6 +101,36 @@
 						<h4>Data & Analytics.</h4>
 						<p>
 							Rich datasets on calls and customer behaviour.
+						</p>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="dropdown-support">
+		<div class="wrapper">
+			<ul>
+				<li>
+					<a href="./product-smart-voice-support.php">
+						<h4>Help Center</h4>
+						<p>
+							Find all your answers an our knowledge base.
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="./product-web-calls.php">
+						<h4>Contact Us</h4>
+						<p>
+							Get in touch with the team.
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="./product-shopify.php">
+						<h4>API Docs</h4>
+						<p>
+							Use our API to integrate SnapCall with other solutions.
 						</p>
 					</a>
 				</li>
