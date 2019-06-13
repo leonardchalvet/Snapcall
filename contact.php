@@ -84,6 +84,12 @@
 									<span class="btn-text">
 										Send
 									</span>
+									<span class="btn-text">
+										Sent
+										<svg viewBox="0 0 13 10" xmlns="http://www.w3.org/2000/svg">
+											<path class="path" d="M4.677 8.547l7.07-7.071-7.07 7.07zM.966 4.865l3.71 3.682-3.71-3.682z" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/>
+										</svg>
+									</span>
 								</button>
 							</div>
 						</form>
@@ -93,7 +99,7 @@
 
 			<section id="section-adress" class="sectionAnim_container">
 				<div class="wrapper">
-					<img class="pattern" src="img/contact/pattern.svg">
+					<img class="pattern elAnim__slide anim__delayMedium_5" src="img/contact/pattern.svg">
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_0">
 							Where you can find us.

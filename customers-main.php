@@ -282,7 +282,7 @@
 								<div class="container-pr">
 									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 									<div class="text">
-										<img class="icn" src="img/common/icn-quote.svg" alt="">
+										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
 											SnapCall has become the <i>core of our phone support operation</i>. We plan to continue rolling-out support in new languages and to different segments of customers in the future. 
 										</q>

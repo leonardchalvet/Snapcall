@@ -65,7 +65,7 @@
 		@include styleGrid4;
 	}
 	.container-text {
-		width: 680px;
+		width: 710px;
 		margin-left: auto;
 		margin-right: auto;
 		text-align: center;
@@ -134,6 +134,38 @@
 				@include buttonStyle2-color1;
 				outline: none;
 				border: none;
+				&:not(.sent) {
+					.btn-text:last-child {
+						display: none;
+					}
+				}
+				&.sent {
+					.btn-text:first-child {
+						display: none;
+					}
+					.btn-text:last-child {
+						display: flex;
+						align-items: baseline;
+						svg .path {
+							animation-play-state: running;
+						}
+					}
+				}
+				svg {
+					margin-left: 8px;
+					width: 12px;
+					height: 9px;
+					stroke: $colorMain_7;
+					.path {
+						stroke-dasharray: 100;
+						stroke-dashoffset: 100;
+						animation: dash 3s linear forwards;
+						animation-play-state: paused;
+					}
+					@keyframes dash {
+					  to { stroke-dashoffset: 0; }
+					}
+				}
 			}
 		}
 	}

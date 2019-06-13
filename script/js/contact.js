@@ -6,16 +6,34 @@ $(window).on('load', function() {
 
 })
 
+let stateForm = false;
+
 function verifForm(f)
 {
+
+	if(stateForm) {
+		return true;
+	}
+
 	let nameOk     = verifTinyText(f.name);
 	let compagnyOk = verifTinyText(f.compagny);
 	let emailOk    = verifEmail(f.email);
 	let textOk     = verifBigText(f.text);
    
-   	if(nameOk && compagnyOk && emailOk && textOk)
-    	return true;
-   	else return false;
+	setTimeout(function(){
+		return false;
+	}, 100000)
+
+   	if(nameOk && compagnyOk && emailOk && textOk) {
+   		stateForm = true;
+		$('#section-form .container-form .validate button').addClass('sent');
+   		setTimeout(function(){
+   			$('#section-form .container-form form').submit();
+   		}, 1000);
+   	}
+   	else stateForm = false;
+
+   	return false;
 }
 
 function verifTinyText(c) {
