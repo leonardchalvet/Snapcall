@@ -160,7 +160,7 @@ footer{
 			flex-flow: row wrap;
 			padding-right: 25px;
 			.lg{
-				cursor: pointer;
+				//cursor: pointer;
 				display: flex;
 				flex-flow: row wrap;
 				align-items: center;
@@ -173,10 +173,13 @@ footer{
 					@include styleParagraphSmall;
 					color: #FFF;
 				}
+				/*
 				svg{
 					width: 6px;
 				}
+				*/
 			}
+			/*
 			.dropdown{
 				width: 140px;
 				display: none;
@@ -219,7 +222,7 @@ footer{
 				.dropdown{
 					display: block;
 				}
-			}
+			}*/
 		}
 		.link{
 			height: 100%;

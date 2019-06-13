@@ -106,7 +106,7 @@
 									Offer voice support only to identified customers or selected personas.
 								</p>
 								<div class="container-logos elAnim__slide anim__delayMedium_2">
-									<img src="img/product/logo-API.png" alt="">
+									<img src="img/product/logo-API.svg" alt="">
 								</div>
 							</div>
 							<div class="container-illu elAnim__fade anim__delayMedium_3">

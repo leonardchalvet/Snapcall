@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "29156",
 "files": {
+	"/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.htaccess",
+		"oF": 0
+		},
 	"/404.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -35,7 +43,7 @@
 		},
 	"/bodymovin/customers-main/images/img_0.png": {
 		"ft": 32768,
-		"iS": 1430,
+		"iS": 2197,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_0.png",
 		"oF": 0,
@@ -46,7 +54,7 @@
 		},
 	"/bodymovin/customers-main/images/img_1.png": {
 		"ft": 32768,
-		"iS": 163790,
+		"iS": 511954,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_1.png",
 		"oF": 0,
@@ -57,7 +65,7 @@
 		},
 	"/bodymovin/customers-main/images/img_2.png": {
 		"ft": 32768,
-		"iS": 186820,
+		"iS": 524259,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_2.png",
 		"oF": 0,
@@ -68,7 +76,7 @@
 		},
 	"/bodymovin/customers-main/images/img_3.png": {
 		"ft": 32768,
-		"iS": 104384,
+		"iS": 319189,
 		"oA": 0,
 		"oAP": "/bodymovin/customers-main/images/img_3.png",
 		"oF": 0,
@@ -349,7 +357,7 @@
 		},
 	"/img/about/cover-photo.jpg": {
 		"ft": 16384,
-		"iS": 143102,
+		"iS": 1936337,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/about/cover-photo.jpg",
@@ -435,7 +443,7 @@
 		},
 	"/img/about/section-numbers/photo-1.jpg": {
 		"ft": 16384,
-		"iS": 61884,
+		"iS": 100652,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/about/section-numbers/photo-1.jpg",
@@ -446,7 +454,7 @@
 		},
 	"/img/about/section-numbers/photo-2.jpg": {
 		"ft": 16384,
-		"iS": 67375,
+		"iS": 83732,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/about/section-numbers/photo-2.jpg",
@@ -457,7 +465,7 @@
 		},
 	"/img/about/section-numbers/photo-3.jpg": {
 		"ft": 16384,
-		"iS": 52264,
+		"iS": 83923,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/about/section-numbers/photo-3.jpg",
@@ -468,7 +476,7 @@
 		},
 	"/img/about/section-numbers/photo-4.jpg": {
 		"ft": 16384,
-		"iS": 66536,
+		"iS": 222007,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/about/section-numbers/photo-4.jpg",
@@ -509,7 +517,7 @@
 		},
 	"/img/about/section-partners/logo-laFrenchTech.png": {
 		"ft": 32768,
-		"iS": 3346,
+		"iS": 3434,
 		"oA": 0,
 		"oAP": "/img/about/section-partners/logo-laFrenchTech.png",
 		"oF": 0,
@@ -540,7 +548,7 @@
 		},
 	"/img/about/story-photo.jpg": {
 		"ft": 16384,
-		"iS": 118030,
+		"iS": 345563,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/about/story-photo.jpg",
@@ -1746,16 +1754,15 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/product/logo-API.png": {
-		"ft": 32768,
-		"iS": 5083,
-		"oA": 0,
-		"oAP": "/img/product/logo-API.png",
+	"/img/product/logo-API.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/product/logo-API.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"plM": 4010962575359,
+		"prP": 0
 		},
 	"/img/product/logo-GDPR.svg": {
 		"ft": 2097152,
@@ -1820,7 +1827,7 @@
 		},
 	"/img/product/section-carrousel/photo-1.jpg": {
 		"ft": 16384,
-		"iS": 120075,
+		"iS": 505947,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-carrousel/photo-1.jpg",
@@ -1831,7 +1838,7 @@
 		},
 	"/img/product/section-carrousel/photo-2.jpg": {
 		"ft": 16384,
-		"iS": 89055,
+		"iS": 311605,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-carrousel/photo-2.jpg",
@@ -1842,7 +1849,7 @@
 		},
 	"/img/product/section-carrousel/photo-3.jpg": {
 		"ft": 16384,
-		"iS": 104645,
+		"iS": 345935,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-carrousel/photo-3.jpg",
@@ -1853,7 +1860,7 @@
 		},
 	"/img/product/section-carrousel/photo-4.jpg": {
 		"ft": 16384,
-		"iS": 66046,
+		"iS": 327216,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-carrousel/photo-4.jpg",
@@ -1862,20 +1869,9 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/product/section-features/call-recording-illu-2.png": {
-		"ft": 32768,
-		"iS": 39591,
-		"oA": 0,
-		"oAP": "/img/product/section-features/call-recording-illu-2.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/img/product/section-features/customers-data-illu-1.png": {
 		"ft": 32768,
-		"iS": 38979,
+		"iS": 142748,
 		"oA": 0,
 		"oAP": "/img/product/section-features/customers-data-illu-1.png",
 		"oF": 0,
@@ -1886,7 +1882,7 @@
 		},
 	"/img/product/section-features/customers-data-illu-3.png": {
 		"ft": 32768,
-		"iS": 19045,
+		"iS": 60341,
 		"oA": 0,
 		"oAP": "/img/product/section-features/customers-data-illu-3.png",
 		"oF": 0,
@@ -1897,7 +1893,7 @@
 		},
 	"/img/product/section-features/data-analytics-illu-2.png": {
 		"ft": 32768,
-		"iS": 23151,
+		"iS": 77721,
 		"oA": 0,
 		"oAP": "/img/product/section-features/data-analytics-illu-2.png",
 		"oF": 0,
@@ -1908,7 +1904,7 @@
 		},
 	"/img/product/section-features/data-analytics-illu-4.png": {
 		"ft": 32768,
-		"iS": 21688,
+		"iS": 73465,
 		"oA": 0,
 		"oAP": "/img/product/section-features/data-analytics-illu-4.png",
 		"oF": 0,
@@ -1919,7 +1915,7 @@
 		},
 	"/img/product/section-features/data-analytics-illu-6.png": {
 		"ft": 32768,
-		"iS": 19848,
+		"iS": 62996,
 		"oA": 0,
 		"oAP": "/img/product/section-features/data-analytics-illu-6.png",
 		"oF": 0,
@@ -1930,7 +1926,7 @@
 		},
 	"/img/product/section-features/shopify-illu-1.png": {
 		"ft": 32768,
-		"iS": 32053,
+		"iS": 111709,
 		"oA": 0,
 		"oAP": "/img/product/section-features/shopify-illu-1.png",
 		"oF": 0,
@@ -1941,7 +1937,7 @@
 		},
 	"/img/product/section-features/shopify-illu-4.png": {
 		"ft": 32768,
-		"iS": 24160,
+		"iS": 78339,
 		"oA": 0,
 		"oAP": "/img/product/section-features/shopify-illu-4.png",
 		"oF": 0,
@@ -1952,7 +1948,7 @@
 		},
 	"/img/product/section-features/smart-plug-illu-1.png": {
 		"ft": 32768,
-		"iS": 38190,
+		"iS": 136911,
 		"oA": 0,
 		"oAP": "/img/product/section-features/smart-plug-illu-1.png",
 		"oF": 0,
@@ -1963,7 +1959,7 @@
 		},
 	"/img/product/section-features/web-call-illu-3.png": {
 		"ft": 32768,
-		"iS": 39684,
+		"iS": 179445,
 		"oA": 0,
 		"oAP": "/img/product/section-features/web-call-illu-3.png",
 		"oF": 0,
@@ -1974,7 +1970,7 @@
 		},
 	"/img/product/section-features/zendesk-illu-5.png": {
 		"ft": 32768,
-		"iS": 38190,
+		"iS": 136911,
 		"oA": 0,
 		"oAP": "/img/product/section-features/zendesk-illu-5.png",
 		"oF": 0,
@@ -1985,7 +1981,7 @@
 		},
 	"/img/product/section-features/zendesk-illu-7.png": {
 		"ft": 32768,
-		"iS": 39423,
+		"iS": 137482,
 		"oA": 0,
 		"oAP": "/img/product/section-features/zendesk-illu-7.png",
 		"oF": 0,
@@ -1996,7 +1992,7 @@
 		},
 	"/img/product/section-quotes/user-1.jpg": {
 		"ft": 16384,
-		"iS": 7702,
+		"iS": 8611,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-1.jpg",
@@ -2007,7 +2003,7 @@
 		},
 	"/img/product/section-quotes/user-2.jpg": {
 		"ft": 16384,
-		"iS": 7177,
+		"iS": 7347,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-2.jpg",
@@ -2029,7 +2025,7 @@
 		},
 	"/img/product/section-quotes/user-4.jpg": {
 		"ft": 16384,
-		"iS": 50501,
+		"iS": 49666,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/product/section-quotes/user-4.jpg",
@@ -2233,7 +2229,7 @@
 		},
 	"/img/section-articles/logo-selogerneuf.png": {
 		"ft": 32768,
-		"iS": 25927,
+		"iS": 7672,
 		"oA": 0,
 		"oAP": "/img/section-articles/logo-selogerneuf.png",
 		"oF": 0,

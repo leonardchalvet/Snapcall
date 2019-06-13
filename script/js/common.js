@@ -208,6 +208,7 @@ $(window).on('load', function() {
 		})
 	})
 
+	/*
 	$('footer .container-lg').click(function(){
 		if ($(this).hasClass('open')) {
 			$(this).removeClass('open');
@@ -215,6 +216,7 @@ $(window).on('load', function() {
 			$(this).addClass('open');
 		}
 	})
+	*/
 
 	
 })
