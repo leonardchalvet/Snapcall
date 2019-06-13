@@ -111,7 +111,7 @@
 		<div class="wrapper">
 			<ul>
 				<li>
-					<a href="./product-smart-voice-support.php">
+					<a href="./helpFAQ-1.php">
 						<h4>Help Center</h4>
 						<p>
 							Find all your answers an our knowledge base.
@@ -119,7 +119,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-web-calls.php">
+					<a href="./contact.php">
 						<h4>Contact Us</h4>
 						<p>
 							Get in touch with the team.
