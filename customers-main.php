@@ -11,6 +11,14 @@
 
 		<link rel="stylesheet" type="text/css" href="style/css/customers-main.css">
 
+		<link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+		<link rel="manifest" href="img/favicon/site.webmanifest">
+		<link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#4cd964">
+		<meta name="msapplication-TileColor" content="#2d89ef">
+		<meta name="theme-color" content="#ffffff">
+		
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
@@ -104,6 +112,7 @@
 				</div>
 			</section>
 
+			<!--
 			<section id="section-articles" class="sectionAnim_container">
 				<div class="wrapper">
 					<div class="container-text">
@@ -165,7 +174,8 @@
 					</div>
 				</div>
 			</section>
-
+			-->
+			
 			<section id="section-platforms" class="sectionAnim_container">
 				<div class="wrapper">
 					<div class="container-text">
