@@ -355,7 +355,7 @@
 		"oAP": "/img/about/cover-photo.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/about/section-carrousel/img-1-Arnaud.JPG": {
@@ -366,7 +366,7 @@
 		"oAP": "/img/about/section-carrousel/img-1-Arnaud.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/about/section-carrousel/img-2-Thomas.JPG": {
@@ -377,7 +377,7 @@
 		"oAP": "/img/about/section-carrousel/img-2-Thomas.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/about/section-carrousel/img-3-Natalia.JPG": {
@@ -388,7 +388,7 @@
 		"oAP": "/img/about/section-carrousel/img-3-Natalia.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/about/section-carrousel/img-4-Eve-Anne.JPG": {
@@ -399,7 +399,7 @@
 		"oAP": "/img/about/section-carrousel/img-4-Eve-Anne.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/about/section-carrousel/img-5-Benjamin.JPG": {
@@ -410,7 +410,7 @@
 		"oAP": "/img/about/section-carrousel/img-5-Benjamin.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/about/section-carrousel/obj-1.svg": {
@@ -441,7 +441,7 @@
 		"oAP": "/img/about/section-numbers/photo-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/about/section-numbers/photo-2.jpg": {
@@ -452,7 +452,7 @@
 		"oAP": "/img/about/section-numbers/photo-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/about/section-numbers/photo-3.jpg": {
@@ -463,7 +463,7 @@
 		"oAP": "/img/about/section-numbers/photo-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/about/section-numbers/photo-4.jpg": {
@@ -474,7 +474,7 @@
 		"oAP": "/img/about/section-numbers/photo-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/about/section-partners/logo-franceDigitale.svg": {
@@ -546,7 +546,7 @@
 		"oAP": "/img/about/story-photo.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/common/arrow-1.svg": {
@@ -1018,8 +1018,8 @@
 		"oA": 0,
 		"oAP": "/img/customers-azimo/blog-section-head-cover.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1040,8 +1040,8 @@
 		"oA": 0,
 		"oAP": "/img/customers-azimo/blog-section-pres-2-img-2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1051,8 +1051,8 @@
 		"oA": 0,
 		"oAP": "/img/customers-azimo/blog-section-pres-2-img-3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1062,8 +1062,8 @@
 		"oA": 0,
 		"oAP": "/img/customers-azimo/blog-section-pres-2-img-4.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1073,8 +1073,8 @@
 		"oA": 0,
 		"oAP": "/img/customers-azimo/blog-section-pres-2-img-5.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1084,8 +1084,8 @@
 		"oA": 0,
 		"oAP": "/img/customers-azimo/blog-section-pres-2-img-6.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1117,8 +1117,8 @@
 		"oA": 0,
 		"oAP": "/img/customers-azimo/blog-section-pres-obj.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1303,8 +1303,8 @@
 		"oA": 0,
 		"oAP": "/img/favicon/android-chrome-192x192.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1314,8 +1314,8 @@
 		"oA": 0,
 		"oAP": "/img/favicon/android-chrome-512x512.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1325,8 +1325,8 @@
 		"oA": 0,
 		"oAP": "/img/favicon/apple-touch-icon.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1344,8 +1344,8 @@
 		"oA": 0,
 		"oAP": "/img/favicon/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1355,8 +1355,8 @@
 		"oA": 0,
 		"oAP": "/img/favicon/favicon-32x32.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1374,8 +1374,8 @@
 		"oA": 0,
 		"oAP": "/img/favicon/mstile-144x144.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1385,8 +1385,8 @@
 		"oA": 0,
 		"oAP": "/img/favicon/mstile-150x150.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1396,8 +1396,8 @@
 		"oA": 0,
 		"oAP": "/img/favicon/mstile-310x150.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1407,8 +1407,8 @@
 		"oA": 0,
 		"oAP": "/img/favicon/mstile-310x310.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1418,8 +1418,8 @@
 		"oA": 0,
 		"oAP": "/img/favicon/mstile-70x70.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1816,39 +1816,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/img/img-test/background-2.jpg": {
-		"ft": 16384,
-		"iS": 1104185,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/img-test/background-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/img/img-test/background-3.jpg": {
-		"ft": 16384,
-		"iS": 889289,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/img-test/background-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/img/img-test/background-4.jpg": {
-		"ft": 16384,
-		"iS": 913809,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/img-test/background-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
 	"/img/img-test/user.jpg": {
 		"ft": 16384,
 		"iS": 34491,
@@ -1969,7 +1936,7 @@
 		"oAP": "/img/product/section-carrousel/photo-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/product/section-carrousel/photo-2.jpg": {
@@ -1980,7 +1947,7 @@
 		"oAP": "/img/product/section-carrousel/photo-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/product/section-carrousel/photo-3.jpg": {
@@ -1991,7 +1958,7 @@
 		"oAP": "/img/product/section-carrousel/photo-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/product/section-carrousel/photo-4.jpg": {
@@ -2002,7 +1969,7 @@
 		"oAP": "/img/product/section-carrousel/photo-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/product/section-features/call-recording-illu-2.png": {
@@ -2011,8 +1978,8 @@
 		"oA": 0,
 		"oAP": "/img/product/section-features/call-recording-illu-2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
