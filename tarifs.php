@@ -86,8 +86,8 @@
 									29€
 								</div>
 								<p class="month">
+									<span>per month, billed monthly</span>
 									<span>per month, billed annually</span>
-									<span>per year, billed annually</span>
 								</p>
 							</div>
 							<div class="cell">
@@ -100,8 +100,8 @@
 									99€
 								</div>
 								<p class="month">
+									<span>per month, billed monthly</span>
 									<span>per month, billed annually</span>
-									<span>per year, billed annually</span>
 								</p>
 							</div>
 							<div class="cell">
@@ -114,8 +114,8 @@
 									299€
 								</div>
 								<p class="month">
+									<span>per month, billed monthly</span>
 									<span>per month, billed annually</span>
-									<span>per year, billed annually</span>
 								</p>
 							</div>
 							<div class="cell">
@@ -128,8 +128,8 @@
 									1199€
 								</div>
 								<p class="month">
+									<span>per month, billed monthly</span>
 									<span>per month, billed annually</span>
-									<span>per year, billed annually</span>
 								</p>
 							</div>
 						</div>
