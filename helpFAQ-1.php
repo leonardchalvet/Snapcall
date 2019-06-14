@@ -40,62 +40,7 @@
 							<input type="text" name="search" placeholder="Search for what you need help with">
 							<img src="img/help/icn/icn-search.svg">
 						</div>
-						<div class="container-el">
-							<a href="#" class="el">
-								<div class="icn">
-									<img src="img/help/icn/icn-basic.svg">
-								</div>
-								<h4>The Basics.</h4>
-								<p>
-									All you need to know to get started with SnapCall.
-								</p>
-							</a>
-							<a href="#" class="el">
-								<div class="icn">
-									<img src="img/help/icn/icn-dashboard.svg">
-								</div>
-								<h4>Dashboard.</h4>
-								<p>
-									Learn how the SnapCall dashboard works and how to create call buttons.
-								</p>
-							</a>
-							<a href="#" class="el">
-								<div class="icn">
-									<img src="img/help/icn/icn-installation.svg">
-								</div>
-								<h4>Installation.</h4>
-								<p>
-									Learn how to install your call buttons on your website or mobile application.
-								</p>
-							</a>
-							<a href="#" class="el">
-								<div class="icn">
-									<img src="img/help/icn/icn-features.svg">
-								</div>
-								<h4>Features.</h4>
-								<p>
-									Learn how each feature works and how to set them up.
-								</p>
-							</a>
-							<a href="#" class="el">
-								<div class="icn">
-									<img src="img/help/icn/icn-zendesk.svg">
-								</div>
-								<h4>Zendesk.</h4>
-								<p>
-									Get started with SnapCall and Zendesk smarter voice support.
-								</p>
-							</a>
-							<a href="#" class="el">
-								<div class="icn">
-									<img src="img/help/icn/icn-shopify.svg">
-								</div>
-								<h4>Shopify.</h4>
-								<p>
-									Get started with SnapCall for Shopify stores.
-								</p>
-							</a>
-						</div>
+						<div class="container-el"></div>
 					</div>
 				</div>
 			</section>
@@ -106,3 +51,29 @@
 		<script type="text/javascript" src="script/minify/common-min.js"></script>
 	</body>
 </html>
+
+<script type="text/javascript">
+	
+$(window).on('load', function() {
+
+	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/categories.json", function(result){
+		$.each(result, function(i, f){
+			if(i == 'categories'){
+				$.each(f, function(k, t){
+					let html = '<a href="legal?id=' + f[k]['id'] + '&pos=' + k + '" class="el">' +
+								   '<div class="icn">' +
+								      '<img src="img/help/icn/icn-' + k + '.svg">' +
+								   '</div>' +
+								   '<h4>' + f[k]['name'] + '</h4>' +
+								   '<p>' + f[k]['description'] + '</p>' +
+							   '</a>';
+
+					$('#section-help .container-help .container-el').append(html);
+				});
+			}
+		});
+	});
+
+});
+
+</script>

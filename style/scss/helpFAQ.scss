@@ -61,6 +61,7 @@
 				border-radius: 40px;
 				background-color: $colorMain_7;
 				transition: all .5s ease;
+				margin-bottom: 35px;
 				&:hover {
 					background-color: #FFF;
 					box-shadow: 0 20px 40px 0 rgba(0,0,0,0.16);
@@ -83,9 +84,6 @@
 					@include styleParagraphSmall;
 					text-align: center;
 					margin-top: 40px;
-				}
-				&:nth-last-child(1n+4) {
-					margin-bottom: 35px;
 				}
 			}
 			h4 {
@@ -181,6 +179,7 @@
 							background-color: $colorMain_7;
 							box-shadow: 0 20px 40px 0 rgba(0,0,0,0.02);
 							transition: all .5s ease;
+							width: 100%;
 							&:hover {
 								background-color: $colorMain_5;
 							}

@@ -10,9 +10,9 @@ RewriteRule ^customers customers-main.php
 RewriteRule ^customers-azimo customers-azimo.php
 RewriteRule ^about about.php
 RewriteRule ^terms terms.php
-RewriteRule ^help helpFAQ-1.php
+RewriteRule ^help$ helpFAQ-1.php
 RewriteRule ^legal helpFAQ-2.php
-RewriteRule ^terms helpFAQ-3.php
+RewriteRule ^articles helpFAQ-3.php
 RewriteRule ^contact contact.php
 
 #REDIRECTION PRODUCTS

@@ -1520,41 +1520,61 @@
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/help/icn/icn-basic.svg": {
+	"/img/help/icn/icn-0.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/help/icn/icn-basic.svg",
+		"oAP": "/img/help/icn/icn-0.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/help/icn/icn-dashboard.svg": {
+	"/img/help/icn/icn-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/help/icn/icn-dashboard.svg",
+		"oAP": "/img/help/icn/icn-1.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/help/icn/icn-features.svg": {
+	"/img/help/icn/icn-2.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/help/icn/icn-features.svg",
+		"oAP": "/img/help/icn/icn-2.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
 		"prP": 0
 		},
-	"/img/help/icn/icn-installation.svg": {
+	"/img/help/icn/icn-3.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/help/icn/icn-installation.svg",
+		"oAP": "/img/help/icn/icn-3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/icn/icn-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/icn/icn-4.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 4010962575359,
+		"prP": 0
+		},
+	"/img/help/icn/icn-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/help/icn/icn-5.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,
@@ -1565,26 +1585,6 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/img/help/icn/icn-search.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
-		},
-	"/img/help/icn/icn-shopify.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/help/icn/icn-shopify.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 4010962575359,
-		"prP": 0
-		},
-	"/img/help/icn/icn-zendesk.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/help/icn/icn-zendesk.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 4010962575359,

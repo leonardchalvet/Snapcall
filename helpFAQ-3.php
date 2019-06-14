@@ -31,54 +31,23 @@
 
 			<section id="section-categorie" class="article">
 				<div class="wrapper">
-					<div class="container-title">
-						<div class="icn">
-							<img src="img/help/icn/icn-basic.svg">
-						</div>
-						<h1>The Basics.</h1>
-					</div>
+					<div class="container-title"></div>
 					<div class="container-categorie">
 						<div class="path">
-							<a href="#">Help Center</a>
+							<a href="help">Help Center</a>
 							<img src="img/help/arrow-2.svg">
-							<a href="#">The Basics</a>
+							<a href="#"></a>
 							<img src="img/help/arrow-2.svg">
-							<a href="#">General Info</a>
+							<a></a>
 							<img src="img/help/arrow.svg">
-							<a href="#">Lorem ipsum dolor sit amet, consectetur ? </a>
+							<a></a>
 						</div>
 						<div class="container-el">
 							<div class="el">
 								<h4>Others questions.</h4>
-								<ul>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li class="active"><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-								</ul>
+								<ul></ul>
 							</div>
-							<div class="container-text">
-								<h3>
-									Lorem ipsum dolor sit amet, consectetur ? 
-								</h3>
-								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis efficitur fermentum ornare. Nullam consectetur mi nibh, id consequat lorem rutrum eu. Integer sed efficitur nibh. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-								</p>
-								<p>
-									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
-								</p>
-							</div>
+							<div class="container-text"></div>
 						</div>
 					</div>
 				</div>
@@ -91,3 +60,71 @@
 		<script type="text/javascript" src="script/minify/common-min.js"></script>
 	</body>
 </html>
+
+<script type="text/javascript">
+	
+$(window).on('load', function() {
+
+	let urlParam = function(name){
+	    let results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+	    if (results==null){
+	       return null;
+	    }
+	    else{
+	       return results[1] || 0;
+	    }
+	}
+
+	let idC  = urlParam('idC');
+	let idS  = urlParam('idS');
+	let idA  = urlParam('idA');
+	let pos = urlParam('pos');
+
+	let url = $(location).attr("href").split('?')[0];
+	history.pushState(null, null, url);
+
+	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/categories/" + idC + ".json", function(result){
+		$.each(result, function(i, f){
+
+			let text = '<div class="icn">' +
+							'<img src="img/help/icn/icn-' + pos + '.svg">' +
+						'</div>' +
+						'<h1>' + f['name'] + '</h1>';
+
+			$('#section-categorie .container-title').append(text);
+			$('#section-categorie .container-categorie .path a:nth-child(3)').append(f['name']);
+			$('#section-categorie .container-categorie .path a:nth-child(3)').attr('href', 'legal?id=' + f['id'] + '&pos=' + pos);
+		});
+	});
+
+	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/sections/" + idS + ".json", function(result){
+		$.each(result, function(i, f){
+			$('#section-categorie .container-categorie .path a:nth-child(5)').append(result[i]['name']);
+		});
+	});
+
+	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/sections/" + idS + "/articles.json", function(result){
+		$.each(result, function(i, f){
+			if(i == 'articles'){
+				$.each(f, function(j, t){
+					
+					let text = '<li><a href="articles?idC=' + idC + '&idS=' + idS + '&idA=' + f[j]['id'] + '&pos=' + pos + '">' + f[j]['name'] + '</a></li>';
+
+					$('#section-categorie .container-categorie .container-el .el ul').append(text);
+				});
+			}
+		});
+	});
+
+	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/articles/" + idA + ".json", function(result){
+		$.each(result, function(i, f){
+
+			let text = '<h3>' + result[i]['name'] + '</h3>' + result[i]['body'];
+
+			$('#section-categorie .container-categorie .container-el .container-text').append(text);
+		});
+	});	
+
+});
+
+</script>

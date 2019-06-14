@@ -31,112 +31,14 @@
 
 			<section id="section-categorie">
 				<div class="wrapper">
-					<div class="container-title">
-						<div class="icn">
-							<img src="img/help/icn/icn-basic.svg">
-						</div>
-						<h1>The Basics.</h1>
-					</div>
+					<div class="container-title"></div>
 					<div class="container-categorie">
 						<div class="path">
-							<a href="#">Help Center</a>
+							<a href="help">Help Center</a>
 							<img src="img/help/arrow.svg">
-							<a href="#">The Basics</a>
+							<a></a>
 						</div>
-						<div class="container-el">
-							<div class="el">
-								<h4>
-									General Info.
-									<img src="img/common/arrow-3.svg">
-								</h4>
-								<ul>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-								</ul>
-							</div>
-							<div class="el">
-								<h4>
-									Calls
-									<img src="img/common/arrow-3.svg">
-								</h4>
-								<ul>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-								</ul>
-							</div>
-							<div class="el">
-								<h4>
-									Pricing.
-									<img src="img/common/arrow-3.svg">
-								</h4>
-								<ul>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-								</ul>
-							</div>
-							<div class="el">
-								<h4>
-									Account.
-									<img src="img/common/arrow-3.svg">
-								</h4>
-								<ul>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-									<li><a href="#">
-										Lorem ipsum dolor sit amet, consectetur ? 
-									</a></li>
-								</ul>
-							</div>
-						</div>
+						<div class="container-el"></div>
 					</div>
 				</div>
 			</section>
@@ -150,3 +52,72 @@
 		<script type="text/javascript" src="script/minify/common-min.js"></script>
 	</body>
 </html>
+
+<script type="text/javascript">
+	
+$(window).on('load', function() {
+
+	let urlParam = function(name){
+	    let results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+	    if (results==null){
+	       return null;
+	    }
+	    else{
+	       return results[1] || 0;
+	    }
+	}
+
+	let id  = urlParam('id');
+	let pos = urlParam('pos');
+
+	let url = $(location).attr("href").split('?')[0];
+	history.pushState(null, null, url);
+
+	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/categories/" + id + ".json", function(result){
+		$.each(result, function(i, f){
+
+			let text = '<div class="icn">' +
+							'<img src="img/help/icn/icn-' + pos + '.svg">' +
+						'</div>' +
+						'<h1>' + f['name'] + '</h1>';
+
+			$('#section-categorie .container-title').append(text);
+			$('#section-categorie .container-categorie .path a:last-child').append(f['name']);
+		});
+	});
+
+	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/categories/" + id + "/sections.json", function(result){
+		$.each(result, function(i, f){
+			if(i == 'sections'){
+				$.each(f, function(k, t){
+
+					let text = '<div class="el">' +
+								  '<h4>' + f[k]['name'] +
+									'<img src="img/common/arrow-3.svg">' +
+								  '</h4>' +
+								  '<ul>';
+
+					$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/sections/" + f[k]['id'] + "/articles.json", function(question){
+						$.each(question, function(j, q){
+							if(j == 'articles'){
+								$.each(q, function(l, rq){
+									text += '<li><a href=articles?idC=' + id + '&idS=' + f[k]['id'] + '&idA=' + q[l]['id'] + '&pos=' + pos + '>' + q[l]['name'] + '</a></li>';
+								});
+							}
+						});
+					});
+
+					setTimeout(function() {
+						text += '</ul></div>';
+						$('#section-categorie .container-categorie .container-el').append(text);
+					}, 500);
+
+				});
+			}
+
+		});
+	});
+
+});
+
+</script>
