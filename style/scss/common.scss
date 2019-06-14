@@ -1110,6 +1110,11 @@ main
 				&:hover{
 					transform: translateX(-55px); /* NOPE */
 				}
+				@media screen and (max-width: $breakPoint_mobile) {
+					&:hover{
+						transform: none;
+					}
+				}
 			}
 		}
 		

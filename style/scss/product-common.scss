@@ -634,6 +634,9 @@
 				.text{
 					.container-logos{
 						margin-top: 35px;
+						img {
+							max-height: 25px;
+						}
 					}
 				}
 				.container-illu{
@@ -649,7 +652,6 @@
 				}
 			}
 		}
-		
 	}
 
 	#section-carousel{

@@ -1875,39 +1875,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/img/img-test/background-2.jpg": {
-		"ft": 16384,
-		"iS": 1104185,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/img-test/background-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/img/img-test/background-3.jpg": {
-		"ft": 16384,
-		"iS": 889289,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/img-test/background-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/img/img-test/background-4.jpg": {
-		"ft": 16384,
-		"iS": 913809,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/img-test/background-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
 	"/img/img-test/user.jpg": {
 		"ft": 16384,
 		"iS": 34491,

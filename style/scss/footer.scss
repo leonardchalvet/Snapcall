@@ -290,6 +290,9 @@ footer{
 		
 		.container-links{
 			justify-content: space-between;
+			.wrapper {
+				padding-bottom: 0;
+			}
 			.col{
 				width: 40%;
 				&:not(:last-child){
@@ -300,6 +303,7 @@ footer{
 		.container-newletters{
 			padding-left: 25px;
 			padding-right: 25px;
+			padding-bottom: 40px;
 			.container-input{
 				width: 100%;
 			}
@@ -309,21 +313,41 @@ footer{
 			height: initial;
 			.wrapper{
 				height: initial;
+				padding-bottom: 30px;
 				>*{
 					height: initial;
 					width: 50%;
 				}
 				.container-lg{
+					position: relative;
 					width: 100%;
 					height: 65px;
 					padding-right: 0px;
 					border-right: none;
 					justify-content: center;
+					&:after {
+						content: " ";
+						position: absolute;
+						bottom: 0;
+						left: -25px;
+						width: calc(100% + 50px);
+						height: 1px;
+						background-color: rgba(255,255,255,0.1)
+					}
 				}
 				.link{
+					padding: 0;
+					margin-top: 20px;
 					border-right: none;
+					span {
+						display: inline-block;
+						width: 100%;
+						text-align: center;
+					}
 				}
 				.container-rs{
+					position: relative;
+					padding-top: 25px;
 					border-right: none;
 					width: 100%;
 					flex: initial;
@@ -336,6 +360,15 @@ footer{
 								height: 15px;
 							}
 						}
+					}
+					&:after {
+						content: " ";
+						position: absolute;
+						top: 0;
+						left: -25px;
+						width: calc(100% + 50px);
+						height: 1px;
+						background-color: rgba(255,255,255,0.1)
 					}
 				}
 				.cpr{
