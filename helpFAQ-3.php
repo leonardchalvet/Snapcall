@@ -34,7 +34,7 @@
 					<div class="container-title"></div>
 					<div class="container-categorie">
 						<div class="path">
-							<a href="help">Help Center</a>
+							<a href="helpFAQ-1.php">Help Center</a>
 							<img src="img/help/arrow-2.svg">
 							<a href="#"></a>
 							<img src="img/help/arrow-2.svg">
@@ -93,7 +93,7 @@ $(window).on('load', function() {
 
 			$('#section-categorie .container-title').append(text);
 			$('#section-categorie .container-categorie .path a:nth-child(3)').append(f['name']);
-			$('#section-categorie .container-categorie .path a:nth-child(3)').attr('href', 'legal?id=' + f['id'] + '&pos=' + pos);
+			$('#section-categorie .container-categorie .path a:nth-child(3)').attr('href', 'helpFAQ-2.php?id=' + f['id'] + '&pos=' + pos);
 		});
 	});
 
@@ -108,7 +108,7 @@ $(window).on('load', function() {
 			if(i == 'articles'){
 				$.each(f, function(j, t){
 					
-					let text = '<li><a href="articles?idC=' + idC + '&idS=' + idS + '&idA=' + f[j]['id'] + '&pos=' + pos + '">' + f[j]['name'] + '</a></li>';
+					let text = '<li><a href="helpFAQ-3.php?idC=' + idC + '&idS=' + idS + '&idA=' + f[j]['id'] + '&pos=' + pos + '">' + f[j]['name'] + '</a></li>';
 
 					$('#section-categorie .container-categorie .container-el .el ul').append(text);
 				});
@@ -118,6 +118,8 @@ $(window).on('load', function() {
 
 	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/articles/" + idA + ".json", function(result){
 		$.each(result, function(i, f){
+
+			$('#section-categorie .container-categorie .path a:last-child').append(result[i]['name']);
 
 			let text = '<h3>' + result[i]['name'] + '</h3>' + result[i]['body'];
 

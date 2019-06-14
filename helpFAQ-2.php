@@ -34,7 +34,7 @@
 					<div class="container-title"></div>
 					<div class="container-categorie">
 						<div class="path">
-							<a href="help">Help Center</a>
+							<a href="helpFAQ-1.php">Help Center</a>
 							<img src="img/help/arrow.svg">
 							<a></a>
 						</div>
@@ -101,7 +101,7 @@ $(window).on('load', function() {
 						$.each(question, function(j, q){
 							if(j == 'articles'){
 								$.each(q, function(l, rq){
-									text += '<li><a href=articles?idC=' + id + '&idS=' + f[k]['id'] + '&idA=' + q[l]['id'] + '&pos=' + pos + '>' + q[l]['name'] + '</a></li>';
+									text += '<li><a href=helpFAQ-3.php?idC=' + id + '&idS=' + f[k]['id'] + '&idA=' + q[l]['id'] + '&pos=' + pos + '>' + q[l]['name'] + '</a></li>';
 								});
 							}
 						});

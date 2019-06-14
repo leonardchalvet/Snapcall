@@ -36,10 +36,12 @@
 						<h1>We're happy<br>to help.</h1>
 					</div>
 					<div class="container-help">
+						<!--
 						<div class="search">
 							<input type="text" name="search" placeholder="Search for what you need help with">
 							<img src="img/help/icn/icn-search.svg">
 						</div>
+						-->
 						<div class="container-el"></div>
 					</div>
 				</div>
@@ -60,7 +62,7 @@ $(window).on('load', function() {
 		$.each(result, function(i, f){
 			if(i == 'categories'){
 				$.each(f, function(k, t){
-					let html = '<a href="legal?id=' + f[k]['id'] + '&pos=' + k + '" class="el">' +
+					let html = '<a href="helpFAQ-2.php?id=' + f[k]['id'] + '&pos=' + k + '" class="el">' +
 								   '<div class="icn">' +
 								      '<img src="img/help/icn/icn-' + k + '.svg">' +
 								   '</div>' +
