@@ -1,7 +1,7 @@
 <html>
   <head>
 
-    <title>Home</title>
+    <title>SnapCall</title>
 
     <meta name="description" content="" />
 

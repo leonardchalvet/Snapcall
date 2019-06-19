@@ -2,6 +2,7 @@ $(window).on('load', function() {
 
 	setTimeout(function(){ 
 		$('#section-cover').addClass('ready');
+
 	}, 100);
 
 	$('#section-faq .container-questions .question').click(function(){
@@ -46,12 +47,14 @@ $(window).on('load', function() {
 			$('#section-table .container-table .head .cell p').addClass('month');
 		}
 	})
+	
+	setTimeout(function(){ 
+		$('#section-table .container-action .container-date').click();
+	}, 1000);
 
 	$('#section-table .container-action .container-money .dropdown .money').click(function(){
 		$('#section-table .container-table .head .cell .price').attr('data-value', $(this).attr('data-price'));
 
-		$('#section-table .container-action .container-date').removeClass('right');
-		$('#section-table .container-action .container-date').addClass('left');
 		$('#section-table .container-table .head .cell p').removeClass('year');
 		$('#section-table .container-table .head .cell p').addClass('month');
 

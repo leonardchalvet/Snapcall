@@ -544,9 +544,6 @@
 }
 
 
-@media screen and (min-width: $breakPoint_mobile) and (max-width: $breakPoint_tablet) {
-}
-
 @media screen and (max-width: $breakPoint_mobile) {
 	#section-cover{
 		position: relative;
@@ -665,6 +662,12 @@
 		}
 	}
 
+}
+
+@media screen and (max-width: 330px) {
+	#section-cover.ready .container-text h1 span:nth-child(1):after{
+		width: 100px;
+	}
 }
 
 /*====================================

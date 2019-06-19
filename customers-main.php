@@ -322,7 +322,7 @@
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_1">Truly personalized customer relationships with SnapCall.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="" class="cm-button-style1">
+							<a href="http://register.snapcall.io/" class="cm-button-style1">
 								<span class="btn-text">Get Started</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">

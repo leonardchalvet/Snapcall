@@ -96,7 +96,7 @@
 							</div>
 							<div class="el el-4">
 								<h2 class="elAnim__slide anim__delayMedium_1">
-									Connect SnapCall buttons to your <i>ZENDESK support.</i>
+									Connect SnapCall buttons to your <i>Zendesk support.</i>
 								</h2>
 								<p class="elAnim__slide anim__delayMedium_2">
 									It works with what you already have in place as support. Plug and chill.
@@ -152,7 +152,7 @@
 							<div class="content">
 
 								<div class="container-pr">
-									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
+									<div class="pp" style="background-image: url(img/product/section-quotes/user-3.jpg);"></div>
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">

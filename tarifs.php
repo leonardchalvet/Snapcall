@@ -1,7 +1,7 @@
 <html>
 	<head>
 
-		<title>Tarifs</title>
+		<title>Pricing</title>
 
 		<meta name="description" content="" />
 
@@ -72,7 +72,7 @@
 									<img class="flag" src="img/common/flags/fr.svg">
 								</div>
 								<div class="money" data-price="usd">
-									Usd $
+									USD $
 									<img class="flag" src="img/common/flags/en.svg">
 								</div>
 							</div>
@@ -130,10 +130,10 @@
 								<h5 class="title">
 									ENTERPRISE
 								</h5>
-								<div class="price" data-value="eur" data-price-eur-month="1199€"
-                                    data-price-usd-month="$1199" data-price-eur-year="999€"
-                                    data-price-usd-year="$1199">
-									1199€
+								<div class="price" data-value="eur" data-price-eur-month="1119€"
+                                    data-price-usd-month="$1119" data-price-eur-year="999€"
+                                    data-price-usd-year="$1119">
+									1119€
 								</div>
 								<p class="month">
 									<span>per month, billed monthly</span>

@@ -239,7 +239,7 @@
 							</div>
 							<div class="el el-4">
 								<h2 class="elAnim__slide anim__delayMedium_1">
-									Connect SnapCall buttons to your <i>ZENDESK support.</i>
+									Connect SnapCall buttons to your <i>Zendesk support.</i>
 								</h2>
 								<p class="elAnim__slide anim__delayMedium_2">
 									It works with what you already have in place as support. Plug and chill.

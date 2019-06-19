@@ -125,7 +125,7 @@
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
-											Having <i>call recordings</i> right there on our support platform allows us to easily follow up on customer’s queries and have a global view of interactions despite the channel. Also has allowed us to <i>easily asses</i> our <i>agents performance</i> and identify gaps on our internal training we might need to improve.
+											Having <i>call recordings</i> right there on our support platform allows us to easily follow up on customer’s queries and have a global view of interactions despite the channel. Also has allowed us to <i>easily assess our agents performance</i> and identify gaps on our internal training we might need to improve.
 										</q>
 									</div>
 								</div>

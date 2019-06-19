@@ -23,7 +23,6 @@
 					<li><a href="./customers-main.php">Customers</a></li>
 					<li><a href="">Company</a></li>
 					<li><a href="https://blog.snapcall.io">Blog</a></li>
-					<li><a href="">Events</a></li>
 					<li><a href="https://jobs.stationf.co/companies/snapcall-2">Careers</a></li>
 					<li><a href="">Media kit</a></li>
 				</ul>

@@ -49,42 +49,10 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-web-calls.php">
-						<h4>Web Calls.</h4>
-						<p>
-							Allow customers to launch calls from any platform.
-						</p>
-					</a>
-				</li>
-				<li>
-					<a href="./product-shopify.php">
-						<h4>Shopify.</h4>
-						<p>
-							Smart voice for your Shopify store.
-						</p>
-					</a>
-				</li>
-				<li>
 					<a href="./product-customer-data-in-call.php">
 						<h4>Customers Data in Calls.</h4>
 						<p>
 							Receive valuable data when picking up calls.
-						</p>
-					</a>
-				</li>
-				<li>
-					<a href="./product-smart-plugs.php">
-						<h4>Smart Plugs.</h4>
-						<p>
-							Connect SnapCall to any call reception system.
-						</p>
-					</a>
-				</li>
-				<li>
-					<a href="./product-zendesk.php">
-						<h4>Zendesk.</h4>
-						<p>
-							Smart voice for your Zendesk support.
 						</p>
 					</a>
 				</li>
@@ -97,6 +65,30 @@
 					</a>
 				</li>
 				<li>
+					<a href="./product-web-calls.php">
+						<h4>Web Calls.</h4>
+						<p>
+							Allow customers to launch calls from any platform.
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="./product-smart-plugs.php">
+						<h4>Smart Plugs.</h4>
+						<p>
+							Connect SnapCall to any call reception system.
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="./product-shopify.php">
+						<h4>Shopify.</h4>
+						<p>
+							Smart voice for your Shopify store.
+						</p>
+					</a>
+				</li>
+				<li>
 					<a href="./product-data-analytics.php">
 						<h4>Data & Analytics.</h4>
 						<p>
@@ -104,6 +96,17 @@
 						</p>
 					</a>
 				</li>
+				
+				<li>
+					<a href="./product-zendesk.php">
+						<h4>Zendesk.</h4>
+						<p>
+							Smart voice for your Zendesk support.
+						</p>
+					</a>
+				</li>
+				
+				
 			</ul>
 		</div>
 	</div>
@@ -142,7 +145,7 @@
 <header id="header-mobile">
 	<div class="head">
 		<div class="wrapper">
-			<a class="logo <?php echo($styleHeaderMobile); ?>" href="">
+			<a class="logo <?php echo($styleHeaderMobile); ?>" href="./" >
 				<img src="img/common/logo-snapcall-black.svg" alt="">
 				<img src="img/common/logo-snapcall-white-2.svg" alt="">
 			</a>
@@ -201,19 +204,21 @@
 						<span>Pricing</span>
 					</a>
 				</div>
+
+
 				<div class="link">
 					<a>
 						<span>Support</span>
 						<img class="arrow" src="img/common/arrow-3.svg" alt="">
 					</a>
 					<div class="container-el">
-						<a class="el">
+						<a class="el" href="./helpFAQ-1.php">
 							<h3>Help Center</h3>
 						</a>
-						<a class="el">
+						<a class="el" href="./contact.php">
 							<h3>Contact Us</h3>
 						</a>
-						<a class="el">
+						<a class="el" href="./product-shopify.php">
 							<h3>API Docs</h3>
 						</a>
 					</div>
