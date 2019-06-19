@@ -268,5 +268,7 @@
 		<script type="text/javascript" src="script/minify/product-common-min.js"></script>
 
 		<script type="text/javascript" src="script/minify/common-min.js"></script>
+
+		<script type="text/javascript">var snapcall_script=document.createElement("script");snapcall_script.setAttribute("class","snapcall");snapcall_script.setAttribute("btn-bid","948127ae90df11e9ade40ae222c5da84");snapcall_script.src="https://snap.snapcall.io/snapapp.min.js";document.body.appendChild(snapcall_script);</script>
 	</body>
 </html>
