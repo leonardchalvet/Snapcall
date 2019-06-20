@@ -9,7 +9,9 @@
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<link rel="stylesheet" type="text/css" href="style/css/helpFAQ.css">
+		<!-- <link rel="stylesheet" type="text/css" href="style/css/helpFAQ.css"> -->
+
+		<link rel="stylesheet" type="text/css" href="style/css/helpFAQ-3.css">
 
 		<link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
@@ -29,29 +31,63 @@
 
 		<main>
 
-			<section id="section-categorie" class="article">
-				<div class="wrapper">
-					<div class="container-title"></div>
-					<div class="container-categorie">
-						<div class="path">
-							<a href="helpFAQ-1.php">Help Center</a>
-							<img src="img/help/arrow-2.svg">
-							<a href="#"></a>
-							<img src="img/help/arrow-2.svg">
-							<a></a>
-							<img src="img/help/arrow.svg">
-							<a></a>
-						</div>
-						<div class="container-el">
-							<div class="el">
-								<h4>Others questions.</h4>
-								<ul></ul>
+			<!--
+				<section id="section-categorie" class="article">
+					<div class="wrapper">
+						<div class="container-title"></div>
+						<div class="container-categorie">
+							<div class="path">
+								<a href="helpFAQ-1.php">Help Center</a>
+								<img src="img/help/arrow-2.svg">
+								<a href="#"></a>
+								<img src="img/help/arrow-2.svg">
+								<a></a>
+								<img src="img/help/arrow.svg">
+								<a></a>
 							</div>
-							<div class="container-text"></div>
+							<div class="container-el">
+								<div class="el">
+									<h4>Others questions.</h4>
+									<ul></ul>
+								</div>
+								<div class="container-text"></div>
+							</div>
 						</div>
+					</div>
+				</section>
+			-->
+
+			<section id="section-head">
+				<div class="wrapper">
+					<div class="container-title">
+						
+					</div>
+					<div class="container-path">
+						<a href="helpFAQ-1.php">Help Center</a>
+						<img src="img/help/arrow-2.svg">
+						<a href="#"></a>
+						<img src="img/help/arrow-2.svg">
+						<a></a>
+						<img src="img/help/arrow.svg">
+						<a></a>
 					</div>
 				</div>
 			</section>
+
+			<section id="section-post">
+				<div class="wrapper">
+					<div class="container-list">
+						<h3>Others questions.</h3>
+						<ul>
+							
+						</ul>
+					</div>
+					<div class="container-wysiwyg">
+						
+					</div>
+				</div>
+			</section>
+
 			
 		</main>
 
@@ -91,15 +127,15 @@ $(window).on('load', function() {
 						'</div>' +
 						'<h1>' + f['name'] + '</h1>';
 
-			$('#section-categorie .container-title').append(text);
-			$('#section-categorie .container-categorie .path a:nth-child(3)').append(f['name']);
-			$('#section-categorie .container-categorie .path a:nth-child(3)').attr('href', 'helpFAQ-2.php?id=' + f['id'] + '&pos=' + pos);
+			$('#section-head .container-title').append(text);
+			$('#section-head .container-path a:nth-child(3)').append(f['name']);
+			$('#section-head .container-path a:nth-child(3)').attr('href', 'helpFAQ-2.php?id=' + f['id'] + '&pos=' + pos);
 		});
 	});
 
 	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/sections/" + idS + ".json", function(result){
 		$.each(result, function(i, f){
-			$('#section-categorie .container-categorie .path a:nth-child(5)').append(result[i]['name']);
+			$('#section-head .container-path a:nth-child(5)').append(result[i]['name']);
 		});
 	});
 
@@ -110,7 +146,7 @@ $(window).on('load', function() {
 					
 					let text = '<li><a href="helpFAQ-3.php?idC=' + idC + '&idS=' + idS + '&idA=' + f[j]['id'] + '&pos=' + pos + '">' + f[j]['name'] + '</a></li>';
 
-					$('#section-categorie .container-categorie .container-el .el ul').append(text);
+					$('#section-post .container-list ul').append(text);
 				});
 			}
 		});
@@ -119,11 +155,11 @@ $(window).on('load', function() {
 	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/articles/" + idA + ".json", function(result){
 		$.each(result, function(i, f){
 
-			$('#section-categorie .container-categorie .path a:last-child').append(result[i]['name']);
+			$('#section-head .container-path a:last-child').append(result[i]['name']);
 
 			let text = '<h3>' + result[i]['name'] + '</h3>' + result[i]['body'];
 
-			$('#section-categorie .container-categorie .container-el .container-text').append(text);
+			$('#section-post .container-wysiwyg').append(text);
 		});
 	});	
 

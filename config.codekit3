@@ -6830,6 +6830,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/style/css/helpFAQ-3.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/helpFAQ-3-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/style/css/helpFAQ.css": {
 		"aP": 1,
 		"bl": 0,
@@ -6980,6 +6990,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/style/css/header.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/style/scss/helpFAQ-3.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style/css/helpFAQ-3.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

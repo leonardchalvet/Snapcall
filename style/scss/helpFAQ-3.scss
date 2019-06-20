@@ -1,0 +1,206 @@
+@import 'common.scss';
+@import 'header.scss';
+
+/*======================================
+=            PAGE HELP FAQ 3           =
+======================================*/
+
+
+#section-head{
+	position: relative;
+	padding-top: 150px;
+	.wrapper{
+		@include styleGrid3;
+	}
+	.container-title{
+		position: relative;
+		text-align: center;
+		.icn{
+			width: 75px;
+			margin: auto;
+			img{
+				width: 100%;
+			}
+		}
+		h1{
+			margin-top: 30px;
+			@include styleH3;
+		}
+	}
+	.container-path{
+		margin-top: 65px;
+		display: flex;
+		flex-flow: row wrap;
+		align-items: center;
+		padding-bottom: 30px;
+		border-bottom: 1px solid #D0D0D0;
+		a{
+			text-decoration: none;
+			font-family: $font_2_Regular;
+			font-size: 12px;
+			line-height: 17px;
+			color: $colorMain_9;
+			margin-right: 15px;
+			cursor: pointer;
+		}
+		img{
+			width: 6px;
+			margin-right: 15px;
+		}
+	}
+}
+
+#section-post{
+	position: relative;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	.wrapper{
+		@include styleGrid3;
+		display: flex;
+		flex-flow: row wrap;
+		align-items: flex-start;
+	}
+	.container-list{
+		width: 300px;
+		h3{
+			@include styleH5;
+		}
+		ul{
+			margin-top: 45px;
+			list-style: none;
+			li{
+				width: 100%;
+				&:not(:last-child) {
+					margin-bottom: 8px;
+				}
+				a{
+					cursor: pointer;
+					display: block;
+					@include styleH6;
+					text-decoration: none;
+					padding: 23px 29px;
+					text-decoration: none;
+					border-radius: 20px;
+					background-color: $colorMain_7;
+					box-shadow: 0 20px 40px 0 rgba(0,0,0,0.02);
+					transition: all .5s ease;
+					width: 100%;
+					&:hover {
+						background-color: $colorMain_5;
+					}
+				}
+				
+			}
+		}
+	}
+	.container-wysiwyg{
+		flex: 1;
+		padding-left: 70px;
+
+		h3{
+			@include styleH4;
+			margin-bottom: 15px;
+		}
+		h2{
+			@include styleH5;
+			margin-bottom: 15px;
+			display: block;
+			strong{
+				@include styleH5;
+				margin-bottom: 15px;
+				display: block;
+			}
+		}
+		p{
+			@include styleParagraphSmall;
+			margin-top: 15px;
+			margin-bottom: 15px;
+			a{
+				color: #3B655B;
+				text-decoration: underline;
+				transition: all 0.25s ease;
+				cursor: pointer;
+				&:hover{
+					color: #4CD964;
+				}
+			}
+		}
+		ul{
+			margin-top: 15px;
+			margin-bottom: 15px;
+			list-style: none;
+			li{
+				position: relative;
+				padding-left: 25px;
+				&:before{
+					content: '';
+					position: absolute;
+					height: 5px;	
+					width: 5px;	
+					top: 10px;
+					left: 0px;
+					border-radius: 3px;
+					background-color: $colorMain_9;
+				}
+				@include styleParagraphSmall;
+			}
+		}
+		ol{
+			margin-top: 15px;
+			margin-bottom: 15px;
+			list-style: none;
+			counter-reset: counter;
+			li{
+				counter-increment: counter;
+				position: relative;
+				padding-left: 25px;
+				&:before{
+					content: counter(counter) ".";
+					position: absolute;
+					left: 0px;
+				}
+				@include styleParagraphSmall;
+			}
+		}
+		
+		img{
+			height: initial;
+			width: 100%;
+			margin: 30px 0px 30px 0px;
+		}
+		iframe{
+			height: 320px;
+			width: 100%;
+			margin: 30px 0px 30px 0px;
+		}
+	}
+}
+
+@media screen and (max-width: $breakPoint_mobile) {
+	#section-head{
+		padding-top: 120px;
+		.container-title{
+			.icn{
+				width: 70px;
+			}
+		}
+	}
+	#section-post{
+		.container-list{
+			order: 2;
+			width: 100%;
+		}
+		.container-wysiwyg{
+			order: 1;
+			padding-left: 0px;
+			width: 100%;
+		}
+	}
+}
+
+
+/*=====================================
+=            END HELP FAQ 3           =
+=====================================*/
+
+@import 'footer.scss';
