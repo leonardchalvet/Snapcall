@@ -53,6 +53,8 @@ $(window).on('load', function() {
 	}, 1000);
 
 	$('#section-table .container-action .container-money .dropdown .money').click(function(){
+		
+
 		$('#section-table .container-table .head .cell .price').attr('data-value', $(this).attr('data-price'));
 
 		$('#section-table .container-table .head .cell p').removeClass('year');
@@ -65,6 +67,8 @@ $(window).on('load', function() {
 		})
 
 		$('#section-table .container-action .container-money').removeClass('open');
+
+		$('#section-table .container-action .container-money > .money span').html($(this).html());
 	})
 
 	$('#section-table .container-action .container-money >.money').mouseenter(function(){

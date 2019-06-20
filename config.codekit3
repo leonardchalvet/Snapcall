@@ -376,6 +376,14 @@
 		"oAP": "/helpFAQ-3.php",
 		"oF": 0
 		},
+	"/htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/htaccess",
+		"oF": 0
+		},
 	"/img/404/obj-1.svg": {
 		"ft": 2097152,
 		"miP": 0,

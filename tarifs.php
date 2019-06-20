@@ -62,17 +62,19 @@
 						<div class="container-money">
 							<span>Display prices in : </span>
 							<div class="money">
-								Euro €
-								<img class="flag" src="img/common/flags/fr.svg">
+								<span>
+									Euro €
+									<img class="flag" src="img/common/flags/fr.svg">
+								</span>
 								<img class="arrow" src="img/common/arrow-3.svg">
 							</div>
 							<div class="dropdown">
 								<div class="money" data-price="eur">
-									Euro €
+									<span>Euro €</span>
 									<img class="flag" src="img/common/flags/fr.svg">
 								</div>
 								<div class="money" data-price="usd">
-									USD $
+									<span>USD $</span>
 									<img class="flag" src="img/common/flags/en.svg">
 								</div>
 							</div>
