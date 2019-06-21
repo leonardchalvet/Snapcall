@@ -10,7 +10,7 @@ RewriteRule ^customers-main customers-main.php
 RewriteRule ^customers-azimo customers-azimo.php
 RewriteRule ^about about.php
 RewriteRule ^terms terms.php
-RewriteRule ^help$ helpFAQ-1.php
+RewriteRule ^helps helpFAQ-1.php
 RewriteRule ^legal helpFAQ-2.php
 RewriteRule ^articles helpFAQ-3.php
 RewriteRule ^contact contact.php

@@ -119,7 +119,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="./contact.php">
+					<a href="contact">
 						<h4>Contact Us</h4>
 						<p>
 							Get in touch with the team.
