@@ -11,7 +11,7 @@
 				</a>
 			</li>
 			<li>
-				<a href="customers-main">
+				<a href="customers">
 					<span>Customers</span>
 				</a>
 			</li>
