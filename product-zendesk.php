@@ -78,7 +78,7 @@
 									Offer voice support only to VIP customers or according to defined criteria.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="./product-smart-voice-support.php">
+									<a href="smart-voice-support">
 										<span class="btn-text">Explore Smart Voice Support</span>
 									</a>
 								</div>
@@ -97,7 +97,7 @@
 									Pick calls with one click and generate an automatic Zendesk ticket for each caller.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="./product-smart-plugs.php">
+									<a href="smart-plugs">
 										<span class="btn-text">Explore Smart Plugs</span>
 									</a>
 								</div>
@@ -192,7 +192,7 @@
 									Be close to your customers without having to buy phone numbers in each country.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="./product-web-calls.php">
+									<a href="web-calls">
 										<span class="btn-text">Explore Web Calls</span>
 									</a>
 								</div>
@@ -230,7 +230,7 @@
 									Connecting to the right agent is as simple as a click. Deliver an outstanding customer experience and improve your NPS.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="./product-web-calls.php">
+									<a href="web-calls">
 										<span class="btn-text">Explore Web Calls</span>
 									</a>
 								</div>
@@ -249,7 +249,7 @@
 									Keep an eye on your interactions in real time and assess your team’s performance.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="./product-call-recording.php">
+									<a href="call-recording">
 										<span class="btn-text">Explore Call Recording</span>
 									</a>
 								</div>
@@ -346,7 +346,7 @@
 									</div>
 
 									<div class="container-button">
-										<a href="./customers-azimo.php">
+										<a href="customers-azimo">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>

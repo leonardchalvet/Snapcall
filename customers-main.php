@@ -131,7 +131,7 @@
 								<p>
 									Azimo pivoted its phone support and focused it on high value customers only.
 								</p>
-								<a href="./customers-azimo.php">
+								<a href="customers-azimo">
 									<span>Read their story</span>
 									<svg class="arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -147,7 +147,7 @@
 								<p>
 									SeLoger Neuf website tracks calls and its conversions for all their property listings.
 								</p>
-								<a href="./customers-azimo.php">
+								<a href="customers-azimo">
 									<span>Read their story</span>
 									<svg class="arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -163,7 +163,7 @@
 								<p>
 									SNCF allows all web visitors to launch snap calls from their website
 								</p>
-								<a href="./customers-azimo.php">
+								<a href="customers-azimo">
 									<span>Read their story</span>
 									<svg class="arrow" viewBox="0 0 23 22">
 									   <use xlink:href="img/common/arrow-1.svg#arrow-1"></use>
@@ -302,7 +302,7 @@
 									<div class="container-nav"></div>
 
 									<div class="container-button">
-										<a href="./customers-azimo.php">
+										<a href="customers-azimo">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>

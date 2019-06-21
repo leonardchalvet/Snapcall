@@ -8,20 +8,20 @@
 			<div class="col">
 				<ul>
 					<li>Platform</li>
-					<li><a href="./product-smart-voice-support.php">Smart voice support</a></li>
-					<li><a href="./product-customer-data-in-call.php">Customer data in calls</a></li>
-					<li><a href="./product-call-recording.php">Call recording</a></li>
-					<li><a href="./product-web-calls.php">Web calls</a></li>
-					<li><a href="./product-smart-plugs.php">Smart plugs</a></li>
-					<li><a href="./product-data-analytics.php">Data and analytics</a></li>
+					<li><a href="smart-voice-support">Smart voice support</a></li>
+					<li><a href="customer-data-in-calls">Customer data in calls</a></li>
+					<li><a href="call-recording">Call recording</a></li>
+					<li><a href="web-calls">Web calls</a></li>
+					<li><a href="smart-plugs">Smart plugs</a></li>
+					<li><a href="data-analytics">Data and analytics</a></li>
 				</ul>
 			</div>
 
 			<div class="col">
 				<ul>
 					<li>About</li>
-					<li><a href="./customers-main.php">Customers</a></li>
-					<li><a href="./about.php">Company</a></li>
+					<li><a href="customers-main">Customers</a></li>
+					<li><a href="about">Company</a></li>
 					<li><a href="https://blog.snapcall.io">Blog</a></li>
 					<li><a href="https://jobs.stationf.co/companies/snapcall-2">Careers</a></li>
 					<li><a href="https://drive.google.com/drive/folders/1Nnx2BM4ACSH1UmCo542OJt41lqGbrHL1?usp=sharing">Media kit</a></li>
@@ -31,8 +31,8 @@
 			<div class="col">
 				<ul>
 					<li>Support</li>
-					<li><a href="./helpFAQ-1.php">Help center</a></li>
-					<li><a href="./contact.php">Talk to us!</a></li>
+					<li><a href="helps">Help center</a></li>
+					<li><a href="contact">Talk to us!</a></li>
 				</ul>
 
 				<ul>
@@ -56,7 +56,7 @@
 			<div class="col">
 				<ul>
 					<li>Try SnapCall</li>
-					<li><a href="./tarifs.php">Pricing</a></li>
+					<li><a href="pricing">Pricing</a></li>
 					<a class="button" href="https://register.snapcall.io">
 						<span class="btn-text">
 							Try it free
@@ -101,10 +101,10 @@
 					<span>English</span>
 				</div>
 			</div>
-			<a class="link" href="./terms.php">
+			<a class="link" href="terms">
 				<span>Legal</span>
 			</a>
-			<a class="link" href="./terms.php">
+			<a class="link" href="terms">
 				<span>Terms and Conditions</span>
 			</a>
 			<div class="container-rs">

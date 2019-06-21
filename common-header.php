@@ -11,12 +11,12 @@
 				</a>
 			</li>
 			<li>
-				<a href="./customers-main.php">
+				<a href="customers-main">
 					<span>Customers</span>
 				</a>
 			</li>
 			<li>
-				<a href="./tarifs.php">
+				<a href="pricing">
 					<span>Pricing</span>
 				</a>
 			</li>
@@ -41,7 +41,7 @@
 		<div class="wrapper">
 			<ul>
 				<li>
-					<a href="./product-smart-voice-support.php">
+					<a href="smart-voice-support">
 						<h4>Smart Voice Support.</h4>
 						<p>
 							Offer voice to high value customers and prequalified leads.
@@ -49,7 +49,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-web-calls.php">
+					<a href="web-calls">
 						<h4>Web Calls.</h4>
 						<p>
 							Allow customers to launch calls from any platform.
@@ -57,7 +57,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-zendesk.php">
+					<a href="zendesk">
 						<h4>Zendesk.</h4>
 						<p>
 							Smart voice for your Zendesk support.
@@ -65,7 +65,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-customer-data-in-call.php">
+					<a href="customer-data-in-calls">
 						<h4>Customers Data in Calls.</h4>
 						<p>
 							Receive valuable data when picking up calls.
@@ -73,7 +73,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-smart-plugs.php">
+					<a href="smart-plugs">
 						<h4>Smart Plugs.</h4>
 						<p>
 							Connect SnapCall to any call reception system.
@@ -81,7 +81,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-shopify.php">
+					<a href="shopify">
 						<h4>Shopify.</h4>
 						<p>
 							Smart voice for your Shopify store.
@@ -89,7 +89,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-call-recording.php">
+					<a href="call-recording">
 						<h4>Call Recording.</h4>
 						<p>
 							Recordings off all interactions in real-time.
@@ -97,7 +97,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-data-analytics.php">
+					<a href="data-analytics">
 						<h4>Data & Analytics.</h4>
 						<p>
 							Rich datasets on calls and customer behaviour.
@@ -111,7 +111,7 @@
 		<div class="wrapper">
 			<ul>
 				<li>
-					<a href="./helpFAQ-1.php">
+					<a href="helps">
 						<h4>Help Center</h4>
 						<p>
 							Find all your answers on our knowledge base.
@@ -164,40 +164,40 @@
 						<img class="arrow" src="img/common/arrow-3.svg" alt="">
 					</a>
 					<div class="container-el">
-						<a class="el" href="./product-smart-voice-support.php">
+						<a class="el" href="smart-voice-support">
 							<h3>Smart Voice Support</h3>
 						</a>
-						<a class="el" href="./product-customer-data-in-call.php">
+						<a class="el" href="customer-data-in-calls">
 							<h3>Customers Data in Calls</h3>
 						</a>
-						<a class="el" href="./product-web-calls.php">
+						<a class="el" href="web-calls">
 							<h3>Web Calls</h3>
 						</a>
-						<a class="el" href="./product-smart-plugs.php">
+						<a class="el" href="smart-plugs">
 							<h3>Smart Plugs</h3>
 						</a>
-						<a class="el" href="./product-call-recording.php">
+						<a class="el" href="call-recording">
 							<h3>Call Recording</h3>
 						</a>
-						<a class="el" href="./product-data-analytics.php">
+						<a class="el" href="data-analytics">
 							<h3>Data & Analytics</h3>
 						</a>
-						<a class="el" href="./product-shopify.php">
+						<a class="el" href="shopify">
 							<h3>Shopify</h3>
 						</a>
-						<a class="el" href="./product-zendesk.php">
+						<a class="el" href="zendesk">
 							<h3>Zendesk</h3>
 						</a>
 
 					</div>
 				</div>
 				<div class="link">
-					<a href="./customers-main.php">
+					<a href="customers-main">
 						<span>Customers</span>
 					</a>
 				</div>
 				<div class="link">
-					<a href="./tarifs.php">
+					<a href="pricing">
 						<span>Pricing</span>
 					</a>
 				</div>
@@ -209,13 +209,13 @@
 						<img class="arrow" src="img/common/arrow-3.svg" alt="">
 					</a>
 					<div class="container-el">
-						<a class="el" href="./helpFAQ-1.php">
+						<a class="el" href="helps">
 							<h3>Help Center</h3>
 						</a>
 						<a class="el" href="./contact.php">
 							<h3>Contact Us</h3>
 						</a>
-						<a class="el" href="./product-shopify.php">
+						<a class="el" href="shopify">
 							<h3>API Docs</h3>
 						</a>
 					</div>

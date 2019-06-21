@@ -153,7 +153,7 @@
                   </li>
                 </ul>
                 <div class="container-button elAnim__slide anim__delayMedium_5">
-                  <a href="./product-web-calls.php">
+                  <a href="web-calls">
                     <span class="btn-text">Explore it now</span>
                   </a>
                 </div>
@@ -198,7 +198,7 @@
                   </li>
                 </ul>
                 <div class="container-button elAnim__slide anim__delayMedium_6">
-                  <a href="./product-smart-voice-support.php">
+                  <a href="smart-voice-support">
                     <span class="btn-text">Explore it now</span>
                   </a>
                 </div>
@@ -246,7 +246,7 @@
 
                 </ul>
                 <div class="container-button elAnim__slide anim__delayMedium_7">
-                  <a href="./product-customer-data-in-call.php">
+                  <a href="customer-data-in-calls">
                     <span class="btn-text">Explore it now</span>
                   </a>
                 </div>
@@ -306,7 +306,7 @@
                   </div>
 
                   <!--div class="container-button">
-                    <a href="./customers-azimo.php">
+                    <a href="customers-azimo">
                       <span class="btn-text">Read their story</span>
                     </a>
                   </div-->
@@ -350,7 +350,7 @@
                   </div>
 
                   <div class="container-button">
-                    <a href="./customers-azimo.php">
+                    <a href="customers-azimo">
                       <span class="btn-text">Read their story</span>
                     </a>
                   </div>

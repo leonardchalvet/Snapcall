@@ -571,7 +571,7 @@
 							</div>
 							<div class="content">
 								<p>
-									You can check our <a href="./helpFAQ-1.php">Help Center</a> to clarify any specific questions you may have. Otherwise you can always call us using the SnapCall button or send us an email to <a href="mailto:hello@snapcall.io">hello@snapcall.io</a>.
+									You can check our <a href="helps">Help Center</a> to clarify any specific questions you may have. Otherwise you can always call us using the SnapCall button or send us an email to <a href="mailto:hello@snapcall.io">hello@snapcall.io</a>.
 								</p>
 							</div>
 						</div>

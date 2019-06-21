@@ -306,7 +306,7 @@
 									<div class="container-nav"></div>
 
 									<div class="container-button">
-										<a href="./customers-azimo.php">
+										<a href="customers-azimo">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>

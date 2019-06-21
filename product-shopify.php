@@ -78,7 +78,7 @@
 									Keep your customers engaged on their shopping experience when placing calls.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="./product-web-calls.php">
+									<a href="web-calls">
 										<span class="btn-text">Explore Web Calls</span>
 									</a>
 								</div>
@@ -131,7 +131,7 @@
 									</li>
 								</ul>
 								<div class="container-button elAnim__slide anim__delayMedium_6">
-									<a href="./product-smart-voice-support.php">
+									<a href="smart-voice-support">
 										<span class="btn-text">Explore Smart Voice Support</span>
 									</a>
 								</div>
@@ -150,7 +150,7 @@
 									Switch on and off your call buttons according to your preferences and availability.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="./product-smart-voice-support.php">
+									<a href="smart-voice-support">
 										<span class="btn-text">Explore Smart Voice Support</span>
 									</a>
 								</div>
@@ -188,7 +188,7 @@
 									</li>
 								</ul>
 								<div class="container-button elAnim__slide anim__delayMedium_4">
-									<a href="./product-data-analytics.php">
+									<a href="data-analytics">
 										<span class="btn-text">Explore Data & Analytics</span>
 									</a>
 								</div>
