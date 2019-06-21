@@ -18,7 +18,7 @@
 		<link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#4cd964">
 		<meta name="msapplication-TileColor" content="#2d89ef">
 		<meta name="theme-color" content="#ffffff">
-		
+
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
@@ -133,7 +133,7 @@
 									ENTERPRISE
 								</h5>
 								<div class="price" data-value="eur" data-price-eur-month="1119€"
-                                    data-price-usd-month="$1119" data-price-eur-year="999€"
+                                    data-price-usd-month="$1199" data-price-eur-year="999€"
                                     data-price-usd-year="$1119">
 									1119€
 								</div>
@@ -571,7 +571,7 @@
 							</div>
 							<div class="content">
 								<p>
-									You can check our Help Center to clarify any specific questions you may have. Otherwise you can always call us using the SnapCall button or send us an email to <a href="mailto:hello@snapcall.io">hello@snapcall.io</a>.
+									You can check our <a href="./helpFAQ-1.php">Help Center</a> to clarify any specific questions you may have. Otherwise you can always call us using the SnapCall button or send us an email to <a href="mailto:hello@snapcall.io">hello@snapcall.io</a>.
 								</p>
 							</div>
 						</div>

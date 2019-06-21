@@ -18,7 +18,7 @@
 		<link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#4cd964">
 		<meta name="msapplication-TileColor" content="#2d89ef">
 		<meta name="theme-color" content="#ffffff">
-		
+
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
@@ -192,7 +192,7 @@
 									Be close to your customers without having to buy phone numbers in each country.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="./product-web-calls">
+									<a href="./product-web-calls.php">
 										<span class="btn-text">Explore Web Calls</span>
 									</a>
 								</div>
@@ -230,7 +230,7 @@
 									Connecting to the right agent is as simple as a click. Deliver an outstanding customer experience and improve your NPS.
 								</p>
 								<div class="container-button elAnim__slide anim__delayMedium_2">
-									<a href="./product-web-calls">
+									<a href="./product-web-calls.php">
 										<span class="btn-text">Explore Web Calls</span>
 									</a>
 								</div>

@@ -18,7 +18,7 @@
 		<link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#4cd964">
 		<meta name="msapplication-TileColor" content="#2d89ef">
 		<meta name="theme-color" content="#ffffff">
-		
+
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
@@ -152,7 +152,7 @@
 							<div class="content">
 
 								<div class="container-pr">
-									<div class="pp" style="background-image: url(img/product/section-quotes/user-3.jpg);"></div>
+									<div class="pp" style="background-image: url(img/product/section-quotes/user-1.jpg);"></div>
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
@@ -197,7 +197,7 @@
 							<div class="content">
 
 								<div class="container-pr">
-									<div class="pp" style="background-image: url(img/img-test/user.jpg);"></div>
+									<div class="pp" style="background-image: url(img/product/section-quotes/user-3.jpg);"></div>
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
@@ -219,11 +219,11 @@
 										</div>
 									</div>
 
-									<div class="container-button">
-										<a href="./customers-azimo.php">
+									<!--div class="container-button">
+										<a href="">
 											<span class="btn-text">Read their story</span>
 										</a>
-									</div>
+									</div-->
 
 								</div>
 							</div>
@@ -240,7 +240,7 @@
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_1">Enable swift connections and warm conversations.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="" class="cm-button-style1">
+							<a href="https://register.snapcall.io" class="cm-button-style1">
 								<span class="btn-text">Start Now</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">

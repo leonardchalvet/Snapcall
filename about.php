@@ -314,7 +314,7 @@
 							Sounds like we are building something cool ?
 						</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="https://register.snapcall.io" class="cm-button-style1">
+							<a href="https://jobs.stationf.co/companies/snapcall-2" class="cm-button-style1">
 								<span class="btn-text">Check open positions</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">

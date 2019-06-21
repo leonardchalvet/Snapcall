@@ -305,11 +305,11 @@
                     </div>
                   </div>
 
-                  <div class="container-button">
+                  <!--div class="container-button">
                     <a href="./customers-azimo.php">
                       <span class="btn-text">Read their story</span>
                     </a>
-                  </div>
+                  </div-->
 
                 </div>
               </div>

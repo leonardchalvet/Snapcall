@@ -18,7 +18,7 @@
 		<link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#4cd964">
 		<meta name="msapplication-TileColor" content="#2d89ef">
 		<meta name="theme-color" content="#ffffff">
-		
+
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
@@ -226,11 +226,11 @@
 
 									</div>
 
-									<div class="container-button">
+									<!--div class="container-button">
 										<a href="./customers-azimo.php">
 											<span class="btn-text">Read their story</span>
 										</a>
-									</div>
+									</div-->
 
 								</div>
 							</div>

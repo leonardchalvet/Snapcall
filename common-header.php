@@ -25,7 +25,7 @@
 					<span>Support</span>
 					<img src="img/common/arrow-3.svg" alt="">
 				</a>
-				
+
 			</li>
 		</ul>
 		<div class="container-action">
@@ -49,26 +49,26 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-customer-data-in-call.php">
-						<h4>Customers Data in Calls.</h4>
-						<p>
-							Receive valuable data when picking up calls.
-						</p>
-					</a>
-				</li>
-				<li>
-					<a href="./product-call-recording.php">
-						<h4>Call Recording.</h4>
-						<p>
-							Recordings off all interactions in real-time.
-						</p>
-					</a>
-				</li>
-				<li>
 					<a href="./product-web-calls.php">
 						<h4>Web Calls.</h4>
 						<p>
 							Allow customers to launch calls from any platform.
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="./product-zendesk.php">
+						<h4>Zendesk.</h4>
+						<p>
+							Smart voice for your Zendesk support.
+						</p>
+					</a>
+				</li>
+				<li>
+					<a href="./product-customer-data-in-call.php">
+						<h4>Customers Data in Calls.</h4>
+						<p>
+							Receive valuable data when picking up calls.
 						</p>
 					</a>
 				</li>
@@ -89,6 +89,14 @@
 					</a>
 				</li>
 				<li>
+					<a href="./product-call-recording.php">
+						<h4>Call Recording.</h4>
+						<p>
+							Recordings off all interactions in real-time.
+						</p>
+					</a>
+				</li>
+				<li>
 					<a href="./product-data-analytics.php">
 						<h4>Data & Analytics.</h4>
 						<p>
@@ -96,17 +104,6 @@
 						</p>
 					</a>
 				</li>
-				
-				<li>
-					<a href="./product-zendesk.php">
-						<h4>Zendesk.</h4>
-						<p>
-							Smart voice for your Zendesk support.
-						</p>
-					</a>
-				</li>
-				
-				
 			</ul>
 		</div>
 	</div>
@@ -117,7 +114,7 @@
 					<a href="./helpFAQ-1.php">
 						<h4>Help Center</h4>
 						<p>
-							Find all your answers an our knowledge base.
+							Find all your answers on our knowledge base.
 						</p>
 					</a>
 				</li>
@@ -130,7 +127,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="./product-shopify.php">
+					<a href="https://doc.snapcall.io">
 						<h4>API Docs</h4>
 						<p>
 							Use our API to integrate SnapCall with other solutions.

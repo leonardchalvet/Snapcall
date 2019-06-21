@@ -327,12 +327,9 @@
 								SnapCall button gets only displayed according to the frequency and value of their transactions
 							</p>
 							<div class="pres">
-								<img src="img/customers-azimo/blog-section-pres-2-img-2.png" alt="">
-							</div>
-							<div class="pres">
 								<img src="img/customers-azimo/blog-section-pres-2-img-1.png" alt="">
 							</div>
-							
+
 						</section>
 
 						<section class="blog-section-quotes blog-section-quotes-2">
@@ -392,7 +389,7 @@
 								Our agents are able to address customers on personal level, greeting them by their own name and having a good idea of why they are calling for, even before picking up the call. This makes calls much more efficient, having all the context and the right information at the right time.
 							</q>
 							<div class="pres">
-								<img src="img/customers-azimo/blog-section-pres-2-img-5.png" alt="">
+								<img src="img/customers-azimo/blog-section-pres-2-img-6.png" alt="">
 								<p>
 									Agents receive calls with some data about the customer and their web session on their zendesk support platform. Having access to the customer’s ticket history and information.
 								</p>
@@ -407,7 +404,7 @@
 								SnapCall facilitates for customers outside Europe to reach to us. Initiating a call is as easy and effortless as initiating a chat.
 							</q>
 							<div class="pres">
-								<img src="img/customers-azimo/blog-section-pres-2-img-6.png" alt="">
+								<img src="img/customers-azimo/blog-section-pres-2-img-1.png" alt="">
 								<p>
 									Azimo’s customers can launch free calls from anywhere in the world just having wifi connection. It’s as simple as one click.
 								</p>
@@ -419,7 +416,7 @@
 								What’s coming next.
 							</h2>
 							<p>
-								Azimo and SnapCall is an ongoing partnership fueled by the same purpose and mission: <span>provide an impeccable customer experience,</span> the one you really enjoy!
+								Azimo and SnapCall is an ongoing partnership fueled by the same purpose and mission: provide an impeccable customer experience, the one you really enjoy!
 							</p>
 						</section>
 
@@ -543,7 +540,7 @@
 				</div>
 			</section>
 			-->
-			
+
 			<section id="cm-section-banner" class="sectionAnim_container">
 				<img class="bg-desktop-medium elAnim__fade anim__delayMedium_0" src="img/common/cm-section-banner-bg-medium.svg" alt="">
 				<img class="bg-desktop-big elAnim__fade anim__delayMedium_0" src="img/common/cm-section-banner-bg-big.svg" alt="">

@@ -22,12 +22,12 @@
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
-		<?php 
-			include('common-header.php'); 
-		?> 
+		<?php
+			include('common-header.php');
+		?>
 
 		<main>
 
@@ -42,7 +42,7 @@
 						</span>
 					</h1>
 					<p>
-						Questions? Comments? Bug reporting? Ideas? Or just to say Hi… 
+						Questions? Comments? Bug reporting? Ideas? Or just to say Hi…
 						<br>We are always here.
 					</p>
 				</div>
@@ -66,10 +66,10 @@
 									Please write a name
 								</div>
 							</div>
-							<div class="container-input">	
-								<input type="text" name="compagny" placeholder="Compagny">
+							<div class="container-input">
+								<input type="text" name="company" placeholder="Company">
 								<div class="message-error">
-									Please write a compagny
+									Please write a company
 								</div>
 							</div>
 							<div class="container-input">

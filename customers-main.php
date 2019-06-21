@@ -18,7 +18,7 @@
 		<link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#4cd964">
 		<meta name="msapplication-TileColor" content="#2d89ef">
 		<meta name="theme-color" content="#ffffff">
-		
+
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 		<script type="text/javascript" src="script/minify/bodymovin-min.js"></script>
@@ -96,11 +96,11 @@
 								<div class="container-action">
 									<div class="container-nav"></div>
 
-									<div class="container-button">
+									<!--div class="container-button">
 										<a href="">
 											<span class="btn-text">Read their story</span>
 										</a>
-									</div>
+									</div-->
 
 								</div>
 							</div>
@@ -175,7 +175,7 @@
 				</div>
 			</section>
 			-->
-			
+
 			<section id="section-platforms" class="sectionAnim_container">
 				<div class="wrapper">
 					<div class="container-text">
@@ -294,7 +294,7 @@
 									<div class="text">
 										<img class="icn" src="img/common/icn-quote-white.svg" alt="">
 										<q class="wrapLine">
-											SnapCall has become the <i>core of our phone support operation</i>. We plan to continue rolling-out support in new languages and to different segments of customers in the future. 
+											SnapCall has become the <i>core of our phone support operation</i>. We plan to continue rolling-out support in new languages and to different segments of customers in the future.
 										</q>
 									</div>
 								</div>
