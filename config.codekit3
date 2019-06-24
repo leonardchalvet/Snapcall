@@ -261,12 +261,12 @@
 		"oAP": "/composer.lock",
 		"oF": 0
 		},
-	"contact": {
+	"/contact.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "contact",
+		"oAP": "/contact.php",
 		"oF": 0
 		},
 	"/CONTRIBUTING.md": {

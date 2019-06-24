@@ -212,10 +212,10 @@
 						<a class="el" href="helps">
 							<h3>Help Center</h3>
 						</a>
-						<a class="el" href="./contact.php">
+						<a class="el" href="contact">
 							<h3>Contact Us</h3>
 						</a>
-						<a class="el" href="shopify">
+						<a class="el" href="https://doc.snapcall.io">
 							<h3>API Docs</h3>
 						</a>
 					</div>

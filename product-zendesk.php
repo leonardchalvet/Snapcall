@@ -346,7 +346,7 @@
 									</div>
 
 									<div class="container-button">
-										<a href="customers-azimo">
+										<a href="customersAzimo">
 											<span class="btn-text">Read their story</span>
 										</a>
 									</div>

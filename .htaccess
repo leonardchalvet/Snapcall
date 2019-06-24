@@ -7,7 +7,7 @@ RewriteRule ^(.*)$ https://snapcall.io/ [R=301,L]
 #REDIRECTION PAGE
 RewriteRule ^pricing tarifs.php
 RewriteRule ^customers customers-main.php
-RewriteRule ^customers-azimo customers-azimo.php
+RewriteRule ^customersAzimo customers-azimo.php
 RewriteRule ^about about.php
 RewriteRule ^terms terms.php
 RewriteRule ^helps helpFAQ-1.php
