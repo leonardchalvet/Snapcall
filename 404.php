@@ -22,7 +22,7 @@
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
 		<?php include('common-header.php') ?>
@@ -42,7 +42,7 @@
 							Page not found. But it could be worse. For example a bad call...
 						</p>
 						<div class="container-button">
-							<a href="" class="cm-button-style1">
+							<a href="./" class="cm-button-style1">
 								<span class="btn-text">Go to HomePage</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
