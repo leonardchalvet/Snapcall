@@ -27,4 +27,4 @@ RewriteRule ^zendesk product-zendesk.php
 
 #REDIRECTION PAGE 404
 RewriteRule ^404 404.php
-ErrorDocument 404 /404
+ErrorDocument 404 404
