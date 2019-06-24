@@ -11,7 +11,7 @@
 				</a>
 			</li>
 			<li>
-				<a href="customers">
+				<a href="customersMain">
 					<span>Customers</span>
 				</a>
 			</li>
@@ -192,7 +192,7 @@
 					</div>
 				</div>
 				<div class="link">
-					<a href="customers-main">
+					<a href="customersMain">
 						<span>Customers</span>
 					</a>
 				</div>

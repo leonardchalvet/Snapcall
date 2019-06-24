@@ -20,7 +20,7 @@
 			<div class="col">
 				<ul>
 					<li>About</li>
-					<li><a href="customers">Customers</a></li>
+					<li><a href="customersMain">Customers</a></li>
 					<li><a href="about">Company</a></li>
 					<li><a href="https://blog.snapcall.io">Blog</a></li>
 					<li><a href="https://jobs.stationf.co/companies/snapcall-2">Careers</a></li>
