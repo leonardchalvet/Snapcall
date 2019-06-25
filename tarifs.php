@@ -435,48 +435,48 @@
 
 							</div>
 							<div class="cell">
-								<a href="https://register.snapcall.io" class="button">
+								<a href="https://admin.snapcall.io/register" class="button">
 									<span class="btn-text">
 										Start Free Trial
 									</span>
 								</a>
-								<a href="https://register.snapcall.io" class="link">
+								<a href="https://admin.snapcall.io/register" class="link">
 									<span class="btn-text">
 										Purchase Now
 									</span>
 								</a>
 							</div>
 							<div class="cell">
-								<a href="https://register.snapcall.io" class="button">
+								<a href="https://admin.snapcall.io/register" class="button">
 									<span class="btn-text">
 										Start Free Trial
 									</span>
 								</a>
-								<a href="https://register.snapcall.io" class="link">
+								<a href="https://admin.snapcall.io/register" class="link">
 									<span class="btn-text">
 										Purchase Now
 									</span>
 								</a>
 							</div>
 							<div class="cell">
-								<a href="https://register.snapcall.io" class="button">
+								<a href="https://admin.snapcall.io/register" class="button">
 									<span class="btn-text">
 										Start Free Trial
 									</span>
 								</a>
-								<a href="https://register.snapcall.io" class="link">
+								<a href="https://admin.snapcall.io/register" class="link">
 									<span class="btn-text">
 										Purchase Now
 									</span>
 								</a>
 							</div>
 							<div class="cell">
-								<a href="https://register.snapcall.io" class="button">
+								<a href="https://admin.snapcall.io/register" class="button">
 									<span class="btn-text">
 										Contact Us
 									</span>
 								</a>
-								<a href="https://register.snapcall.io" class="link">
+								<a href="https://admin.snapcall.io/register" class="link">
 									<span class="btn-text">
 										Purchase Now
 									</span>

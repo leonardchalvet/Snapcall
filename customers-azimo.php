@@ -52,7 +52,7 @@
 							Discover how Azimo pivoted its phone support and focused it on high value customers only.
 						</p>
 						<div class="container-button">
-							<a href="https://register.snapcall.io" class="cm-button-style1">
+							<a href="https://admin.snapcall.io/register" class="cm-button-style1">
 								<span class="btn-text">Start Free Trial</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -177,7 +177,7 @@
 								</h5>
 							</div>
 						</div>
-						<a href="https://register.snapcall.io" class="cm-button-style1">
+						<a href="https://admin.snapcall.io/register" class="cm-button-style1">
 							<span class="btn-text">Start your trial</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -549,7 +549,7 @@
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_1">Join the wave of smart voice support.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="https://register.snapcall.io" class="cm-button-style1">
+							<a href="https://admin.snapcall.io/register" class="cm-button-style1">
 								<span class="btn-text">Get Started</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">

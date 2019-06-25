@@ -32,7 +32,7 @@
 			<a class="signin" href="https://admin.snapcall.io">
 				Login
 			</a>
-			<a class="signup" href="https://register.snapcall.io">
+			<a class="signup" href="https://admin.snapcall.io/register">
 				<span class="btn-text">Try it free</span>
 			</a>
 		</div>
@@ -222,7 +222,7 @@
 				</div>
 			</div>
 			<div class="container-action">
-				<a class="signin" href="https://register.snapcall.io">
+				<a class="signin" href="https://admin.snapcall.io/register">
 					<span class="btn-text">Try it free</span>
 				</a>
 				<a class="signup" href="https://admin.snapcall.io">

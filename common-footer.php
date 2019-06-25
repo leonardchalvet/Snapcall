@@ -57,7 +57,7 @@
 				<ul>
 					<li>Try SnapCall</li>
 					<li><a href="pricing">Pricing</a></li>
-					<a class="button" href="https://register.snapcall.io">
+					<a class="button" href="https://admin.snapcall.io/register">
 						<span class="btn-text">
 							Try it free
 						</span>

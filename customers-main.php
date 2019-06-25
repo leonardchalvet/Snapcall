@@ -52,7 +52,7 @@
 							Startups, unicorns and enterprise companies are transforming their customer relationships with voice.
 						</p>
 						<div class="container-button">
-							<a href="https://register.snapcall.io" class="cm-button-style1">
+							<a href="https://admin.snapcall.io/register" class="cm-button-style1">
 								<span class="btn-text">Start Free Trial</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">

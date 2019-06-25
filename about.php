@@ -47,7 +47,7 @@
 							We believe in the power of voice, warm conversations and snap connections.
 						</p>
 						<div class="container-button">
-							<a href="https://register.snapcall.io" class="cm-button-style1">
+							<a href="https://admin.snapcall.io/register" class="cm-button-style1">
 								<span class="btn-text">Join our Team</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">

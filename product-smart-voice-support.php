@@ -46,7 +46,7 @@
 					</div>
 					<div class="container-action">
 						<div class="line"></div>
-						<a href="https://register.snapcall.io" class="cm-button-style1 elAnim__slide anim__delayMedium_5">
+						<a href="https://admin.snapcall.io/register" class="cm-button-style1 elAnim__slide anim__delayMedium_5">
 							<span class="btn-text">Start Now</span>
 							<span class="container-btn-arrow">
 								<svg class="btn-arrow" viewBox="0 0 23 22">
@@ -326,7 +326,7 @@
 					<div class="container-text">
 						<h2 class="elAnim__slide anim__delayMedium_1">Super power your phone support.</h2>
 						<div class="container-button elAnim__slide anim__delayMedium_2">
-							<a href="https://register.snapcall.io" class="cm-button-style1">
+							<a href="https://admin.snapcall.io/register" class="cm-button-style1">
 								<span class="btn-text">Start Now</span>
 								<span class="container-btn-arrow">
 									<svg class="btn-arrow" viewBox="0 0 23 22">
