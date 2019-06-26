@@ -62,7 +62,7 @@ $(window).on('load', function() {
 		$.each(result, function(i, f){
 			if(i == 'categories'){
 				$.each(f, function(k, t){
-					let html = '<a href="helpsSub?id=' + f[k]['id'] + '&pos=' + k + '" class="el">' +
+					let html = '<a href="sections?id=' + f[k]['id'] + '&pos=' + k + '" class="el">' +
 								   '<div class="icn">' +
 								      '<img src="img/help/icn/icn-' + k + '.svg">' +
 								   '</div>' +

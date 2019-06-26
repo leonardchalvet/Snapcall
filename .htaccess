@@ -11,7 +11,7 @@ RewriteRule ^customersAzimo customers-azimo.php
 RewriteRule ^about about.php
 RewriteRule ^terms terms.php
 RewriteRule ^helps helpFAQ-1.php
-RewriteRule ^helpsSub helpFAQ-2.php
+RewriteRule ^sections helpFAQ-2.php
 RewriteRule ^articles helpFAQ-3.php
 RewriteRule ^contact contact.php
 

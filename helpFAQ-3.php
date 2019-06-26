@@ -129,7 +129,7 @@ $(window).on('load', function() {
 
 			$('#section-head .container-title').append(text);
 			$('#section-head .container-path a:nth-child(3)').append(f['name']);
-			$('#section-head .container-path a:nth-child(3)').attr('href', 'helpsSub?id=' + f['id'] + '&pos=' + pos);
+			$('#section-head .container-path a:nth-child(3)').attr('href', 'sections?id=' + f['id'] + '&pos=' + pos);
 		});
 	});
 
