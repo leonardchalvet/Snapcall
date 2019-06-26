@@ -18,11 +18,11 @@
 		<link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#4cd964">
 		<meta name="msapplication-TileColor" content="#2d89ef">
 		<meta name="theme-color" content="#ffffff">
-		
+
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
 		<?php include('common-header.php') ?>
@@ -34,7 +34,7 @@
 					<div class="container-title"></div>
 					<div class="container-categorie">
 						<div class="path">
-							<a href="helpFAQ-1.php">Help Center</a>
+							<a href="helps">Help Center</a>
 							<img src="img/help/arrow.svg">
 							<a></a>
 						</div>
@@ -42,7 +42,7 @@
 					</div>
 				</div>
 			</section>
-			
+
 		</main>
 
 		<?php include('common-footer.php') ?>
@@ -54,7 +54,7 @@
 </html>
 
 <script type="text/javascript">
-	
+
 $(window).on('load', function() {
 
 	let urlParam = function(name){
@@ -101,7 +101,7 @@ $(window).on('load', function() {
 						$.each(question, function(j, q){
 							if(j == 'articles'){
 								$.each(q, function(l, rq){
-									text += '<li><a href=helpFAQ-3.php?idC=' + id + '&idS=' + f[k]['id'] + '&idA=' + q[l]['id'] + '&pos=' + pos + '>' + q[l]['name'] + '</a></li>';
+									text += '<li><a href=articles?idC=' + id + '&idS=' + f[k]['id'] + '&idA=' + q[l]['id'] + '&pos=' + pos + '>' + q[l]['name'] + '</a></li>';
 								});
 							}
 						});

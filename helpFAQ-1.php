@@ -18,11 +18,11 @@
 		<link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#4cd964">
 		<meta name="msapplication-TileColor" content="#2d89ef">
 		<meta name="theme-color" content="#ffffff">
-		
+
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
 		<?php include('common-header.php') ?>
@@ -55,14 +55,14 @@
 </html>
 
 <script type="text/javascript">
-	
+
 $(window).on('load', function() {
 
 	$.getJSON("https://snapcall.zendesk.com/api/v2/help_center/en-us/categories.json", function(result){
 		$.each(result, function(i, f){
 			if(i == 'categories'){
 				$.each(f, function(k, t){
-					let html = '<a href="helpFAQ-2.php?id=' + f[k]['id'] + '&pos=' + k + '" class="el">' +
+					let html = '<a href="helpsSub?id=' + f[k]['id'] + '&pos=' + k + '" class="el">' +
 								   '<div class="icn">' +
 								      '<img src="img/help/icn/icn-' + k + '.svg">' +
 								   '</div>' +

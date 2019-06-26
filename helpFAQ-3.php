@@ -20,11 +20,11 @@
 		<link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#4cd964">
 		<meta name="msapplication-TileColor" content="#2d89ef">
 		<meta name="theme-color" content="#ffffff">
-		
+
 		<script type="text/javascript" src="script/minify/jQuery.3.3.1-min.js"></script>
 
 	</head>
-	
+
 	<body>
 
 		<?php include('common-header.php') ?>
@@ -60,10 +60,10 @@
 			<section id="section-head">
 				<div class="wrapper">
 					<div class="container-title">
-						
+
 					</div>
 					<div class="container-path">
-						<a href="helpFAQ-1.php">Help Center</a>
+						<a href="helps">Help Center</a>
 						<img src="img/help/arrow-2.svg">
 						<a href="#"></a>
 						<img src="img/help/arrow-2.svg">
@@ -79,16 +79,16 @@
 					<div class="container-list">
 						<h3>Others questions.</h3>
 						<ul>
-							
+
 						</ul>
 					</div>
 					<div class="container-wysiwyg">
-						
+
 					</div>
 				</div>
 			</section>
 
-			
+
 		</main>
 
 		<?php include('common-footer.php') ?>
@@ -98,7 +98,7 @@
 </html>
 
 <script type="text/javascript">
-	
+
 $(window).on('load', function() {
 
 	let urlParam = function(name){
@@ -129,7 +129,7 @@ $(window).on('load', function() {
 
 			$('#section-head .container-title').append(text);
 			$('#section-head .container-path a:nth-child(3)').append(f['name']);
-			$('#section-head .container-path a:nth-child(3)').attr('href', 'helpFAQ-2.php?id=' + f['id'] + '&pos=' + pos);
+			$('#section-head .container-path a:nth-child(3)').attr('href', 'helpsSub?id=' + f['id'] + '&pos=' + pos);
 		});
 	});
 
@@ -143,8 +143,8 @@ $(window).on('load', function() {
 		$.each(result, function(i, f){
 			if(i == 'articles'){
 				$.each(f, function(j, t){
-					
-					let text = '<li><a href="helpFAQ-3.php?idC=' + idC + '&idS=' + idS + '&idA=' + f[j]['id'] + '&pos=' + pos + '">' + f[j]['name'] + '</a></li>';
+
+					let text = '<li><a href="articles?idC=' + idC + '&idS=' + idS + '&idA=' + f[j]['id'] + '&pos=' + pos + '">' + f[j]['name'] + '</a></li>';
 
 					$('#section-post .container-list ul').append(text);
 				});
@@ -161,7 +161,7 @@ $(window).on('load', function() {
 
 			$('#section-post .container-wysiwyg').append(text);
 		});
-	});	
+	});
 
 });
 
