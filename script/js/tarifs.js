@@ -2,6 +2,7 @@ $(window).on('load', function() {
 
 	setTimeout(function(){ 
 		$('#section-cover').addClass('ready');
+		$('#section-table').addClass('reach');
 
 	}, 100);
 
