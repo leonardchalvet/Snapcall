@@ -55,15 +55,18 @@ $(window).on('load', function() {
 
 	$('#section-table .container-action .container-money .dropdown .money').click(function(){
 		
+		if($('#section-table .container-action .container-date').hasClass('left')) {
+			$('#section-table .container-action .container-date').click();
+		}
 
 		$('#section-table .container-table .head .cell .price').attr('data-value', $(this).attr('data-price'));
 
-		$('#section-table .container-table .head .cell p').removeClass('year');
-		$('#section-table .container-table .head .cell p').addClass('month');
+		$('#section-table .container-table .head .cell p').removeClass('month');
+		$('#section-table .container-table .head .cell p').addClass('year');
 
 		$('#section-table .container-table .head .cell .price').each(function(i){
 			let price = $(this).attr('data-value');
-			let nb = $(this).attr('data-price-' + price + '-month');
+			let nb = $(this).attr('data-price-' + price + '-year');
 			$(this).text(nb);
 		})
 
